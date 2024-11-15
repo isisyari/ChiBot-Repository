@@ -1,0 +1,17 @@
+name: JSON Validation
+on: [push]
+jobs:
+  verify-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Validate JSON
+        run: |
+          for file in $(find . -name "*.json"); do
+            if jq empty "$file"; then
+              echo "$file is valid"
+            else
+              echo "$file is invalid"
+              exit 1
+            fi
+          done
