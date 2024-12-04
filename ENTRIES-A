@@ -49,3 +49,42 @@
   } 
 
 } 
+
+{
+  "Title": "(AIDS) Acquired Immune Deficiency Syndrome",
+  "Descriptive Text": "In Chicago, AIDS has affected primarily men who have sex with men, men and women using needle-injected drugs, people in heterosexual relations in which one partner is already infected, people receiving tainted transfusions, and the children of infected mothers. In 1999, Chicago ranked sixth in AIDS cases among metropolitan areas in the United States...",
+  "Bibliography": ["Adelman, Mara B. The Fragile Community: Living together with AIDS. 1997.", "Department of Public Health. An Epidemiologic Profile of HIV/AIDS in Chicago. 1995.", "Murphy, Timothy F. Ethics in an Epidemic: AIDS, Morality, and Culture. 1994."],
+  "Author of Text": "Timothy F. Murphy",
+  "Hyperlinked Terms Associated": "drugs| Cook County Hospital| Near West Side| gay| Public Health| theaters| literary culture",
+  "neighborhood names associated": "Near West Side |Lakeview| Loop | Andersonville| Edgewater"
+}
+
+{
+  "Title": "American Airlines, Inc.",
+  "Descriptive Text": "American Airlines has never been based in Chicago, but by the late twentieth century, it had become a leading employer in the region. In 1930 several small companies merged to form the American Airways Co., based in New York; it became American Airlines four years later...",
+  "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff.",
+  "Author of Text": "Mark R. Wilson, et al.",
+  "Hyperlinked Terms Associated": "None"
+}
+
+{
+  "Title": "Air Quality",
+  "Descriptive Text": "Like most large cities, Chicago has a history of poor air quality. As it industrialized, Chicago relied on the dirty soft coal of southern Illinois for power and heat. Burned in boiler rooms, locomotives, steel mills, and domestic furnaces, the ubiquitous coal created an equally ubiquitous smoke. Soot soiled everything in the city, ruining furniture, merchandise, and even building facades. Chicago legislated against dense smoke in 1881, but residents and visitors continued to complain about choking clouds and filthy soot. In addition to smoke, the numerous industries surrounding the slaughterhouses produced foul odors and dangerous chemical emissions, further diminishing air quality. Undoubtedly the poor air increased the severity of several pulmonary diseases, including asthma and pneumonia. Perhaps second only to Pittsburgh in smoke pollution at the opening of the twentieth century, Chicago gained a national reputation for its terrible air, but it also became a leader in regulation. In the early 1900s, a movement to force railroad electrification focused on the Illinois Central's waterfront line and kept the smoke issue in the news. Still, air quality did not significantly improve until coal use began to decline after World War II. In 1959 the city created the Department of Air Pollution Control. The new department investigated all types of emissions and suggested regulations for several previously ignored sources of pollution, including burning refuse and leaves. Public concern for air quality heightened after a 1962 disaster killed hundreds of London residents, and by 1964 Chicago received more than six thousand citizen air pollution complaints per year. As with the early movement to control smoke, the new activism focused on the potential negative health effects of impure air. Not surprisingly, the Loop, the Calumet Region, and northern Lake County, Indiana, were the most polluted districts in the metropolitan area. In 1967 the U.S. Public Health Service determined that only New York City's air was more polluted than Chicago's. Impelled by citizen activism and new federal regulations in the 1970s, the city attempted to control the largest polluters, including the massive South Works steel plant. Even as these efforts began to reap benefits, however, the continuing suburbanization and auto dependence of the metropolitan area meant that auto emissions would plague the city for decades to come. By the 1990s, a decline in heavy industry and effective regulation of auto emissions combined to significantly improve Chicago's air. Chicago no longer ranked among the nation's most heavily polluted cities.",
+  "Bibliography": ["Air Management. Chicago: Department of Air Pollution Control, 1962–1968.", "Rosen, Christine Meisner. \"Businessmen against Pollution in Late Nineteenth Century Chicago.\" Business History Review 69 (Autumn 1995): 351–397.", "Stradling, David. Smokestacks and Progressives: Environmentalists, Engineers, and Air Quality in America, 1883–1953. 1999."],
+  "Author of Text": "David Stradling",
+  "Hyperlinked Terms Associated": "Loop| Calumet Region| Lake County, Indiana| chemical| coal",
+  "neighborhood names associated": "Loop| South Chicago"
+}
+
+{
+  "Title": "Art, Public",
+  "Descriptive Text": "Chicago is known for its public sculpture, though it also has a rich tradition in murals and other forms of decoration of public spaces. The first forms were the panoramas and cycloramas that were painted and exhibited before being sent on the road, starting in the late 1850s, but the earliest surviving works are two sculptures by Chicagoan Leonard W. Volk, a Volunteer Fire Fighters' Monument (1864) and Our Heroes (1869), the Rosehill Cemetery monument to the slain Union forces...",
+  "Bibliography": [
+    "Bach, Ira J., and Mary Lackritz Gray. Chicago's Public Sculpture. 1983.",
+    "Chicago Council on Fine Arts. Guide to Chicago Murals: Yesterday and Today. 1978.",
+    "Riedy, James L. Chicago Sculpture. 1981."
+  ],
+  "Author of Text": "David M. Sokol",
+  "Hyperlinked Terms Associated": "Fire Fighters| Cemetery| Fire of 1871| Lincoln Park| World's Columbian Exposition| Park District| University of Chicago| World War I| Fort Dearborn| Lorado Taft's| Adler Planetarium| University of Illinois at Chicago| Great Depression| Federal Art Project| schools| hospitals| Oak Park| Uptown| African American",
+  "neighborhood names associated": "Loop| Lincoln Park| South Park District| University of Chicago| Midway Gardens| University of Illinois at Chicago| Oak Park| Uptown| Daley Plaza"
+}
