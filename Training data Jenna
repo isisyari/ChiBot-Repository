@@ -1,1 +1,45 @@
+ENTRY-B2- "Back of the Yards Neighborhood Council
+
+
+{
+  "title": "Back of the Yards Neighborhood Council",
+  "descriptiveText": "The Back of the Yards Neighborhood Council (BYNC) is one of the oldest community organizations in America still functioning. Founded in New City on the Near South Side in 1939 by Saul Alinsky and Joseph Meegan, the council was dedicated to their motto, \"We the people will work out our own destiny.\" The BYNC set the pattern for what is known as the Alinsky school of organizing. An outside organizer would work with local leaders to create a democratic organization where people could express their needs and fears, and gain improvements in their conditions via direct action. Membership in the council was based on organizations, rather than individuals, thus using the neighborhood's existing social institutions. The initial efforts of the council centered around basic organization and economic justice. Overcoming nationalistic hatreds in this ethnically diverse community, they managed to join the Roman Catholic Church and radical labor unions in common cause. In the 1950s the council turned to neighborhood conservation. They pressured local banks to release funds for mortgages and building upgrades; in the first year alone there were 560 home-improvement loans in this local area. Between 1953 and 1963, the council fostered the rehabilitation of 90 percent of the community's housing stock. In 1981, Meegan resigned as executive secretary after 42 years of leadership, and was succeeded by Patrick Salmon. Since then, the council has concentrated on economic development and employment, assisting, for example, in the opening of Damen Yards Plaza, and helping to direct jobs toward local residents, who were increasingly Mexican and African American.",
+  "bibliography": "Horwitt, Sanford. Let Them Call Me Rebel. 1989.\nJablonsky, Thomas J. Pride in the Jungle: Community and Everyday Life in Back of the Yards Chicago. 1993.\nSlayton, Robert. Back of the Yards. 1986.",
+  "authorOfText": "Robert Slayton",
+  "hyperlinkedTermsAssociated": "Roman Catholic| housing| Mexican| African American",
+  "neighborhoodNamesAssociated": "New City"
+}
+
+
+ENTRY -B3 - "Bahā'ī
+
+
+{
+  "title": "Bahā'ī",
+  "descriptiveText": "The Chicago Bahā'ī community began in the 1890s as a small group of American converts and Iranian immigrants. There were perhaps two to three hundred Bahā'īs in Chicago before 1910. After 1903 the project of building a major temple in Chicago served as the focal point for organizing and evangelizing throughout the United States and internationally. Abdul Baha, the son of the religion's founder, Bahā'u'llāh, dedicated the Wilmette temple site in 1912 on a visit to the United States, during which he spoke against racial discrimination at Hull House and before the fourth annual convention of the National Association for the Advancement of Colored People. Dedicated in 1953, the Bahā'ī Temple remains a renowned architectural landmark and the headquarters of the Bahā'ī faith in the United States.",
+  "bibliography": "Whitmore, Bruce W. The Dawning Place: The Building of a Temple, the Forging of the North American Baha'i Community. 1984.",
+  "authorOfText": "Douglas Knox",
+  "hyperlinkedTermsAssociated": "Iranian| Wilmette| Hull House|  National Association for the Advancement of Colored People",
+  "neighborhoodNamesAssociated": "Wilmette"
+} 
+
+ENTRY - B4 - Baker and McKenzie (this one i didnt tell claude to omit the null fields)
+
+{
+  "title": "Baker & McKenzie",
+  "descriptiveText": "Soon after leaving the University of Chicago Law School in 1925, Russell Baker, a native of New Mexico, and friend Dana Simpson opened a small practice, Simpson & Baker. During the firm's early years, Baker frequently represented people from the city's growing Mexican American community. After Simpson retired in 1932, Baker formed a new firm, Freyberger, Baker & Rice; it soon represented major Chicago companies such as Abbott Laboratories. In 1949 Baker found a new partner in litigator John McKenzie; they started Baker & McKenzie, which began as a four-lawyer operation. This enterprise became the world's first multinational law firm when it began to open overseas offices in the late 1950s. By the late 1980s, the firm's franchises around the world had a total of about 1,000 lawyers, about 15 percent of whom were located in Chicago. By the end of the 1990s, the firm employed over 6,000 people in more than 60 offices around the world, and annual revenues were over $800 million.",
+  "creator": "",
+  "source": "",
+  "bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff.",
+  "authorOfText": "",
+  "hyperlinkedTermsAssociated": "",
+  "historicalSourcesAssociated": "",
+  "locationMarkers": "",
+  "neighborhoodNamesAssociated": "",
+  "streetAddressesAssociated": "",
+  "timePeriods": "",
+  "keywordsAssociated": "",
+  "table": ""
+}
+
 
