@@ -1,1 +1,4 @@
 Claude Commands:
+
+submit a part of the spreadsheet. Ask for the first column to be the key and the second column to be the values.
+Claude Saves this in its memory and now you copy every column and ask to do the same. 
