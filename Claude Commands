@@ -2,3 +2,7 @@ Claude Commands:
 
 submit a part of the spreadsheet. Ask for the first column to be the key and the second column to be the values.
 Claude Saves this in its memory and now you copy every column and ask to do the same. 
+
+
+Hey claude, hope you're good! How are you?
+Can u convert this intp JSON key value pairs please but can you omit the null fields
