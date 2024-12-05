@@ -1,1 +1,51 @@
+{ 
 
+  "title": "American Civil Liberties Union", 
+
+  "descriptive_text": "Chicagoans have been active in the American Civil Liberties Union (ACLU), on both the local and national levels, since the organization's founding in 1920. Based in New York City, the ACLU evolved from earlier groups that responded to attacks on American pacifists during World War I and sought to defend the civil rights of conscientious objectors. The American Union Against Militarism, established in 1916, gave birth to the National Civil Liberties Bureau, which then became the ACLU. Although initially Chicago did not have a local branch of the ACLU, its residents were among the national organization's most prominent members. Jane Addams stood among the founding members and Clarence Darrow represented the ACLU in its first major case, the Scopes Monkey Trial. In 1929 Chicago members of the ACLU grew alarmed at what they saw as increasing police repression in the city. The group formally incorporated in 1931 as the Chicago Civil Liberties Committee and established a permanent office in downtown Chicago. Although affiliated with the national organization of the ACLU, the Chicago Civil Liberties Committee was an autonomous body. During the 1930s, the group's initial membership of a few dozen grew to about a thousand members. Many of the cases handled by the committee during its first few years involved defending the rights of African Americans, the unemployed, and Communist groups. In addition, the Chicago Civil Liberties Committee investigated charges of police brutality and “third degree” cases of coerced confessions. The CCLC gained a great deal of attention for attacking the local censorship of films and newsreels. During World War II, internal partisan divisions wracked the membership of the Chicago Civil Liberties Committee. Debate surged over the relevance of civil liberties in the Soviet Union, the ACLU's defense of the legal rights of American Fascists, and endorsement of President Roosevelt and his economic policies. In 1945 the national organization of the ACLU accused the CCLC of partisanship and Communist leanings and threatened the committee with expulsion. In response, the CCLC disaffiliated itself from the national organization, but a group of non-Communist members re-formed and reincorporated as the Chicago Division of the American Civil Liberties Union. In 1954, the group changed its name to the Illinois Division of the American Civil Liberties Union in recognition of its expanded activities across the state. Now known as the ACLU of Illinois, the organization has engaged in hundreds of important civil rights cases in recent decades. In the mid-1970s, the ACLU of Illinois was widely criticized when it defended the rights of neo-Nazis who sought to hold a public march in Skokie, a community with a large Jewish population north of the city, where about 10 percent of the population were German concentration camp survivors. Many local members of the ACLU quit the organization in protest. In the late 1990s, the ACLU of Illinois fought all the way to the U.S. Supreme Court to defeat the city of Chicago's attempts to institute an antiloitering ordinance. The city wanted the ordinance to crack down on gang activity, but the ACLU saw it as an infringement on the rights of law-abiding citizens.", 
+
+  "bibliography": [ 
+
+    { 
+
+      "title": "Chicago Civil Liberties Committee. Pursuit of Freedom: A History of Civil Liberty in Illinois, 1787–1942.", 
+
+      "year": 1942 
+
+    }, 
+
+    { 
+
+      "title": "Walker, Samuel. The American Civil Liberties Union: An Annotated Bibliography.", 
+
+      "year": 1992 
+
+    }, 
+
+    { 
+
+      "title": "Zeigler, Ruth. “The Chicago Civil Liberties Committee, 1929–1938.” M.A. thesis, University of Chicago.", 
+
+      "year": 1938 
+
+    } 
+
+  ], 
+
+  "author_of_text": "Ian McGiver", 
+
+  "location_markers": { 
+
+    "neighborhoods": ["Skokie", "Downtown Chicago", "Loop"] 
+
+  }, 
+
+  "time_periods": { 
+
+    "start": 1920, 
+
+    "end": 1990 
+
+  } 
+
+} 
