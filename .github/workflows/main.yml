@@ -7,11 +7,17 @@ jobs:
       - uses: actions/checkout@v3
       - name: Validate JSON
         run: |
-          for file in $(find . -name "*.json" -path "./Entries*/*"); do
-            if jq empty "$file"; then
-              echo "$file is valid"
-            else
-              echo "$file is invalid"
-              exit 1
+          for dir in "Entries A" "Entries B - Jenna Rose" "Entries C - Suvexa"; do
+            if [ -d "$dir" ]; then
+              for file in "$dir"/*.json; do
+                if [ -f "$file" ]; then
+                  if jq empty "$file"; then
+                    echo "$file is valid"
+                  else
+                    echo "$file is invalid"
+                    exit 1
+                  fi
+                fi
+              done
             fi
           done
