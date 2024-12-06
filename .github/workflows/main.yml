@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Validate JSON
         run: |
-          for file in $(find ./Entries -name "*.json"); do
+          for file in $(find . -name "*.json" -path "./Entries*/*"); do
             if jq empty "$file"; then
               echo "$file is valid"
             else
