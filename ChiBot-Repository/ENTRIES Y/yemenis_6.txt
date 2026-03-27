@@ -1,0 +1,14 @@
+{
+    "Title": "Yemenis",
+    "Descriptive Text": "Yemenis have a rather small ethnic presence in Chicago, even within the metropolitan area's other Arab communities. The first immigrants possibly arrived in the late nineteenth century, but it is more probable that they arrived in the 1920s. Finding only low-status jobs in service enterprises like restaurants and laundries and in factories, Yemeni immigrants had difficulty generating sufficient income to establish institutions or businesses or to maintain a viable community.As late as the end of the twentieth century, there were few Yemeni-owned or -managed commercial establishments in Chicago. The small number that can be documented gathered along Lawrence Avenue between Kedzie and Pulaski. Here, as in other locations (such as Brooklyn, New York, and South Dearborn, Michigan), the first Yemeni-owned and -operated enterprises were coffee shops and liquor stores. Neither are characteristic of Yemeni culture, and it is likely that the coffee shops represent an economic activity borrowed from the larger and more affluent Lebanese and Palestinian communities. The range of economic activities which developed in other centers of Yemeni emigrants has not developed in Chicago.Chicago never acquired a critical mass of Yemenis sufficient for it to become a preferred destination, like South Dearborn, Brooklyn, or California's San Joaquin Valley. By 1990, the census reported approximately 2,000 Yemenis in Chicago (many of whom were not permanent residents), and there is little reason to suspect any undercount.",
+    "Bibliography": "“The Arab Population in the Chicago Metropolitan Area.” Arab American Action Network. N.d.Sabbagh, Georges, and Mehdi Bozorgmehr. “The Settlement of Yemeni Immigrants in the United States.” In Sojourners and Settlers: The Yemeni Immigrant Experience, ed. Jonathan Friedlander, 1988.Zanayed, Salameh. “The Arab Community in the Greater Chicago Area: A Demographical Study.” Unpublished essay for the Chicago Commission on Human Relations Advisory Council on Arab Affairs. N.d.",
+    "Author of Text": "Manfred Wenner",
+    "Hyperlinked Terms Associated": [
+        "restaurants",
+        "laundries",
+        "coffee",
+        "Lebanese",
+        "Palestinian"
+    ],
+    "time periods (YYYY-YYYY)": "Kedzie | Pulaski"
+}

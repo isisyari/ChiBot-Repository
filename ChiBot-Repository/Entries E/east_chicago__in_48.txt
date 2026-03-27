@@ -1,0 +1,31 @@
+{
+    "Title": "East Chicago, IN",
+    "Descriptive Text": "Lake County, 19 miles SE of the Loop. East Chicago became a leading industrial center by capitalizing on the resources of its metropolitan namesake and its proximity to Lake Michigan and the Calumet River. Mills and factory jobs drew tens of thousands of migrants to the region in the 1910s and 1920s. The town grew to the fringes of Whiting, Hammond, and Gary, eventually covering more than 12 square miles.The Potawatomi hunted East Chicago's white pine and oak forests and fished its grassy riverways. In 1854, George W. Clark, a farsighted civil engineer connected with railroads, began accumulating land along Lake Michigan. In 1881 a British investment firm bought a parcel of Clark's land, and platting of the subdivision of East Chicago began in 1888. That same year, the Chicago & Calumet Terminal Beltline (later the Baltimore & Ohio Railroad) linked the settlement to Chicago's trunk rail system. East Chicago incorporated as a town in 1889, and reincorporated as a city in 1893.After 1901 two events transformed the city's fortunes. First, Inland Steel built a plant at Indiana Harbor, heralding the dawn of East Chicago as an industrial center. Second, in 1903 the East Chicago Company (ECC) took direct control of residential and municipal planning.The ECC represented Chicago powerbrokers, including Potter Palmer, Jr., and Stanley McCormick. They recognized the need for a new industrial zone outside Chicago and invested heavily in municipal services, oversaw neighborhood planning, and dredged the Indiana Harbor Ship Canal. By 1907, East Chicago boasted a navigable waterway link to Lake Michigan and to the Grand Calumet River.Enormous freighters, thousands of railcars, and massive pipelines eventually supplied coal, iron ore, limestone, oil, and other materials from around the nation for processing. Steel mills, petroleum refineries, construction, manufacturing, and chemical factories operated at Indiana Harbor and along its inner canal system.With immigrants from Eastern and Southern Europe flocking to its factory jobs, the population of East Chicago soared 460 percent between 1900 and 1910, from 3,411 to 19,098. Over 50 percent of the population were not native born. During World War I, African Americans from the South, and Mexicans from the Southwest and Mexico, joined the industrial labor force, lifting the population to 54,784 by 1930.A rivalry developed between Indiana Harbor, the “East Side” home of Inland Steel and most working-class families, and East Chicago's “West Side,” the residential enclave of the native-born business community. Locals spoke of the “Twin City” to describe spatial, residential, and class divisions at the heart of the town's identity.In the 1920s, East Chicago carried a reputation as a freewheeling boomtown with a vibrant vice district and underground network of “blind tigers” serving bootleg liquor. In 1930, federal investigators indicted East Chicago mayor Raleigh Hale and police chief James W. Regan for conspiring to violate Prohibition, forcing both men to resign.Religious practices fostered early community development through ethnic social services and the building of St. Catherine Hospital. By World War II, 59 congregations reflecting the ethnic and cultural diversity of the population worshiped in East Chicago: 33 Protestant, 16 Roman Catholic, 8 Greek Orthodox, and 2 Jewish.After 1930, city growth slowed with only nominal increases, reaching a peak population of 57,669 in 1960. As East Chicago lost its job base in subsequent decades, population declined, to 32,414 in 2000.",
+    "Bibliography": "Calumet Region Historical Guide. 1939.",
+    "Author of Text": "Derek Vaillant",
+    "Hyperlinked Terms Associated": [
+        "Lake Michigan",
+        "Calumet River",
+        "Whiting",
+        "Hammond",
+        "Gary",
+        "Potawatomi",
+        "railroads",
+        "subdivision",
+        "refineries",
+        "World War I",
+        "African Americans",
+        "Mexicans",
+        "vice district",
+        "Prohibition",
+        "Hospital",
+        "World War II",
+        "Protestant",
+        "Roman Catholic",
+        "Jewish"
+    ],
+    "Street addresses associated": [
+        "East Chicago",
+        "Indiana Harbor"
+    ]
+}

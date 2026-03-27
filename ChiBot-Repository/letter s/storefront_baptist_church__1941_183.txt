@@ -1,0 +1,4 @@
+{
+    "Title": "Storefront Baptist Church, 1941",
+    "Descriptive Text": "Services at a storefront Baptist church, 1941."
+}

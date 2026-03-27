@@ -1,0 +1,11 @@
+{
+    "Title": "James C. Petrillo: The Man Behind the Petrillo Band Shell",
+    "Descriptive Text": "Born in Chicago, James C. Petrillo became active in the Chicago Federation of Musicians, Local 10 of the AFM. He served as president of the local from 1922 to 1962. His union adjusted to lost opportunities in vaudeville and movie theaters but made gains in radio and recordings. National president of the AFM from 1940 to 1958, he organized a recording strike during World War II to protest free airplay of recorded pieces. In 1935, Petrillo's free concert series in Chicago's Grant Park began, and the park's band shell bore his name.",
+    "Author of Text": "Dennis H. Cremin",
+    "Hyperlinked Terms Associated": [
+        "Chicago Federation of Musicians",
+        "vaudeville",
+        "strike",
+        "Grant Park"
+    ]
+}

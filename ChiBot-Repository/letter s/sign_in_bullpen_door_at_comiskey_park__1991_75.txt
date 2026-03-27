@@ -1,0 +1,4 @@
+{
+    "Title": "Sign in Bullpen Door at Comiskey Park, 1991",
+    "Descriptive Text": "By the time of the demise of the original Comiskey Park in 1991, baseball fans had had more than 80 years to attach to the site their memories of parents and friends, of hot dogs, sunny afternoons, and favorite players. By persisting through time, places like Comiskey can become monuments of a sort, meaningful because of past events and not solely because of their present uses. Yet present uses may conflict with the role of serving as a repository of memories. The new Comiskey Park opened across the street from the old one in 1991, and in 2003 the name itself became a matter of memory."
+}

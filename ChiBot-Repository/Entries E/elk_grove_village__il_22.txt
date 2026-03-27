@@ -1,0 +1,17 @@
+{
+    "Title": "Elk Grove Village, IL",
+    "Descriptive Text": "Cook and Lake Counties, 20 miles NW of the Loop. Elk Grove Village differs from many other suburban towns in that it did not emerge as a nineteenth-century market town, or around a railroad depot; indeed, it did not come into existence as a center of settlement until around 1940, roughly at the place where Touhy Avenue intersects with route 53.This was in the southeastern corner of the old Elk Grove township, which took its name from the huge grove that is now the Ned Brown Forest Preserve. Bounded on the west by Salt Creek, and on the east by the line of the present Arlington Heights Road, this forested area attracted not only Potawatomi hunters, but also, from the mid-1830s onwards, Yankee settlers. The open prairie areas often tended to be marshy, but the early Yankee farmers were joined in the late 1840s by Germans, and together they eventually drained much of the area round the future site of Elk Grove Village.No railroad traversed this part of the country, and it remained very rural right down to the Second World War; indeed, it is only on the map of 1941 that we begin to discern the development of a little town. At that time the future O'Hare Airport, a mile or so to the southeast, was beginning to emerge as a center for the manufacture of Douglas transport aircraft; eventually it would become the major hub of United Airlines, which would make its headquarters in Elk Grove Village.All this lay in the future in 1941, and as late as 1956, when Elk Grove Village was incorporated, the population numbered only 125. After that development was rapid. Following a plan proposed by the Centex Corporation of Dallas (Texas), curvilinear streets were laid out, and by the late 1950s and 1960s a whole suburb came into being, complete with schools, churches and shopping centers; in 1958 this growth was much encouraged by the construction of the Northwest Tollway, cutting across the northern edge of the town.The Northwest Tollway also clipped off the northern section of the old grove. But in general the Elk Grove Forest Preserve, established in 1924, succeeded not only in resisting such encroachments, but even in recovering land previously lost. By 1994 the great grove had largely recovered its historic outline. By 2000 Elk Grove Village had reached the limits of territorial expansion, with 34,727 inhabitants.",
+    "Bibliography": "Buisseret, David, and James A. Issel. Elk Grove Village and Township. 1996.Wajer, Mary Hagan. Elk Grove: The Land and the Settlers, 1834–1880. 1976.",
+    "Author of Text": "David Buisseret",
+    "Hyperlinked Terms Associated": [
+        "Forest Preserve",
+        "Salt Creek",
+        "Potawatomi",
+        "Yankee",
+        "Germans",
+        "railroad",
+        "OHare Airport",
+        "United Airlines",
+        "Tollway"
+    ]
+}

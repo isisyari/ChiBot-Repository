@@ -1,0 +1,10 @@
+{
+    "Title": "Chicago City Ballet",
+    "Descriptive Text": "Maria Tallchief, former prima ballerina of the New York City Ballet, founded the Chicago City Ballet in 1974 in order to provide the city with a company of national prominence. At first, the company served the Lyric Opera, but in January 1980 it became an independent organization, funded generously by Henry Paschen, Tallchief's husband. In 1982, Tallchief brought in Paul Mejia as co–artistic director. Mejia ballets were added to a repertoire of Balanchine works. By the spring of 1987 the company's finances were in crisis. Mejia's contract was not renewed, and the board of directors hired a single artistic director, Daniel Duell. In September, the company performed at the Chicago Theatre under the direction of Duell, who bravely came on stage and played the flute for soloist Sherry Moray in his ballet “Ave Maria.” Paschen withdrew his support in October, and the Chicago City Ballet was forced to disband.",
+    "Bibliography": "Smith, Sid. “It May Be Curtains for City Ballet.” Chicago Tribune, November 11, 1987.",
+    "Author of Text": "Nancy G. Moore",
+    "Hyperlinked Terms Associated": [
+        "Lyric Opera",
+        "ballets"
+    ]
+}

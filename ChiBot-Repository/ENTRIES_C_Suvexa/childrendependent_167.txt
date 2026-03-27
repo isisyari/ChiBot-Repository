@@ -1,0 +1,37 @@
+{
+    "Title": "Children, Dependent",
+    "Descriptive Text": "The chaotic and stunning growth of the city was the first source of Chicago's dependent children problems. By the 1850s, disease, desertion, and poverty—the three nineteenth-century sources of dependent children—were already apparent. The first orphanages appeared in the city in response to the cholera epidemic of 1849. Parents on their way west were known to abandon their children on the streets of Chicago. The 1851 city charter noted children “destitute of proper parental care, wandering about the streets, committing mischief.” Two years later, a Cook County Grand Jury complained that the women and children's section of the county poorhouse was “so crowded as to be very offensive.”City leaders responded by building institutions for dependent children. These privately owned institutions, usually organized along religious lines, aimed at keeping poor children from mixing either with adults in the county poorhouse or with delinquent children in reformatories or jails. The Chicago Home for the Friendless and Chicago Foundling Hospital were created in the 1850s for abandoned infants. Orphanages like Angel Guardian Orphanage, the Protestant Chicago Orphan Asylum, and the Marks Nathan Jewish Orphan Asylum were built either in or around downtown. They housed children under 12 years of age. Industrial schools were founded for children between 11 and 16. A cross between orphanages and training schools, industrial schools tried to teach adolescents some sort of marketable skill.Still, the system was overwhelmed. As Roman Catholics, Jews, and Eastern Orthodox migrated to the city between the 1880s and World War I, the number of dependent children grew geometrically. There was never enough room in the children's institutions for those needing help. Poor children continued to live on the streets, stay with their mothers in the county poorhouse, or wind up in jail or the Chicago Reform School simply because there were not enough separate resources in institutions for dependent children.While most of the poor were grateful for thechildren's institutions, some kept their distance.Until World War I, some poor children without parents banded together on the streets, making money by everything from selling newspapers to prostituting themselves. Similarly, mothers in the Cook County poorhouse clung to their children, resisting the efforts of welfare reformers to put them in orphanages.Beginning in the 1890s, reformers like Jane Addams of Hull House, Louise de Koven Bowen of the Juvenile Protection Association, and Professor Charles Henderson of the University of Chicago began attacking the nineteenth-century institutional system. In general, they wanted dependent children to remain at home, with foster care the next best option. In 1899, the Cook County Juvenile Court, the first in the nation, opened with a mission to remove children from the adult criminal justice system. In 1911, Illinois passed the first law in the nation giving widowed mothers some financial aid, to help keep children with their mothers and out of orphanages.Despite the reforms, between 1890 and 1920, new orphanages and industrial schools continued to open. And the existing children's institutions grew larger. Only later—between the two world wars—was progressive reform institutionalized in Chicago, with a significant increase in foster care, led by Protestant and Jewish social workers. Institutions themselves began trying to simulate a family environment. Between 1910 and 1930, most orphanages moved away from the center of the city to either suburban or rural surroundings. Several Catholic institutions moved to the northwest corner of the city and subsequently to the country. The Illinois Industrial School for Boys relocated from the Near West Side to Glenwood; the Illinois Industrial School for Girls moved to Park Ridge.On the eve of World War II, thousands of Chicago children still lived in institutions, as many as lived in foster homes. The child welfare system had grown to accommodate the immigrants of 1880–1917 but it had not moved children out of institutions.One new group of dependent children was not accommodated by the system's expansion. In the years after 1916, African American dependent children first appeared in large numbers in Chicago. Protestant institutions simply refused to take them. Catholic orphanages took a few, but their priority was to children of their own faith, and African Americans were overwhelmingly Protestant. The two small existing homes for African American children, the Amanda Smith Home for girls and the Louise Manual Training School for Colored Boys, closed in 1919 and 1920. Efforts to build a black foster care system in the 1920s and 1930s did not come to much. Hence, the African American community, where poverty rates were highest, had almost no social service support. It should not be surprising that by the 1940s African American children were disproportionately in correctional institutions like the St. Charles Reformatory or the Geneva School for Girls. There was simply no place else for poor parentless African American children to go.Since World War II, there have been four important changes for dependent children in Chicago. First, the civil rights movement brought African Americans into the child welfare system between 1955 and 1970. Second, the nineteenth-century orphanages closed and home foster care became the norm for children who had to live away from their biological parents. The orphanages were shut down in two stages, the first between 1945 and 1955 and the second in the mid-1970s. Third, the state took over the management of the child welfare system. The Illinois Department of Children and Family Services (DCFS) was created in 1964. Five years later, the historic “children's division transfer” occurred, and, for the first time, practically every dependent child in Chicago became the responsibility of a public authority. Finally, during the 1980s and 1990s, new and brutal forms of adult drug dependency brought another group of dependent children into the orbit of the child welfare system. Adult use of crack cocaine created a growing pool of children needing homes in which to live, despite the generally strong economy.",
+    "Bibliography": "Cmiel, Kenneth. A Home of Another Kind: One Chicago Orphanage and the Tangle of Child Welfare. 1995.Harwood, Naomi. “The History and Care of Dependent Children in Cook County until 1899.” Field Study, School of Social Service Administration, University of Chicago. 1941.McCausland, Clare. Children of Circumstance: A History of the First 125 Years of the Chicago Child Care Society. 1976.",
+    "Author of Text": "Kenneth Cmiel",
+    "Hyperlinked Terms Associated": [
+        "orphanages",
+        "epidemic",
+        "Cook County",
+        "jails",
+        "Hospital",
+        "Angel Guardian Orphanage",
+        "Roman Catholics",
+        "Jews",
+        "Eastern Orthodox",
+        "Wrold War I",
+        "newspapers",
+        "prostituting",
+        "Hull House",
+        "Juvenile Protection Association",
+        "University of Chicago",
+        "Juvenile Court",
+        "Protestant",
+        "Near West Side",
+        "Glenwood",
+        "Park Ridge",
+        "World War II",
+        "African American",
+        "social service",
+        "St. Charles",
+        "Geneva",
+        "civil rights movement"
+    ],
+    "Street addresses associated": [
+        "Near West Side"
+    ]
+}

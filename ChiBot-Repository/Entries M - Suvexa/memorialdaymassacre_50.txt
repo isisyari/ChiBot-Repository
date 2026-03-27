@@ -1,0 +1,9 @@
+{
+    "Title": "Memorial Day Massacre",
+    "Descriptive Text": "On May 30, 1937, striking Republic Steel workers and sympathizers attempted to establish a picket line at the front of the mill on Chicago's Southeast Side. The protesting marchers, including families from the surrounding community, halted when met by a line of Chicago police officers in a field north of the mill gate. Following a short standoff, violence erupted; 10 protesters died and approximately 90 were injured while retreating from police clubs, tear gas, and bullets. The episode stands as one of the most violent in the history of U.S. labor organization.",
+    "Bibliography": "The Electronic Encyclopedia of Chicago © 2005 Chicago Historical Society.The Encyclopedia of Chicago © 2004 The Newberry Library. All Rights Reserved. Portions are copyrighted by other institutions and individuals. Additional information on copyright and permissions.",
+    "Author of Text": "Jonathan J. Keyes",
+    "Hyperlinked Terms Associated": [
+        "police"
+    ]
+}

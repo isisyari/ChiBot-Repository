@@ -1,0 +1,20 @@
+{
+    "Title": "Movie Palaces",
+    "Descriptive Text": "Balaban & Katz pioneered the movie palace as an exhibition strategy in Chicago. Barney and A. J. Balaban opened their first nickelodeon on the West Side in 1908; Sam Katz began four years later. In 1916 they teamed up, and with the support of Julius Rosenwald, president of Sears, opened the 1,800-seat Central Park in October 1917 on what is now known as Roosevelt Road. Success enabled B&K to open the 2,000-seat Riviera in Uptown a year later. Backers lined up, led by William Wrigley, Jr., and John Hertz, and in 1921 B&K opened the 3,000-seat Tivoli at 63rd and Cottage Grove, and the even bigger Chicago on North State Street. From this profitable core, B&K purchased and built some two dozen movie palaces in Chicago and then, later, added more throughout the Middle West. In October 1925, B&K merged with Paramount to form the most important movie company of Hollywood's Golden Age.B&K made the movie palace a fundamental part of city life by carefully exploiting five nonfilmic factors. First, B&K located near fans who had just moved to what were then outlying districts. New mass transit made access simple. Only after these outlying theaters prospered did B&K build downtown.Second, B&K fully exploited movie palace architecture. Chicagoans of the 1920s heralded B&K movie palaces as the most magnificent in the world. Eight-story vertical signs blazed day and night. Lobbies held as many people as the auditorium, in spaces gilded in gold and awash with mirrors. Sweeping promenades were lit by opulent chandeliers; auditoria were fashioned from models based on exotica from Spain, Italy, and France.Third, B&K treated all patrons like royalty with obedient corps of ushers, uniformed in red with white gloves and yellow epaulets, maintaining quiet decorum as they guided patrons to their seats. Free child care, and galleries lined with paintings and sculpture, drew additional patrons.Fourth, B&K always offered a live stage show in addition to movies. B&K so carefully nurtured local talent that, by the middle 1920s, it had become more famous for its impressive stage attractions, orchestras, and organists than for the movies. Shows celebrated fads and heroes, from Lindbergh to the Charleston to “Jazz and Opera” week.Fifth, when B&K's Central Park opened, it represented the first mechanically air-cooled theater in the world. Drawing on the experience of Chicago's meat packing industry with cooling, Barney Balaban convinced the Kroeschell Bros. Ice Machine Company to cool movie house patrons and, in 1921 with the building of the Tivoli and Chicago, to dehumidify them as well. B&K constantly hung icicles from newspaper advertisements; Chicago's Health Commissioner proclaimed their air purer than that of Pike's Peak; women in the final trimester of pregnancy were admitted free.These five factors were widely copied and proved so influential that to understand how B&K accomplished this movie palace revolution is to understand how going to the movies rose to dominate mass entertainment through the middle of the twentieth century.",
+    "Bibliography": "Balaban, Barney, and Sam Katz. The Fundamental Principles of Balaban and Katz Theatre Management. 1926.Gomery, Douglas. Shared Pleasures: A History of Movie Presentation in the United States. 1992.Variety. Various issues, 1916–1930.",
+    "Author of Text": "Douglas Gomery",
+    "Hyperlinked Terms Associated": [
+        "Uptown",
+        "B&K",
+        "architecture",
+        "meat packing",
+        "advertisements",
+        "movies",
+        "entertainment"
+    ],
+    "Street addresses associated": [
+        "Uptown",
+        "Loop",
+        "South Side"
+    ]
+}

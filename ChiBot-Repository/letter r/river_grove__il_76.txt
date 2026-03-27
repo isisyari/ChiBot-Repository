@@ -1,0 +1,27 @@
+{
+    "Title": "River Grove, IL",
+    "Descriptive Text": "Cook County, 11 miles W of the Loop. River Grove's past remains visible in the open spaces that make up approximately 50 percent of the community. The river and forest land, once home to the Potawatomi, was not officially opened for sale in River Grove until 1833, although special exceptions were made in private purchases from Indians. One such instance was that of half- French, half-Indian Claude LaFramboise, who, in the 1829 Treaty of Prairie du Chien, received land along the Des Plaines River that encompassed most of what would become River Grove. In 1833 Framboise sold the northern half of his land to his sister and the other half to Jesse Walker. Walker's share eventually passed to Walker's son-in-law, David Everett, who held Methodist services in his cabin. Triton College is now on the site of Everett's land.In 1834 Walker and Everett erected a bridge that crossed the Des Plaines River along an Indian trail, later Grand Avenue. A stagecoach line using the trail and bridge took passengers from Chicago to Galena. In the 1840s the Spencer brothers built a hotel at the crossing to cater to travelers. The hotel and the settlement were named Cazenovia after the brothers' hometown in New York. The area east of the river was later named Turner Park.In 1872 Richard Rhodes purchased land on the south side of Grand. He subdivided the 100 acres and put up six houses, calling the community Rhodes subdivision. A school and the First Presbyterian Church of River Park were established soon after. Both Rhodes and another subdivision west of the river, north of Grand near the railroad, were incorporated into River Grove in 1888. Altogether, this gave River Grove an estimated population of 200, four-fifths of whom were German.Until the 1920s most newcomers into the area were German, predominantly Lutheran. Almost all were blue-collar workers, the majority working for the Milwaukee Railroad yards in Franklin Park. In 1920 Volk Realty established the Chicago Home Gardens subdivision north of the Oak Park County Club and west of Elmwood Park. Village residents had electricity, gas lines, and telephone service; a bank, movie theater, and Catholic church all were erected within the decade. Population rose to 484 in 1920 and by 1930 was at 2,741.Triton College, on the village's southern border, opened in 1964. By 2000 River Grove's population had climbed to 10,668, with many of Irish, Polish, Croatian, and Italian heritage and a growing number of Hispanics. River Grove's vast amount of unoccupied space includes 350 acres of forest preserve, 290 acres of golf courses and cemeteries, 35 acres of public school property, and 6 acres of parkland.",
+    "Bibliography": "Schacht, Sylvia Norten. When River Grove Was Young, 1888–1938. 1985.Vercammen, Martha Ridge. The Making of River Grove: A Centennial Publication. 1988.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "Potawatomi",
+        "French",
+        "Treaty",
+        "Des Plaines River",
+        "College",
+        "bridge",
+        "hotel",
+        "subdivision",
+        "German",
+        "Franklin Park",
+        "Elmwood Park",
+        "gas",
+        "telephone",
+        "Irish",
+        "Polish",
+        "Croatian",
+        "Italian",
+        "forest preserve",
+        "gold"
+    ]
+}

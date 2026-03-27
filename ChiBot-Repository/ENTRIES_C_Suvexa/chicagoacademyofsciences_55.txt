@@ -1,0 +1,17 @@
+{
+    "Title": "Chicago Academy of Sciences",
+    "Descriptive Text": "Founded in 1857 and chartered in 1865, the Chicago Academy of Sciences was guided in its early years by Robert Kennicott and William Stimpson, close collaborators of an early leader of the Smithsonian Institution. The academy, with one of the best natural history collections in America, built a museum at Wabash and Van Buren, but its exhibits, collections, and library were destroyed in the fire of 1871. The academy rebuilt and lost its building during the economic turmoil of the 1880s.After renting space for several years, the academy built the Matthew Laflin Memorial Building, opening in Lincoln Park in 1894. This relationship with the park district formed the model of capital and operating support for museums which has been the foundation for Chicago's unique Museums in the Parks arrangement. The academy pioneered ecological dioramas, loan boxes for schools, a forerunner of the modern planetarium called the Atwood Celestial Sphere, and the use of still and motion photography in the documentation of natural history. However, by the mid-1930s, these leadership positions had been overtaken by larger or specialty organizations. The academy languished as a museum but flourished as a research institute during the 1940s and 1950s. In 1958 William J. Beecher began a process of renovation of building, exhibits, and programs. Fueled in part by post-Sputnik funding, the academy became known as a site for teacher training and as a home for the growing environmental movement.By the 1990s the academy was serving overa quarter of Chicago public schools withteacher training and educational outreach programs. In 1991 the academy founded the International Center for the Advancement of Scientific Literacy, which conducts the biannual assessment of adult scientific literacy for theNational Science Foundation. The academy was also home to the Chicago Peregrine Release and Restoration Project, natural history collections and archives extending back to the 1840s, and the Nature, Polis, and Ethics Project.In 1999 the academy opened its new home on Lincoln Park's North Pond, the Peggy Notebaert Nature Museum. Surrounded by gardens containing representatives of five major regional ecosystems, the museum maintains a diverse exhibits program ranging from the ecological history and future of the region to butterflies and the human home as an ecological entity.",
+    "Author of Text": "Paul Heltne",
+    "Hyperlinked Terms Associated": [
+        "fire of 1871",
+        "Lincoln Park",
+        "park district",
+        "Museums in the Parks",
+        "photography",
+        "environmental",
+        "schools"
+    ],
+    "Street addresses associated": [
+        "Lincoln Park"
+    ]
+}

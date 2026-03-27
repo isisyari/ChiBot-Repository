@@ -1,0 +1,4 @@
+{
+    "Title": "Studebaker Map of World's Columbian Fairgrounds, 1893",
+    "Descriptive Text": "Many Chicago mapmakers published maps of the grounds, often folding them into guidebooks or producing vest-pocket editions. Numerous exhibitors customized maps to direct fairgoers to their displays. This illustration shows Rand, McNally & Co.'s standard map of the grounds, adapted into an advertisement for the Studebaker Brothers Manufacturing Company. The reverse side of the sheet featured a map of downtown Chicago highlighting the location of Studebaker's showroom."
+}

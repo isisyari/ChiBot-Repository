@@ -1,0 +1,9 @@
+{
+    "Title": "Corn Products Refining Co.",
+    "Descriptive Text": "This company, created in 1902 by E. T. Bedford, had its executive offices in New York for most of the century, but its main manufacturing operation was located just outside Chicago. In 1910, Corn Products built a new $5 million plant at Summit, southwest of Chicago; the site of the plant was known as Argo, and the company sold cornstarch and other products under the “Argo” brand name. The company employed more than 1,000 Chicago-area residents at its Summit plant. In 1960, the Argo facility still ranked as the world's largest corn wet-milling plant. During the early 1970s, the plant employed as many as 4,000 people, but its workforce declined to about 1,000 by the 1990s. In the late 1990s, the general offices of the company finally came to the Chicago area when Corn Products International Inc. was spun off from Bestfoods Inc., a larger conglomerate. The new company, now based in suburban Westchester, achieved nearly $2 billion in annual sales at the end of the century and boasted nearly 30 plants in 20 countries.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff.",
+    "Street addresses associated": [
+        "Summit",
+        "Westchester"
+    ]
+}

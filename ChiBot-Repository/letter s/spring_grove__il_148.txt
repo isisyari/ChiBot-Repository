@@ -1,0 +1,6 @@
+{
+    "Title": "Spring Grove, IL",
+    "Descriptive Text": "McHenry County, 54 miles NW of the Loop. Platted around a grist-mill in 1845, this hamlet stagnated even after the Milwaukee Road Railroad appeared in 1900. Incorporating in 1902 in anticipation of growth that finally materialized in the 1980s, Spring Grove today contains residential, light industrial, and agricultural areas and hosts a noted annualstorytelling festival. Population in 2000 was 3,880.",
+    "Bibliography": "McHenry County in the Twentieth Century, 1968–1994. McHenry County Historical Society. 1994.Nye, Lowell A., ed. McHenry County, Illinois, 1832–1968. 1968.",
+    "Author of Text": "Craig L. Pfannkuche"
+}

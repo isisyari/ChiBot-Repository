@@ -1,0 +1,21 @@
+{
+    "Title": "West Chicago, IL",
+    "Descriptive Text": "DuPage County, 30 miles W of the Loop. Although travelers arrived in West Chicago as early as the 1830s, Alonzo Harvey is credited as the community's first settler in 1842. The site developed a reputation as the first Illinois community created as the result of the railroads.Chicago's first railroad, the Galena & Chicago Union, arrived in 1849 with plans to extend toward Elgin. Immediately, the surrounding towns of St. Charles, Batavia, and Aurora added branches (the latter becoming the Burlington railroad), intersecting in what is now West Chicago. Water and fuel facilities for the locomotives and an eating house and hotel for travelers were built. In 1853, a three-stall roundhouse and a mill for repairing rails were added.In 1855, John B. Turner, president of the G&CU, platted his acreage and donated land for a Congregational church, naming the town Junction. Two years later, Joseph McConnell and his wife, Mary, platted a second portion of town just north of Turner's plat. Grateful for Turner's donation of land to the Congregational church, they recorded their plat as the Town of Turner in his honor.Many of the first residents of Turner were New Englanders of English or Irish heritage who migrated west as railroad workers. German immigrants predominantly sought farmlands. In 1873 Turner Public School opened. It was renamed Northside School in 1887 when a second school (Southside) was built.During the 1880s, factory sites were offered free of charge to attract businesses to “Chicago's Coming Great Manufacturing Suburb.” In 1894 the Bolles' Opera House Block was built for traveling shows and other community events. Turner was renamed West Chicago in 1896 to help prospective industrialists visualize the town's location and to sound more industrial and metropolitan; it was reincorporated as a city in 1906.Numerous businesses, including Belding Engineering Company (1878), Turner Brick Company (1892), Borden's milk condensing plant (1906), and three woodworking plants, established there. From 1918 to 1964 the stockyards in West Chicago provided a stopover point for livestock being shipped east from western grazing lands. In 1928, Route 64 and a private airport (paved and used in World War II by the federal government; later known as DuPage County airport) were built.Christ the King Seminary, a Spanish-style structure at Routes 59 and 64, housed the Franciscan brothers until converted to a convalescent center in the mid-1970s. Originally opened as Illinois Institute in 1853, Wheaton Academy moved to West Chicago in 1944, where it remains the oldest high school in continuous operation in the county.As railroad transportation declined, the town changed. In the 1970s, the city government acquired the 1912 C&NW depot to develop for community purposes. In the 1980s, West Chicago became known as the fastest-growing industrial and manufacturing center in the county. With the tracks removed and land sold for commercial use, there are few hints of what was once a prominent and prosperous railroad community.",
+    "Bibliography": "BibliographyScobey, Frank F. A Random Review of West Chicago History. 1976.Thompson, Richard, ed. DuPage Roots. 1985.",
+    "Author of Text": "Jane S. Teague",
+    "Hyperlinked Terms Associated": [
+        "railroads",
+        "St. Charles",
+        "Batavia",
+        "Aurora",
+        "railroad workers",
+        "English",
+        "Irish",
+        "German",
+        "Opera",
+        "airport",
+        "World War II",
+        "Seminary"
+    ],
+    "Historical Sources Associated (Title, Source, and Link)": "St. Charles|Batavia|Aurora"
+}

@@ -1,0 +1,18 @@
+{
+    "Title": "Malians",
+    "Descriptive Text": "Although a few came as students in the 1970s, most Malians in Chicago arrived in the 1990s. Famine and economic hardship in Mali in the 1970s and 1980s, exacerbated by a political coup and school closings in 1991, sent thousands of Malians to Europe and the United States. Malians, particularly large numbers of women, were drawn to New York and Washington DC by economic and educational opportunities. The rapidly growing New York community comprised largely Malian artists and dioula (traders) who began to seek new markets for their goods in the early 1990s. They traveled to summer festivals and began permanently settling in new cities including Chicago, Seattle, and Philadelphia. After the first Malians moved to Chicago, a large group followed from New York in the mid-1990s also seeking economic opportunities. They have been joined by a small number of Malian graduate students on United States government-sponsored scholarships and by family members using the green-card lottery system.While there are a small number of professionals, most Malians in Chicago work as taxi drivers, hairbraiders, or traders of African clothing, jewelry, and goods. Many also attend school but have to work full-time to finance their education. Women far outnumber men, largely because of women's success in carving out a niche in the hairbraiding business. Malians first settled on the North Side of Chicago in the Rogers Park area, but most have moved to the South Side of the city, where some own stores. Community members in 2002 estimated approximately 200 Malians in Chicago, and the community continued to grow rapidly as people migrated from New York.The close-knit Malian community gathers regularly for birth parties and holidays, including Muslim and Christian holidays as well as Malian and American holidays. Malians come together informally for Thanksgiving, American Independence Day, and Malian Independence Day (September 22), among others. In addition, the community has organized a mutual aid organization to assist members in times of financial need. The Malian Association, created in 2001, is still in the process of building a strong organization but has the support of much of the community. It holds regular monthly meetings, at which members discuss issues facing the organization and the community and make financial contributions for use in emergencies like illness or death.Malians in Chicago are also involved with other West African communities in Chicago, sharing many cultural, ethnic, and kinship ties with Ivorians, Beninese, Senegalese, Guineans, and other West Africans. National boundaries in West Africa were largely imposed by colonial powers and thus do not necessarily represent sharp differences among people. Many Malians regularly attend events and meetings of other West African organizations in Chicago, and, although these groups have largely organized along national lines, there is much fluidity among the organizations and talk of forming a larger West African organization in the city.",
+    "Author of Text": "Tracy Steffes",
+    "Hyperlinked Terms Associated": [
+        "taxi",
+        "Rogers Park",
+        "South Side",
+        "Muslim",
+        "Ivorians",
+        "Beninese",
+        "Senegalese",
+        "Guineans"
+    ],
+    "Street addresses associated": [
+        "Rogers Park"
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "Title": "Ships in Calumet Harbor, c.1973",
+    "Descriptive Text": "Transoceanic Terminal near the entrance to Calumet River, 1973. Improvements to the Calumet Harbor made it the premier port in the region."
+}

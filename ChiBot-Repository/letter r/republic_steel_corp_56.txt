@@ -1,0 +1,8 @@
+{
+    "Title": "Republic Steel Corp",
+    "Descriptive Text": "This large American steel company was formed in 1899 as the Republic Iron & Steel Co. through the merger of 30 small mills in Alabama; Youngstown, Ohio; and the Chicago area. In 1910, it employed about 900 men at its plant in East Chicago, Indiana. In 1930, following more mergers, the company changed its name to the Republic Steel Corp. The company operated a large mill in South Chicago that employed about 1,300 men during the mid-1930s. At that time its production capacity stood at 400,000 tons, less than 10 percent of the total capacity of Republic's plants across the country. By the late 1940s, the capacity of the South Chicago plant was over one million tons, representing about one-seventh of Republic's total capacity. As late as the 1970s, Republic still employed about 5,000 people in the Chicago area. Republic was purchased by Texas-based steel conglomerate LTV Corp. in 1984. The proliferation of inexpensive imported steel around that time, however, hurt the entire American steel industry, and LTV declared reorganization bankruptcy in 1986, one of several bankruptcies it endured through the 1980s and 1990s. While some of Republic's operations continued in southeastern Chicago for a time, a successive wave of additional LTV bankruptcies over the next 15 years prompted the closing of all of its mills and refineries by the early 2000s.",
+    "Author of Text": "Stephen R Porter | Janice L. Reiff.",
+    "Street addresses associated": [
+        "South Chicago"
+    ]
+}

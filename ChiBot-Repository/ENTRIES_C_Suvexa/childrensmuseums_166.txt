@@ -1,0 +1,22 @@
+{
+    "Title": "Children's Museums",
+    "Descriptive Text": "Chicago is home to a number of museums designed especially foryoung people, including the Chicago Children's Museum (CCM), located on Navy Pier, and the Kohl Children's Museum in suburban Wilmette.Kohl was founded in 1985 by former elementary school teacher Dolores Kohl to serve as a resource center for teachers as well as a place for parents to take part in educating their children outside the confines of a traditional school setting. The museum has grown, from serving 47,000 visitors in its first year to 200,000 by the turn of the century.The CCM was founded in 1982 by the Junior League of Chicago in response to cuts in the arts education budget of the city's public schools. Expressways—as the CCM was then called—had its humble beginnings in two hallways of the Chicago Public Library. It moved to Lincoln Park in 1986 and to North Pier in 1989, before changing its name and opening at Navy Pier in 1995. With each move, the CCM occupied more space and served a larger audience: its home at Navy Pier was two and a half times the size of its North Pier location and served nearly 600,000 visitors in its opening year alone, more than any other children's museum in the U.S., save the one in Indianapolis.Though Kohl and the CCM are miles apart and share no formal affiliation, they do share a guiding commitment to participatory, “hands-on” learning reminiscent of celebrated Chicago educator John Dewey. They also share an interest in helping children cope with issues specific to city living: in the late 1990s, the CCM housed a “Prejudice Bus,” which dealt with different kinds of discrimination, and “All About Garbage,” a lesson on city refuse and recycling, while Kohl's “All Aboard” took children on a mock Chicago Transit Authority train ride through the streets of Chicago.Other children's museums include the Dupage Children's Museum (1987) in Naperville, the Bronzeville Children's Museum (1993) in Evergreen Park, and Health World (1995) in Barrington. In 2003 Oak Park's Wonder Works (1991) reopened after having been closed for several years.",
+    "Author of Text": "Sarah Fenton",
+    "Hyperlinked Terms Associated": [
+        "Navy Pier",
+        "Wilmette",
+        "Junior League",
+        "schools",
+        "Chicago Public Library",
+        "Lincoln Park",
+        "Chicago Transit Authority",
+        "Naperville",
+        "Evergreen Park",
+        "Barrington",
+        "Oak Park´s"
+    ],
+    "Street addresses associated": [
+        "Lincoln Park",
+        "Bronzeville"
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "Title": "Silver Cross Made by John Kinzie, c.1820",
+    "Descriptive Text": "John Kinzie was a skilled silversmith as well as a trader. Items such as this sliver cross, which he made in 1820, were among those traded with local Native Americans at Fort Dearborn."
+}

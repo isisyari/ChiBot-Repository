@@ -1,0 +1,19 @@
+{
+    "Title": "McCook, IL",
+    "Descriptive Text": "Cook County, 12 miles SW of the Loop. Permanent settlement in what is now McCook was slowed by marshy conditions and frequent flooding of the nearby Des Plaines River. The coming of railroads in the 1880s spurred development. The village's name probably honors Santa Fe railroad director John James McCook.Several quarries began operating in the 1880s, and this dangerous and exhausting work attracted primarily youthful male laborers—first Eastern European immigrants, including Poles, Croatians, and Italians, and later African Americans and Mexican Americans. The stone was shipped on the Illinois & Michigan Canal and later on the Sanitary and Ship Canal.While the quarries continued to operate into the twentieth century, other industries began to play a role in McCook's development. In 1926 McCook incorporated as a village. In the middle 1930s the Electro-Motive Company, a subsidiary of the General Motors Corporation, opened a diesel engine plant. During World War II, a large aluminum sheet mill provided airplane “skins,” and other industries shifted to wartime production.By 1976 McCook had over 60 manufacturing and commercial firms, and by 1999 that number had increased to 85. The McCook-Hodgkins quarry covers over six hundred acres and produces seven million tons of crushed stone per year. The 2000 population was 254.",
+    "Bibliography": "Wesby, Vernon, ed. History and Progress of the Village of McCook. 1976.",
+    "Author of Text": "Ronald S. Vasile",
+    "Hyperlinked Terms Associated": [
+        "Des Plaines River",
+        "railroads",
+        "quarries",
+        "Poles",
+        "Croatians",
+        "Italians",
+        "African Americans",
+        "Mexican",
+        "Illinois & Michigan Canal",
+        "Sanitary and Ship Canal",
+        "World War II"
+    ]
+}

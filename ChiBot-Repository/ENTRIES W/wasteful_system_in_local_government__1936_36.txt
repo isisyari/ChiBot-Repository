@@ -1,0 +1,6 @@
+{
+    "Title": "Wasteful System in Local Government, 1936",
+    "Descriptive Text": "Well into the twentieth century, many children in the Chicago region began their education in one-room schools. Each school served its own district, was supported by its own rate of taxation, and was governed by its own board. H. S. Hicks, who was hired by the Illinois Chamber of Commerce to study local governments in Kane County in the 1930s, argued that the one-room schools were inefficient and led to inequities in taxation, as school districts traversed by railroads could tax local residents at a much lower rate than districts without railroads. Eventually these districts were consolidated into a much smaller number of grade school districts.",
+    "Creator (Photographer)": "H. S. Hicks",
+    "Source": "Newberry Library (fJ 7896.46)"
+}

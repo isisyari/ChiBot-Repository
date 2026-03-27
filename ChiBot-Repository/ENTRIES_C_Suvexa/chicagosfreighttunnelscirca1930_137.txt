@@ -1,0 +1,4 @@
+{
+    "Title": "Chicago's Freight Tunnels, circa 1930",
+    "Descriptive Text": "Built from 1900 to 1909, the freight tunnel network extended under nearly every downtown street, with short spurs into building basements for delivery of coal or freight and removal of ash from furnaces. Numerous connections and sidings at railroad freight houses were used to transfer freight and coal shipments. Temporary trestles into Grant Park allowed excavation spoil to be used for park expansion. Most of the freight tunnels are still in place and, though abandoned as a transport system in 1959, many came to be used to carry utility and communication lines."
+}

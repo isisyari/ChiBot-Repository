@@ -1,0 +1,35 @@
+{
+    "Title": "Convents",
+    "Descriptive Text": "“Convents” generally refer to houses where Roman Catholic women live under religious vows. They became common in Chicago and other industrial cities early in the nineteenth century. The first ones, like that established on Chicago's Wabash Avenue by Mother Agatha O'Brien and four other Sisters of Mercy in 1846, resembled the settlement houses of the 1890s. But before Jane Addams and Ellen Gates Starr were born, the Mercys and several other communities had begun building a network of services for the urban poor that included elementary and Sunday schools, orphanages and hospitals, employment bureaus and industrial schools, as well as the city's first Magdalen Asylum. Some of these mid-nineteenth-century institutions, such as Mercy Hospital and the House of the Good Shepherd, still exist. Thus, when Hull House opened in 1889, most Chicagoans would not have considered it extraordinary to see a group of women living among immigrants and working selflessly on their behalf. By 1889, Chicago had over 60 convents.Unlike most “settlers,” Catholic sisters before the 1920s were not usually middle-class. Many came from immigrant families and were Irish, like the Catholic clergy and laity of that time. But by the 1920s, when Chicago's convents numbered over 200 women from other ethnic groups—particularly German, Polish, Italian, Lithuanian, and Slovak —entered religious communities of the Irish or those of “their own.” In 1911, the Sisters of St. Casimir, a Lithuanian congregation, established their motherhouse in Chicago and immediately opened an academy there. By 1921, they were teaching in nine Lithuanian parish schools. Large numbers of Polish and German nuns did similar work. Some also nursed in hospitals and homes. In unusual fashion, the Poor Handmaids of Jesus Christ, a German order of nursing and teaching sisters, staffed the Municipal Isolation Hospital (for smallpox patients) for over 60 years. Mother Katharine Drexel's Sisters of the Blessed Sacrament (for Native Americans and African Americans ), who came to the South Side in 1912, remain active at St. Elizabeth's at 41st and Michigan.In city and suburban neighborhoods, most convents were visible to passersby since they were often adjacent to Catholic churches and schools. Yet a good many could not be seen, situated as they were within large medical, charitable, and educational institutions operated by religious communities and scattered across Chicago. The Sisters of the Good Shepherd, for example, lived and worked quietly inside the imposing four-story House of the Good Shepherd on Chicago's North Side; while the Ladies of Loretto made their home on the third floor of an impressive brick academy in Woodlawn on the South Side. Other nuns resided within hospitals, orphanages, and universities where they fulfilled their missions. By 1945, over nine thousand Catholic sisters lived in convents in the Roman Catholic Archdiocese of Chicago.Organized religious life among women of like mind resulted in efficacious service. During the nineteenth century, Protestant women such as educator Catherine Beecher and reformer Mary Livermore viewed Catholic sisterhoods as an effective force for good—one they encouraged Protestants to emulate. The opportunity to lead useful lives, to do good, to act in ways that would not have been permitted for women of the Victorian era, and to accomplish something important in life fueled the idealism and aspirations of generations of young women into the 1950s and early 1960s. As a result, they chose what they and their families often considered “the better part,” over motherhood or spinsterhood.During the prosperous years following World War II, Americans began to experience profound social and cultural change—Catholic women (both inside and outside convents) included. They benefited from opportunities for advanced education that, along with the civil rights and women's movements and the sweeping reforms of the Second Vatican Council, transformed religious life. Many nuns left their convents for married life or professional careers; those who stayed not only altered their dress but also committed themselves to new forms of Christian service. However, the reduction to fewer than five thousand sisters in the Chicago Archdiocese by 1990, many of them retired, and the adoption of new ministries resulted in the closing of dozens of institutions and convents. Those that remain open frequently assist the inner-city poor, battered women, and neglected or handicapped children as well as continue the traditional roles of teaching and nursing.",
+    "Bibliography": "Hoy, Suellen. “Caring for Chicago's Women and Girls: The Sisters of the Good Shepherd, 1859–1911.” Journal of Urban History 23 (March 1997): 260–294.Hoy, Suellen. “Walking Nuns: Chicago's Irish Sisters of Mercy.” In At the Crossroads: Old St. Patrick's and the Chicago Irish, ed. Ellen Skerrett, 1997, 39–51.Thompson, Margaret Susan. “Women, Feminism, and the New Religious History: Catholic Sisters as a Case Study.” In Belief & Behavior: Essays in the New Religious History, ed. Philip R. Vandermeer and Robert P. Swierenga, 1991, 136–163.",
+    "Author of Text": "Suellen Hoy",
+    "Hyperlinked Terms Associated": [
+        "Roman Catholic",
+        "settlement houses",
+        "orphanages",
+        "hospitals",
+        "House of the Good Shepherd",
+        "Hull House",
+        "Irish",
+        "German",
+        "Polish",
+        "Italian",
+        "Lithuanian",
+        "Slovak",
+        "nursing",
+        "Native Americans",
+        "African Americans",
+        "South Side",
+        "Woodlawn",
+        "universities",
+        "Roman Catholic Archdiocese of Chicago",
+        "Protestant",
+        "World War II",
+        "civil rights"
+    ],
+    "Street addresses associated": [
+        "South Side",
+        "Woodlawn",
+        "North Side"
+    ]
+}

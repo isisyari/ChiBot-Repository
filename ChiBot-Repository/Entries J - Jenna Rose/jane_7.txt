@@ -1,0 +1,10 @@
+{
+    "Title": "Jane",
+    "Descriptive Text": "Jane, an underground abortion service in the years immediately preceding the Supreme Court's 1973 Roe v. Wade decision, is an example of radical feminist initiative and alternative-institution building in the early years of the women's liberation movement. The project started as an abortion referral service in 1969 linked to a Chicago consciousness-raising group. Because abortions were illegal, Jane developed elaborate mechanisms to maintain secrecy and confidentiality while also providing follow-up support. To gain greater control over the process and ensure women's health and safety, they ultimately learned to administer the abortions themselves and provided more than 11,000 illegal abortions (with a safety record equal to that of the best hospitals ) until the Supreme Court decision made their service unnecessary.",
+    "Bibliography": "Kaplan, Laura. The Story of Jane: The Legendary Underground Feminist Abortion Service. 1995.",
+    "Author of Text": "Sara M. Evans",
+    "Hyperlinked Terms Associated": [
+        "feminist",
+        "hospitals"
+    ]
+}

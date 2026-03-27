@@ -1,0 +1,9 @@
+{
+    "Title": "Joffrey Ballet of Chicago",
+    "Descriptive Text": "The Joffrey Ballet of Chicago, which gave its premiere performance in 1954 as the Robert Joffrey Ballet Concert, relocated to Chicago in 1995. An outgrowth of the American Ballet Center school cofounded by Robert Joffrey and Gerald Arpino in 1953, the company has gone through several name changes and two restructurings as well as a major change in its base of operations. The Joffrey was always a touring company that maintained its home base in New York City. By 1962, it had visited 400 cities in 48 states and was traveling with a small orchestra.Arpino's ability to create fast-paced, exciting dances, while responding to socially relevant issues, brought the company to great heights of popularity. At the same time, Robert Joffrey was pursuing a course of recreating early-twentieth-century masterworks, including many works first performed by Serge Diaghilev's Ballets Russes. This dual approach to building repertory, along with its mission to tour widely, has given the Joffrey Ballet a reputation unlike any other dance company in the world. Its repertory contains works by 80 choreographers, and it practices a “no star–all star” policy within the ranks of its disciplined and dynamic dancers.",
+    "Author of Text": "Diana Haskell",
+    "Hyperlinked Terms Associated": [
+        "dances",
+        "dance company"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Title": "Native Americans",
+    "Descriptive Text": "Native peoples have always resided in the Chicago region, whether as indigenous residents prior to European invasion or as urban dwellers participating in the great metropolitan expansion during the nineteenth and twentieth centuries. They represent a continuing and unique strand of human experience throughout the life of the region.The Chicago region served as home and trade center for various Native nations, including the Potawatomi, Miami, and Illinois, once powerful nations that experienced dramatic decline in the face of European expansion into their territories. Warfare and disease substantially diminished their numbers as well as their economic and military power by the early 1800s, and through a series of treaties they were forced to cede their lands to the American government, which then opened the land to settlement. In this way, the Native presence was significantly diminished in the region, yet never entirely eliminated. Native families and individuals lived among the new, non-Native settlements throughout the remaining years of the 1800s.During the 1900s, many Native Americans moved from reservations and other rural communities to Chicago in pursuit of jobs and other opportunities. This movement was fueled in part by the federal government's controversial “relocation program,” which helped move thousands of people to major urban areas, including Chicago, during the 1950s and 1960s.Once in Chicago, facing an alien culture and new way of life, Native people often sought the company and social support of other Native Americans. Social clubs began to form, and in 1953 the American Indian Center was established to serve the cultural and social needs of this growing, albeit still relatively small population in comparison to other ethnic groups in the city.The Native American population in the Chicago area was nearly 40,000 at the end of the twentieth century, representing close to one hundred different tribes from across the United States and Canada. Native people live throughout the Chicago area with the highest concentrations in Edgewater, Uptown, Rogers Park, and Ravenswood on the city's North Side. They have formed an extensive network of organizations and programs that address a wide range of community needs and interests from health and education to employment and the arts. Many of the organizations were formed during the 1960s and 1970s when civil rights and social issues stood at the forefront of public consciousness, and federal resources were made available to encourage civic engagement. Its multitribal nature makes Chicago's Native American community a richly diverse one that crosses different cultural traditions and languages. This diversity makes the community a unique place to bring people together to learn about and address issues affecting Native people nationally.Although many families are now in their third and fourth generations of urban life, they continue to maintain ties to tribal communities where they have both extended family and formal tribal membership that provides certain rights and privileges within the tribe. Several tribal communities (Oneida, Menominee, Ho-Chunk, Ojibwa ) are located in Wisconsin within a half day's drive from Chicago, enabling members of those tribes, in particular, to sustain involvement.",
+    "Bibliography": "Beck, David. The Chicago American Indian Community, 1893–1988: Annotated Bibliography and Guide to Sources in Chicago. 1988.Straus, Terry. Indians of the Chicago Area. 2nd ed. 1990.",
+    "Author of Text": "Louis Delgado",
+    "Hyperlinked Terms Associated": [
+        "Potawatomi",
+        "Miami",
+        "Illinois",
+        "treaties",
+        "Edgewater",
+        "Uptown",
+        "Rogers Park",
+        "Ravenswood",
+        "civil rights",
+        "Ojibwa"
+    ],
+    "Street addresses associated": [
+        "Edgewater",
+        "Uptown",
+        "Rogers Park",
+        "Ravenswood"
+    ]
+}

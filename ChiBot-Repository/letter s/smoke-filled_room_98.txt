@@ -1,0 +1,6 @@
+{
+    "Title": "Smoke-Filled Room",
+    "Descriptive Text": "The original smokefilled room was in Chicago's Blackstone Hotel, where, according to an enduring legend, a small group of powerful United States senators gathered to arrange the nomination of Warren G. Harding as Republican candidate for president in 1920.Meeting at the Coliseum, the convention deadlocked on Friday, June 11. At a suite in the Blackstone, Republican leaders held a series of discussions late into the night. Though leaning toward Harding at that point, participants did not control the convention. But when the Associated Press reported that Harding had been chosen “in a smoke-filled room,” the phrase entered the American political lexicon. Ever since, “smoke-filled room” has meant a place, behind the scenes, where cigar-smoking party bosses intrigue to choose candidates.",
+    "Bibliography": "Russell, Francis. The Shadow of Blooming Grove: Warren G. Harding in His Times. 1968.Safire, William. “Smoke-Filled Room.” In The New Language of Politics: An Anecdotal Dictionary of Catchwords, Slogans, and Political Usage. 1968.Sinclair, Andrew. The Available Man: The Life and the Masks of Warren G. Harding. 1965.",
+    "Author of Text": "Christopher Thale"
+}

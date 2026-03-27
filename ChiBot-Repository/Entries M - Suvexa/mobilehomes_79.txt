@@ -1,0 +1,21 @@
+{
+    "Title": "Mobile Homes",
+    "Descriptive Text": "The mobile home evolved out of the travel trailer of the 1920s and 1930s and the house trailer of the 1940s and early 1950s. Conceived as a mobile and temporary form of shelter, it eventually became a primarily immobile and permanent form of housing. First used by vacationers, itinerant travelers, and migrant workers, the mobile home gained greater recognition and legitimacy during World War II, when it was used as emergency housing for war workers. In the postwar period, it became a popular form of year-round housing for people on a limited budget. Today, once situated, most mobile homes do not move.During the early years of the mobile home, production was concentrated in the Midwest. In 1942, Illinois ranked fourth among mobile home-producing states, behind California, Indiana, and Michigan. Chicago was the center of Illinois' mobile home industry. Reflecting the broad manufacturing base of the city and its strength in the areas of metalworking and machinery, the local mobile home industry included two of the largest early producers, Glider Trailer Company and Indian Trailer Corporation. Still, the local industry did not survive into the 1960s. The high cost of labor and factory space in Chicago and difficulties transporting the ever-larger mobile home units through the area compelled manufacturers to locate in other parts of the country.Even as the local industry disappeared, the local popularity of mobile homes increased. Since the 1950s, the number of mobile homes in the Chicago metropolitan area has grown from around 8,000 to 17,000, with the greatest increases coming during the 1950s and '60s. During the 1960s and '70s, a larger number of small parks gave way to a smaller number of large parks, often capable of accommodating as many as 500 units. The majority are located outside the Chicago city limits, in Calumet City and Blue Island to the south, La Grange and Countryside to the west, Des Plaines to the northwest, and Glenview to the north. In Chicago itself, most mobile homes are located in the city's single mobile home park in the far South Side neighborhood of Hegewisch.Despite the popularity of mobile homes, the Chicago metropolitan area has not been hospitable to them. Municipalities in the metropolitan counties generally restrict mobile homes to mobile home parks, and permission for a mobile home park is difficult to get. Zoning laws keep mobile home parks outside of residential neighborhoods. Since the late 1980s, some suburban mobile home parks have been crowded out by development, as park owners find more lucrative uses for their land.",
+    "Bibliography": "Wallis, Allan D. Wheel Estate: The Rise and Decline of Mobile Homes. 1991.",
+    "Author of Text": "Anna Holian",
+    "Hyperlinked Terms Associated": [
+        "vacationers",
+        "Calumet City",
+        "Blue Island",
+        "La Grange",
+        "Countryside",
+        "Des Plaines",
+        "Glenview",
+        "South Side",
+        "Hegewisch",
+        "Zoning"
+    ],
+    "Street addresses associated": [
+        "Hegewisch"
+    ]
+}

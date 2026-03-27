@@ -1,0 +1,17 @@
+{
+    "Title": "Crerar Library, John",
+    "Descriptive Text": "The John Crerar Library, a public research library for the natural and social sciences, opened April 1, 1897.John Crerar came to Chicago from his native New York City in 1862 to establish a railroad supply firm. His will gave the city a portion of his estate (estimated at approximately $2.6 million) as an endowment for a free public library, selected “to create and sustain a healthy moral and Christian sentiment.” To comply with Crerar's wishes and to complement area libraries, the directors decided to limit the collections to the sciences, adding medicine to the library's scope in 1906.The Crerar's technology resources attracted a large clientele from Chicago-area business and industry. Its equally outstanding collections of historical and rare materials drew scholars from many countries. To assist the post– World War II expansion in scientific research, the directors established an innovative fee-based research service for industry and government. In 1951 they decided to limit the collection to current science, technology, and medicine.The Crerar Library opened in the Marshall Field building, moving in 1921 to its own home at the northwest corner of Randolph Street and Michigan Avenue. The building became overcrowded in the 1950s, and because endowment income no longer covered operations, the directors contracted with the Illinois Institute of Technology to provide library services. The library moved to the IIT campus in 1962. By the mid-1970s, however, the facility had become inadequate and in 1980 Crerar and IIT agreed to terminate the contract within four years. The directors consolidated the collection with the University of Chicago's science collection in a new building opened in 1984. The merger, among the largest in American library history, resulted in a collection of 900,000 volumes. The John Crerar Library, now in Hyde Park, retains its name and its status as a free public library.",
+    "Bibliography": "Bay, J. Christian. The John Crerar Library, 1895–1944: An Historical Report Prepared under the Authority of the Board of Directors by the Librarian. 1945.Carnahan, Paul A. A Guide to the Historical Records of the John Crerar Library, 1828–1984. Edited by Richard L. Popp. 1991.John Crerar Foundation. The John Crerar Library. 1984.",
+    "Author of Text": "Jane Aikin",
+    "Hyperlinked Terms Associated": [
+        "railroad supply",
+        "libraries",
+        "World War II",
+        "Illinois Institute of Technology",
+        "University of Chicagos",
+        "Hyde Park"
+    ],
+    "Street addresses associated": [
+        "Hyde Park"
+    ]
+}

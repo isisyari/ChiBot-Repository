@@ -1,0 +1,15 @@
+{
+    "Title": "Homicide",
+    "Descriptive Text": "Most Americans probably associate Chicago, the city of the Haymarket bombing, the Race Riot of 1919, the Leopold and Loeb case, the St. Valentine's Day Massacre, and the turmoil surrounding the 1968 Democratic National Convention, with high levels of violence. Some early-twentieth-century observers incorrectly termed the city the murder capital of America. But despite this reputation, trends in homicide in Chicago have been roughly comparable to those of other large cities and provide a rough measure of social tensions. Like other urban centers, Chicago experienced surges in homicide between 1900 and 1925 and between 1965 and 1990 but decreases during the middle decades and the closing decade of the twentieth century. Throughout the last 140 years, Chicago violence has been concentrated in the poorest neighborhoods of the city, has disproportionately involved young men from minority backgrounds, and has typically involved Chicagoans who have been related to or acquainted with one another.Nonetheless, lethal violence has changed in significant ways. During the decades after the Civil War, Chicago killers tended to be young, unmarried, poor men of Irish decent. Since the start of the twentieth century, however, homicides have more often involved young African American men, reflecting poverty, dislocation, and discrimination in the city.",
+    "Bibliography": "Adler, Jeffrey S. “‘My Mother-in-Law Is to Blame, But I'll Walk on Her Neck Yet’: Homicide in Late Nineteenth-Century Chicago.” Journal of Social History 31 (1997): 253–276.Block, Richard, and Carolyn Rebecca Block. “Homicide Syndromes and Vulnerability: Violence in Chicago Community Areas over Twenty-five Years.” Studies in Crime and Crime Prevention 1 (1992): 61–87.Lashly, Arthur V. “Homicide (in Cook County).” In The Illinois Crime Survey, ed. John H. Wigmore, 1929, 591–646.",
+    "Author of Text": "Jeffrey S. Adler",
+    "Hyperlinked Terms Associated": [
+        "Haymarket",
+        "Race Riot",
+        "Leopold and Loeb",
+        "St. Valentines Day Massacre",
+        "Civil War",
+        "Irish",
+        "African American"
+    ]
+}

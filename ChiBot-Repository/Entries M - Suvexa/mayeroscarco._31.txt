@@ -1,0 +1,9 @@
+{
+    "Title": "Mayer (Oscar) & Co.",
+    "Descriptive Text": "In 1883, German immigrants Oscar F. Mayer and Gottfried Mayer started a small sausage-making operation on Chicago's North Side. They opened a meatpacking plant in 1888; by 1909, the plant employed about 70 people. Starting in the 1910s, the company expanded more quickly. Annual sales rose from about $3 million in 1913 to $11 million by 1918. By the early 1930s, when a son of the founder named Oscar G. Mayer was running the company, it employed over 400 people in the Chicago area. Annual sales rose to about $275 million by the early 1960s, when the company had about 8,000 workers nationwide, including many in Madison, Wisconsin, as well as Chicago. By the 1970s, the company had moved its headquarters to Madison, and annual sales reached $1 billion. In the 1980s, Oscar Mayer became part of Philip Morris (Altria Group since 2003) and its Kraft Foods division.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff.",
+    "Hyperlinked Terms Associated": [],
+    "Street addresses associated": [
+        "North Side"
+    ]
+}

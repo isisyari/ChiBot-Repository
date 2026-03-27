@@ -1,0 +1,13 @@
+{
+    "Title": "Yorkville, IL",
+    "Descriptive Text": "Kendall County, 45 miles W of the Loop. Yorkville was settled permanently in 1836 but was not incorporated as a village until 1887. Located on the Fox River, the city increased in local importance with the arrival of the Chicago, Burlington & Quincy Railroad in 1870. Smaller retail stores satisfy the bulk of the community's contemporary economic needs and nearby Aurora provides employment for many of Yorkville's citizens.",
+    "Bibliography": "Farren, Kathy, ed. A Bicentennial History of Kendall County, Illinois. 1976.Hicks, E. W. History of Kendall County, Illinois: From the Earliest Discoveries to the Present Time. 1877.",
+    "Author of Text": "Brandon Johnson",
+    "Hyperlinked Terms Associated": [
+        "Fox River",
+        "Aurora"
+    ],
+    "Street addresses associated": [
+        "Loop"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Title": "Cary, IL",
+    "Descriptive Text": "McHenry County, 39 miles NW of the Loop. In 1853 the Illinois & Wisconsin Railroad began grading a line from Chicago to Janesville, Wisconsin. The following year track layers threw a trestle across the Fox River before economic problems stalled construction. Reorganized as the Chicago, St. Paul & Fond du Lac, the railroad resumed construction through Crystal Lake to Janesville in 1855. During that pause, engineers found that the valley's west bluff was composed of gravel left behind by the Wisconsin glacier. Pits quickly opened and trains were loaded with gravel to level the railroad right-of-way and fill in the long trestles leading to the Fox River bridge.Noting the activity, local farmer William Cary platted a town site in 1856 one mile northwest of the Fox River beyond the pits. The railroad quickly accepted the site as “Cary Station” and a post office was established. When street improvements became necessary, residents incorporated their community as Cary in 1893 with L. E. Mentch as president.Besides accommodating area farmers, Cary served the workers who operated the pits for the railroad, which had become the Chicago & North Western Railway in 1859. In the late 1890s, the double tracking of the North Western's main lines and the elevating of its tracks in Chicago increased demand on the ever expanding pits.Away from the pits, rolling grasslands provided superb pasturage for dairy cattle. From the 1880s, early morning trains daily hauled thousands of cans of fresh milk into Chicago for sale to families. By 1903, Borden Dairy opened a large bottling plant in Cary. Shortly after, the Oatman Milk Company opened its doors.Chicagoans quickly discovered that the source of their milk and cream was the Fox River Valley, which also provided a marvelous setting for resort vacations. Boardinghouses and hotels that sprang up at Cary to lodge rail and pit workers soon bulged with additional tenants taking advantage of the pure air and clean, fish-filled waters. Family-run resorts lined the west bank of the river around Cary.One resorter was John Hertz, who had made a fortune expanding the Parmelee Transfer Service into Chicago's Yellow Cab Company. Deeply involved in horse breeding, Hertz purchased 940 acres that became home to two Kentucky Derby winners. In 1943, Hertz sold the land to the Chicago-based Curtiss Candy Company, which experimented in cattle breeding. The Curtiss Company sold the land to a housing developer in the 1950s.The population of Cary grew steadily from 943 in 1950 to 6,640 in 1980 and continued to grow, reaching 15,531 in 2000.With the ever increasing demand for gravel for construction causing uninterrupted expansion of Cary's gravel pits toward the same areas where housing is expanding, serious tensions have grown between those historic forces. It remains to be seen how the conflict will be resolved as the clash over what little open land remains in Cary continues.",
+    "Bibliography": "Cary Me Back. 1993.McHenry County in the Twentieth Century, 1968–1994. McHenry County Historical Society. 1994.Nye, Lowell A., ed. McHenry County, Illinois, 1832–1968. 1968.",
+    "Author of Text": "Craig L. Pfannkuche",
+    "Hyperlinked Terms Associated": [
+        "Railroad",
+        "Fox River",
+        "Crystal Lake",
+        "vacations",
+        "construction"
+    ],
+    "Street addresses associated": [
+        "Cary",
+        "Crystal Lake",
+        "Fox River Valley"
+    ]
+}

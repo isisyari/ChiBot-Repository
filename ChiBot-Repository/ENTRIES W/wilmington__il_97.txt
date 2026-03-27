@@ -1,0 +1,5 @@
+{
+    "Title": "Wilmington, IL",
+    "Descriptive Text": "Will County, 49 miles SW of the Loop. Settlers of what was originally called Winchester ran gristmills on the Kankakee River. Local abolitionists rebuked travelers looking for fugitive slaves and harbored runaways before the Civil War. In the early 1900s, coal mining predominated. During World War II, workers from the nearby Joliet Arsenal settled in Wilmington. In recent years, industry has declined, but new commuter residents have been attracted to Wilmington's water recreation opportunities. The population in 2000 was 5,134.",
+    "Author of Text": "Erik Gellman"
+}

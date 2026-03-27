@@ -1,0 +1,11 @@
+{
+    "Title": "Lowell, IN",
+    "Descriptive Text": "42 miles S of the Loop. Tracing its origins to 1852 settlers, this south Lake County community emphasizes its rural tranquility and proximity to urban areas as well as its recreational amenities, parades, and festivals. Its 7,505 residents (2000) work in local manufacturing and other industries or commute to jobs in Chicago, Gary, Hammond, or areas further south.",
+    "Bibliography": "Lowell Centennial, 1852–1952. 1952.",
+    "Author of Text": "Steven Essig",
+    "Hyperlinked Terms Associated": [
+        "Lake County",
+        "Gary",
+        "Hammond"
+    ]
+}

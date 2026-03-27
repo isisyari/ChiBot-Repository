@@ -1,0 +1,9 @@
+{
+    "Title": "Amos Alonzo Stagg and Football at Chicago",
+    "Descriptive Text": "An 1888 Yale College graduate, Amos Alonzo Stagg was recruited by President William Rainey Harper to be on the original University of Chicago faculty as the first tenured football coach in America. The All-American rose to a position of considerable power in Harper's university thanks to his president's patronage and his pioneering work as entrepreneurial and football genius. Stagg was the leader of the second generation of American intercollegiate football, as he created influential formations and plays and led the move toward interregional games and football as mass entertainment. He was also a noted track, baseball, and basketball coach, and sometimes his player recruitment embroiled him with faculty. The 1924 conference gridiron championship proved Stagg's last; in 1933, at 70, he was forced by President Robert Maynard Hutchins to leave the university. He went on to have some success at College of the Pacific, retiring at 84.Stagg's years as Chicago's football coach included several milestones. The University of Chicago pioneered the postseason “bowl” idea by sending its Maroons on a six-thousand-mile trip to sunny southern California in December 1894 to play Stanford—far from either campus and for no discernible educational purpose. In 1905, within 15 years of its founding, Chicago produced its first national football championship team (not to mention America's first Nobel Prize winner—Albert Michelson, in 1907). The Maroons' Old English “C” and the motto “Monsters of the Midway” were appropriated by George Halas's Chicago Bears after the abolition of the sport on the Midway.",
+    "Author of Text": "Robin Lester",
+    "Street addresses associated": [
+        "Loop",
+        "Midway"
+    ]
+}

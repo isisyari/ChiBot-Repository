@@ -1,0 +1,6 @@
+{
+    "Title": "Wading Pool in Austin Park, 1909",
+    "Descriptive Text": "Lagoons in larger parks like this one in Austin, were also used for swimming and wading by the early twentieth century.",
+    "Creator (Photographer)": "Chicago Daily News",
+    "Source": "Chicago Historical Society (DN-0007389)"
+}

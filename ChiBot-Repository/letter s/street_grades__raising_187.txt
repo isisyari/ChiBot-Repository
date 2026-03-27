@@ -1,0 +1,11 @@
+{
+    "Title": "Street Grades, Raising",
+    "Descriptive Text": "In the late 1850s, the streets on most of the South Side and parts of the North and West Sides were raised by an average of between four and five feet, though in some places by as much as eight feet. This was done in two stages, in 1855–56 and 1857–58, for the purposes of facilitating drainage and accommodating the city's sewerage system. The most spectacular aspect of this effort, and the one that drew commentary from tourists, was the raising of existing buildings to the higher grades.Low, flat, and on a clay and loam soil that absorbed little moisture, Chicago lacked natural means of drainage. It also was impossible to install underground sewers steep enough to drain their contents into the Chicago River without raising the streets. The first phase of grade raising seems to have been an effort to drain rainfall. The second was part of the larger project of building the sewer system, designed by engineer Ellis Sylvester Chesbrough for the city's Board of Sewerage Commissioners and constructed beginning in 1856.While the street raisings were public projects, raising buildings to the higher grade was left to individual property owners. Frame structures were relatively easy to raise, though many were not raised (houses in some parts of the city are still below grade), but the raising of large brick hotels, banks, and other business buildings was a technological feat in the 1850s. George M. Pullman, of sleeping car fame, made his initial reputation in Chicago raising buildings.",
+    "Bibliography": "Cain, Louis P. Sanitation Strategy for a Lakefront Metropolis: The Case of Chicago. 1978.",
+    "Author of Text": "Robin Einhorn",
+    "Street addresses associated": [
+        "South Side",
+        "North Side",
+        "West Side"
+    ]
+}

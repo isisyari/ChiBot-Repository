@@ -1,0 +1,4 @@
+{
+    "Title": "Wigwam, 1860",
+    "Descriptive Text": "The Wigwam, site of the 1860 Republican National Convention, corner of Lake and Market (later Wacker)."
+}

@@ -1,0 +1,11 @@
+{
+    "Title": "North Park University",
+    "Descriptive Text": "North Park University is located in a residential neighborhood along the North Branch of the Chicago River and includes North Park Theological Seminary. Founded in 1891 by the Swedish Evangelical Mission Covenant of America (currently the Evangelical Covenant Church), North Park describes itself as a “Christian Liberal Arts University” and retains close ties to the Covenant Church and the Swedish American community. In 1958 North Park expanded from a two-year college into a four-year program. During financial hardship in the late 1970s, trustees considered moving to a rural location in Wisconsin, but the 1990s saw recovery and expansion. In 1997, North Park became a university, combining its undergraduate college with the seminary and new graduate programs. Full-time enrollment in 2000 was 1,300 students, and total enrollment approximately 2,300.",
+    "Author of Text": "D. Bradford Hunt",
+    "Hyperlinked Terms Associated": [
+        "seminary"
+    ],
+    "Street addresses associated": [
+        "North Park"
+    ]
+}

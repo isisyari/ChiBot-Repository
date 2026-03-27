@@ -1,0 +1,8 @@
+{
+    "Title": "New Chicago, IN",
+    "Descriptive Text": "Lake County, 29 miles SE of the Loop. Incorporated in 1908, New Chicago is part of the Gary metro area, located southeast of the intersections of I-65 and I-80/94. It numbered 2,063 residents according to the 2000 census, about 82 percent non-Hispanic white, the remainder mostly Latino.",
+    "Author of Text": "Steven Essig",
+    "Hyperlinked Terms Associated": [
+        "Gary"
+    ]
+}

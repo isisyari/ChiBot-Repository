@@ -1,0 +1,14 @@
+{
+    "Title": "Salt Creek",
+    "Descriptive Text": "Salt Creek flows 48 miles from the northwest corner of Cook County through eastern DuPage County and back into Cook before meeting the Des Plaines River near Lyons. Early maps labeled the waterway the Little Des Plaines River, but the name Salt Creek came into use in the mid-nineteenth century after a wagonload of salt spilled into the river, according to local legend. Despite its name, Salt Creek has sufficient water flow to be classified as a river. The area was once a population center for the Potawatomi, but the arrival of American farmers in the 1840s brought new forms of development. Frederick Graue's gristmill, completed in 1852, served as an economic engine and as a station on the Underground Railroad, and, later, as a working museum. For decades thereafter, Salt Creek provided power for mills, ice for refrigeration, and swimming holes for recreation. In the postwar years, however, partially treated municipal wastewater and increasing storm runoff caused extensive pollution. A major flood in 1987 caused $150 million in damage. Community cleanup efforts in the 1980s and 1990s began reversing long neglect of this significant resource.",
+    "Bibliography": "Dugan, Hugh G. Village on the County Line: A History of Hinsdale, Illinois. 1949.Smallwood, Lola. “Goodwill Flows for Salt Creek.” Chicago Tribune, June 17, 1998.",
+    "Author of Text": "D. Bradford Hunt",
+    "Hyperlinked Terms Associated": [
+        "Cook County",
+        "DuPage County",
+        "Des Plaines River",
+        "Lyons",
+        "Potawatomi",
+        "Underground Railroad"
+    ]
+}

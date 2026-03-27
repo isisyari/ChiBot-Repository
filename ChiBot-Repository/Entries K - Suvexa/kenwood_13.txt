@@ -1,0 +1,26 @@
+{
+    "Title": "Kenwood",
+    "Descriptive Text": "Community Area 39, 5 miles SE of the Loop. Kenwood, much like its bucolic counterparts to the north of the city, was settled in the 1850s by individuals seeking respite from the increasing congestion of Chicago. The first of these residents was Dr. John A. Kennicott, who built his home near the Illinois Central Railroad tracks at 48th Street. He named the home Kenwood after his ancestral land in Scotland, and when the Illinois Central built a small depot near 47th Street, they named the station Kenwood as well. Shortly afterwards, the name Kenwood came to be applied to the area of land between 43rd Street and 51st Street, and from the lake west to Cottage Grove Avenue.By the early 1860s, Kenwood was fast becoming a fashionable place for many of Chicago's most prominent residents. Enticed by the promise of increased transportation improvements (most notably the Illinois Central and, in the 1870s, horse railway lines), residents of note included Lyman Trumbull, the United States Senator; Norman Judd, President Lincoln's ambassador to Prussia; and William Rand, of the Rand McNally map corporation. In 1874, one publication dealing with Chicago suburbs stated that “Kenwood is the Lake Forest of the south, without the exclusiveness of its northern rival.”Kenwood continued to prosper through the 1880s and 1890s, and several new concentrations of large single-family homes began to emerge along Drexel Boulevard and between 45th and 50th Streets from Drexel Boulevard to Blackstone Avenue. The area had little retail development during this period, and most of it was concentrated along 47th Street. The area had few apartment buildings, and wealthy residents continued to commission large homes in a variety of architectural idioms, including the Prairie and Queen Anne styles. These residents included Martin Ryerson, the lumber merchant; Gustavus Swift, the meatpacker; and Julius Rosenwald, the chief executive of Sears, Roebuck & Co.While Kenwood residents had a variety of transportation options for decades, the “L” finally reached the community in 1907, and the terminus of the Kenwood branch was built out to 42nd Place and the lake in 1910. This new rapid transit facility attracted Loop office workers to the northern part of Kenwood, and rooming houses and kitchenette apartments proliferated. Numerous walk-up apartment buildings were constructed west of the Illinois Central tracks in the 1910s, and the population of the area increased to 21,000 by 1920. East of the railroad tracks some vacant land remained, but the late 1920s saw the addition of two impressive art deco elevator apartment buildings along with the increased popularity of the Chicago Beach Hotel at Hyde Park Boulevard and Lake Michigan.By the early 1930s there were signs of deterioration within the community, as the population of the area continued to grow significantly and was accommodated by the conversion of older homes into rooming houses and the subdividing of existing apartment units. As transient residents began to populate the northern half of Kenwood north of 47th Street, homeowners in the southern half began to gradually move elsewhere. This transformation accelerated from 1940 to 1960, as population increased 41 percent without new construction of residences. Conventional wisdom readily pointed to the influx of African Americans moving out of the Black Belt as the cause of community deterioration and blight in the area.The late 1940s saw the creation of the Hyde Park –Kenwood Community Conference, a group committed to maintaining a stable and integrated neighborhood in Kenwood. While much of the group's efforts were focused on the more pressing problems in Hyde Park, Kenwood benefited from the urban renewal funds that became available in the late 1950s as well, and there were several housing projects developed as a result of their efforts in the community. Kenwood experienced a renaissance in the late 1970s, as several segments of the neighborhood were designated as historic districts by the city and new residential construction began to replace vacant lots. By the late 1990s, families were moving back into the area, and an educational partnership between the Chicago Board of Education and the University of Chicago resulted in the formation of a charter school.",
+    "Bibliography": "Abrahamson, Julia. A Neighborhood Finds Itself. 1959.Hyde Park Historical Society. Some Residential Structures of Historical and Architectural Significance in Hyde Park and Kenwood. 1978.Kenwood District. Commission on Chicago Historical and Architectural Landmarks. 1979.",
+    "Author of Text": "Max Grinnell",
+    "Hyperlinked Terms Associated": [
+        "Illinois Central Railroad",
+        "transportation",
+        "Lake Forest",
+        "apartment",
+        "architectural",
+        "rapid transit",
+        "Loop",
+        "kitchenette",
+        "Hotel",
+        "African Americans",
+        "Black Belt",
+        "Hyde Park",
+        "urban renewal",
+        "University of Chicago"
+    ],
+    "Street addresses associated": [
+        "Kenwood",
+        "Hyde Park"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Title": "Calumet City, IL",
+    "Descriptive Text": "Cook County, 19 miles S of the Loop. Calumet City is located across the southeast boundary of the city of Chicago at the state line between 143rd Street and 163rd Street, east of the Bishop Ford Freeway. It is north of Lansing and southeast of Dolton. Originally known as West Hammond, Calumet City shares State Line Road with Hammond.Founded in 1893 when the population consisted mainly of German Lutheran farmers, the early community depended heavily on the factories and commerce of Hammond. The 1900 population of 2,935 grewto 7,492 by 1920. By that time, Poles outnumbered Germans, with residents of Irish ancestry in third place. Poles were so politically powerful in the community that a Polish American was elected village president in 1900 and in 1902 one municipal party was able to field a slate made up completely of candidates with Polish names.When Indiana went dry in 1916, West Hammond became an attractive watering hole for the drinkers of northwest Indiana. Bootleggers like Al Capone built on this base when national Prohibition came into play, and the town of West Hammond, just 30 minutes from downtown Chicago, gained a reputation as a “Sin City,” where gambling, prostitution, and illegal booze joints created a pre–Las Vegas strip on State Street. Hardworking residents were so dismayed by the town's bad reputation that they voted in 1923 to change the name to Calumet City. Despite the city's notoriety, the population grew from 7,500 to 12,300 during the 1920s, reaching 25,000 in 1960, 32,956 in 1970, and 39,697 in 1980. Since the 1920s various mayors and citizen groups battled to shut down the State Street bars with varying success, until Mayor Jerry Genova's efforts in the 1990s seemed to bring that chapter of the city's history to an end.In 1966 investors spent $35 million and built the 80-store River Oaks Shopping Center. The center's excellent location on U.S. Route 6, a few miles from the Bishop Ford Freeway, brought customers from Chicago's South Side, and a renovation in the early 1990s (completely enclosing the previously open-air mall) maintained its drawing power.In 2000 Calumet City's population was 39,071, with 54 percent African American and 11 percent Hispanic. Thirteen percent of Calumet City residents reported Polish ancestry, with smaller percentages of German, Irish, and Italian ancestry.",
+    "Bibliography": "McGahen, Adeline. “Calumet City Centennial Celebration.” Calumet City Public Library. 1993.",
+    "Author of Text": "Dominic Candeloro",
+    "Hyperlinked Terms Associated": [
+        "Lansing",
+        "Dolton",
+        "Hammond",
+        "German",
+        "Poles",
+        "Irish",
+        "Prohibition",
+        "gambling",
+        "prostitution",
+        "South Side",
+        "African American"
+    ],
+    "Street addresses associated": [
+        "Lansing",
+        "Dolton"
+    ]
+}

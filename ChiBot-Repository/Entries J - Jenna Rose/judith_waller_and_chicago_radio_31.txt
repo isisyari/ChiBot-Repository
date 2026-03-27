@@ -1,0 +1,11 @@
+{
+    "Title": "Judith Waller and Chicago Radio",
+    "Descriptive Text": "Judith Waller—Chicago's “First Lady of Radio”—believed that broadcasting's potential as an educational medium was unlimited. She developed network programs that ranged from radio's University of Chicago Roundtable to television's Ding Dong School. Her Radio, the Fifth Estate, published in 1946, is the most thorough treatment of the broadcast practices of radio's golden age.Chicago's Daily News hired Waller in April 1922 to put its newly licensed radio station on the air. Under her leadership, WMAQ evolved from a two-person operation into one of the nation's leading stations. WMAQ was the home of Amos 'n' Andy and the first station to broadcast a complete home season of a professional baseball team (thanks to Waller's negotiations with the Chicago Cubs ).When NBC purchased WMAQ in November 1931, Waller became the director of public affairs programming for the network's Central Division, a position she held until her 1957 retirement.",
+    "Author of Text": "Rich Samuels",
+    "Hyperlinked Terms Associated": [
+        "Ding Dong School",
+        "Amos n Andy",
+        "baseball",
+        "Cubs"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Title": "Fort Dearborn",
+    "Descriptive Text": "As a part of the 1795 Treaty of Greenville, the U.S. government acquired a parcel of land at the mouth of the Chicago River from Native Americans. Strategically important, the portage area became even more so after the acquisition of the Louisiana Territory in 1803, and in that year Capt. John Whistler arrived in Chicago to build a fort named after Henry Dearborn, President Thomas Jefferson's secretary of war.By 1808 the fort rose on a small hill of the south bank of the Chicago River, which wrapped along the Lake Michigan shoreline instead of emptying directly into the lake as it does today. The American soldiers and their families lived within the palisaded fort. To the south of the fort were the homes and businesses of the factor, interpreter, agent, merchant, and armorer. To the north of the river lived John Kinzie and other traders with British, French, and Indian ties.In August 1812, the American force evacuated Fort Dearborn and was attacked along the lakeshore by area Indians as the contingent began its journey to Fort Wayne. After this attack, known as the Fort Dearborn Massacre, Native Americans burned the fort and the area was little inhabited until 1816 when the U.S. army returned to rebuild. Soldiers and traders returned to the area. The new fort was the center for military activity during the Black Hawk War, and area residents took refuge there as well. By 1840, the fort had outlived its military usefulness, but it was not demolished until 1857.A bronze marker in the pavement at Michigan Avenue and Wacker Drive marks the approximate site of the first and second Fort Dearborns.",
+    "Bibliography": "Peterson, Jacqueline. “The Founding Fathers: The Absorption of French-Indian Chicago, 1816–1837.” In Ethnic Chicago: A Multicultural Portrait, 4th ed., ed. Melvin G. Holli and Peter d'A. Jones, 1995.Pierce, Bessie Louise. A History of Chicago, vol. 1. 1937.Quaife, Milo M. Checagou. 1933.",
+    "Author of Text": "Ann Durkin Keating",
+    "Hyperlinked Terms Associated": [
+        "Treaty",
+        "Chicago River",
+        "portage",
+        "Lake Michigan",
+        "French",
+        "Black Hawk War"
+    ]
+}

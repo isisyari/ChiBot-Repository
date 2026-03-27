@@ -1,0 +1,13 @@
+{
+    "Title": "Music Publishing",
+    "Descriptive Text": "Chicago's music publishing has mirrored the cultural history of the city and the nation through music for the church, school, popular entertainment, and the home, from the first piece of music in 1854, “The Garden City Polka,” by Christoph Plagge, published by B. K. Mould, to the rise of gospel music. The high point came during the Civil War, when patriotic songs like “The Battle Cry of Freedom” (1862) made Chicago a national center. Earlier, music had been issued primarily for a local market, but the Civil War songs made H. M. Higgins (1856) and Root & Cady (1858) nationally known. The Great Fire of 1871 ended this activity. For the next 10 years little music was published. Among the pre-fire firms only Lyon & Healy (1864) survived.In the 1880s inexpensive (five–ten cent) music began to be issued by the National Music Company (1882), Saalfield Brothers (1888), and McKinley Music Company (1891). Religious music became increasingly prominent, from publishers like Edwin O. Excell (1885), Hope Publishing Company (1894), and the Rodeheaver Company (1910). Clayton F. Summy was one of Chicago's longest-lived music publishers, specializing in teaching material, sacred music, and works by Chicago composers.With the popularity of Vaudeville in the 1890s, Chicago became a center for popular song publishers, like Will Rossiter (1891), publisher of “The Darktown Strutters' Ball” (1917), and the Melrose Brothers Music Company (1920), publisher of “King Porter Stomp” (1924) and “It's Tight Like That” (1928).As Chicago became a center of gospel music, it also became a center for publishing that music. The most notable firms were established by musician/composers: Dorsey House (Thomas A. Dorsey) and the Martin and Morris Music Company (Kenneth Morris and Sallie Martin).",
+    "Bibliography": "Brubaker, Robert L. “Music Publishing.” In Making Music Chicago Style, 1985.Epstein, Dena J. Music Publishing in Chicago Before 1871: The Firm of Root & Cady, 1858–1871. 1969.Thorson, Theodore W. “A History of Music Publishing in Chicago, 1850–1900.” Ph.D. diss., Northwestern University. 1961.",
+    "Author of Text": "Dena J. Epstein",
+    "Hyperlinked Terms Associated": [
+        "gospel",
+        "Civil War",
+        "sacred music",
+        "Fire of 1871",
+        "Vaudeville"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Chicago Sun-Times",
+    "Descriptive Text": "Although the Chicago Sun-Times was launched in February 1948 through the merger of the morning Chicago Sun and the evening Times, it is in a sense the city's oldest daily—continuing the Chicago Evening Journal, published from 1844 until 1929, when it was re-launched as the Daily Illustrated Times.In contrast to the stodgy Journal, the Daily Times was a sprightly, progressive paper. The Times used tabloid format and style to appeal to a mass audience with hard-hitting reporting, lots of photographs, and a heavy dose of carefully chosen features. It was bought in 1947 by department store heir Marshall Field III, who was looking for printing presses for his Chicago Sun, founded in December 1941 to challenge the Tribune's monopoly in the morning field.Field's heirs lacked his liberal politics and his commitment to newspapering, and the Sun-Times gradually moved to the right, endorsing Richard Nixon for president in 1968.In 1984 the Field family sold the Sun-Times to Rupert Murdoch's News Corporation, prompting popular columnist Mike Royko to flee to the Tribune. Murdoch sold the paper two years later to its managers and an investment partnership, who in 1994 sold the Sun-Times and its chain of community papers to Conrad Black's American Publishing Company.",
+    "Bibliography": "Becker, Stephen. Marshall Field III. 1964.Meyers, Walter C. “Chicago's Mister Finnegan: A Gentle Man of the Press.” Ph.D. diss., Northwestern University. 1959.Weston, Mary Ann. “The Daily Illustrated Times: Chicago's Tabloid Newspaper.” Journalism History 16 (3/4) (Autumn–Winter 1989): 76–86.",
+    "Author of Text": "Jon Bekken",
+    "Hyperlinked Terms Associated": [
+        "department store",
+        "printing"
+    ]
+}

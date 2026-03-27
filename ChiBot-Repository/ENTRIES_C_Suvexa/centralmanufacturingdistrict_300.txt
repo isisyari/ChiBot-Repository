@@ -1,0 +1,21 @@
+{
+    "Title": "Central Manufacturing District",
+    "Descriptive Text": "The Central Manufacturing District (CMD) was a 265-acre industrial park created in 1905 by Frederick Henry Prince, an East Coast investor. Bounded roughly by 35th Street to the north, Morgan Street to the east, Pershing Road to the south, and Ashland Avenue to the west, the CMD was the first planned manufacturing district in the United States. Prince acquired the Chicago Junction Railroad at the turn of the century as a switching line that transported goods from the Chicago Union Stock Yard to major trunk railroad lines. Recognizing the potential, Prince developed the CMD as a way to enhance and expand business operations.By 1915, some two hundred firms were using the CMD, many renting space with the option to buy, providing a work location for 40,000 people when combined with the Union Stock Yard. The CMD functioned as private banker, business incubator, and maintenance operator, including landscaping and upkeep of the grounds.In 1915, Prince began a second 90-acre industrial park on the south side of Pershing Road. Highly successful, the CMD has developed industrial parks across the metropolitan area including those in Itasca, St. Charles, Phoenix, and Aurora. In 1983, the Meridian Business Campus in Aurora was designed to provide connections between office, research, and production facilities. Newer parks have also been adapted for intermodal transit for trucking and storage. The CMD spawned copycat developments such as the Clearing Industrial Park in 1909 and the CENTEX Industrial Park in Elk Grove in 1956.",
+    "Bibliography": "Cutler, Irving. Chicago: Metropolis of the Mid-Continent. 1982.Mayer, Harold M., and Richard C. Wade. Chicago: Growth of a Metropolis. 1969.Pacyga, Dominic A., and Ellen Skerrett. Chicago, City of Neighborhoods: Histories and Tours. 1986.",
+    "Author of Text": "Clinton E. Stockwell",
+    "Hyperlinked Terms Associated": [
+        "Railroad",
+        "Union Stock Yard",
+        "business",
+        "Itasca",
+        "St. Charles",
+        "Phoenix",
+        "Aurora",
+        "Clearing",
+        "Elk Grove"
+    ],
+    "Street addresses associated": [
+        "South Side",
+        "Bronzeville"
+    ]
+}

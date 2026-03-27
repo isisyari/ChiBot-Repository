@@ -1,0 +1,10 @@
+{
+    "Title": "MoMing Dance and Arts Center",
+    "Descriptive Text": "MoMing, a neighborhood center for dance training and avant-garde performance, was formed in 1974 by Jackie Radis, Jim Self, Susan Kimmelman, Eric Trules, Kasia Mintch, Tem Horowitz, and Sally Banes. Located at 1034 W. Barry in a building owned by the Resurrection Lutheran Church, the center continued for 16 financially turbulent years to provide local and visiting artists with a small-scale performance space suitable for experimental work informed by the visual arts. As the Harper Theatre Dance Festival had done with modern dance in the mid-sixties, MoMing introduced Chicago to the nation's leading postmodern choreographers, including Trisha Brown, Meredith Monk, and Bill T. Jones. After many financial crises, MoMing failed just after its most promising achievement—the 1989 festival “German Dance: Living Memories with a Future,” conceived by Peter Tumbelston and Julie Simpson.",
+    "Bibliography": "Ann Barzel Research Collection, Newberry Library, Chicago, IL.Chicago Dance vertical files on MoMing, Visual and Performing Arts Division, Harold Washington Library, Chicago, IL.",
+    "Author of Text": "Nancy G. Moore",
+    "Hyperlinked Terms Associated": [
+        "dance training",
+        "modern dance"
+    ]
+}

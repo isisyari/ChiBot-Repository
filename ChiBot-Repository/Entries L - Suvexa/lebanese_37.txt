@@ -1,0 +1,20 @@
+{
+    "Title": "Lebanese",
+    "Descriptive Text": "Lebanon has one of the largest diasporas of the Arab world. Approximately as many Lebanese live outside their country of origin as inside, leading one historian of Lebanese emigration to remark that there are really two Lebanons: the Republic of Lebanon, and “the Lebanon of overseas” (“le Liban d'outre-mer”). Since the late nineteenth century, Lebanese have immigrated to Africa, Asia, the Americas, and Australia, with especially large numbers settling in the United States and Latin America. By the end of the twentieth century approximately 1.5 million Americans of Lebanese descent lived in the United States.The Lebanese in Chicago trace their roots to one of two large waves of emigration out of Lebanon. The first—lasting roughly from the 1880s to World War I —consisted of a large-scale exodus of peasants, artisans, and entrepreneurs from Ottoman Syria (of which Lebanon was a part) to the Americas. A small but enterprising group among them made their way to Chicago's World's Columbian Exposition of 1893 to sell their wares on the Midway Plaisance. Many stayed on after the fair had closed to work as street peddlers, in dry-goods retail, and the textile trade. They were part of the larger “ Syrian ” community in the greater Chicago area which, according to a 1913 estimate by a Syrian cleric, comprised over 3,000 people. The residential core of the Syrian-Lebanese community was located between 12th and 15th Streets and California and Kedzie Avenues.As the community flourished on Chicago's West Side, its members established institutions consistent with religious and newly formed national solidarities. Lebanese Maronites, for example, founded their own club in 1948 which was instrumental in raising funds for an Eastern-rite church called Our Lady of Lebanon. In 1956, a priest was sent from Tucuman, Argentina, to lead the congregation, which proudly purchased its own building near Waller and Race Avenues, where it remained until moving to suburban Hillside in 1973. Actor and comedian Danny Thomas (born Muzyad Yakhoob) attended Our Lady of Lebanon, and encouraged his fellow Lebanese to support his project for the building of St. Jude Children's Research Hospital in Memphis, Tennessee, which, since its establishment in 1962, has become the largest childhood cancer research center in the United States.The second important wave of Lebanese emigration occurred as a result of the political and economic turmoil that plagued Lebanon for over a decade, beginning with the devastating civil war of 1975–76. Immigration to Dearborn (Michigan), Los Angeles, and Chicago rose dramatically as Lebanese sought refuge outside their war-torn country. This immigration was substantially different from the earlier one. While the first wave had been predominantly Roman Catholic, this immigration was multisectarian and reflected a wide range of professional interests. Students, for example, came to Chicago to attend university and went on to work as engineers, doctors, and pharmacists. Several hundred among them returned to Lebanon in the late 1990s to assist in reconstruction programs implemented after the formal end of civil strife. Lebanese-owned retail stores, groceries, and bakeries in Chicago are also a product of the second wave of immigration. In addition, numerous Lebanese restaurants have become popular since the 1970s, catering not only to the city's sizable Arab American community, but to Chicagoans' growing affection for Mediterranean food as well.",
+    "Bibliography": "Hourani, Albert, and Nadim Shehadi, eds. The Lebanese in the World: A Century of Emigration. 1992.Naff, Alixa. Becoming American: The Early Arab Immigrant Experience. 1985.",
+    "Author of Text": "Sarah Gualtieri",
+    "Hyperlinked Terms Associated": [
+        "World War I",
+        "Worlds Columbian Exposition",
+        "street peddlers",
+        "Syrian",
+        "Eastern-rite",
+        "Hillside",
+        "Roman Catholic",
+        "groceries",
+        "restaurants"
+    ],
+    "Street addresses associated": [
+        "Hillside"
+    ]
+}

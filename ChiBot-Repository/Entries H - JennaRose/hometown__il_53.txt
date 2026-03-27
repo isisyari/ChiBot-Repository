@@ -1,0 +1,8 @@
+{
+    "Title": "Hometown, IL",
+    "Descriptive Text": "Cook County, 12 miles SW of the Loop. Joseph E. Merrion developed inexpensive duplex houses in Hometown after World War II, targeting former GIs and their families. Hometown incorporated in 1953, and its population peaked at over 7,000 in 1958. In 1967, a tornado struck the town, destroying 86 homes and damaging 500 others. During the 1990s Hometown remained a close-knit community of fewer than 5,000 working-class residents.",
+    "Author of Text": "Erik Gellman",
+    "Hyperlinked Terms Associated": [
+        "World War II"
+    ]
+}

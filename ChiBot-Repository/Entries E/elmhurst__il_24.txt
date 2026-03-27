@@ -1,0 +1,29 @@
+{
+    "Title": "Elmhurst, IL",
+    "Descriptive Text": "DuPage County, 16 miles W of the Loop. Elmhurst shares the agricultural roots of its DuPage neighbors, but also served as an elegant center for great estate owners during the late nineteenth century and was DuPage's largest city in the 1920s.York Township's early residents came mainly from New York or Europe to live along Salt Creek; Germans, such as Frederick Graue, settled in the north near the Elmhurst- Addison boundary, and those of predominantly English ancestry resided in the south near today's Butterfield Road. The village remained bilingual for decades.Gerry Bates, referred to as Elmhurst's founder, brought a sense of community to the area when his Hill Cottage Tavern opened in 1843 as inn, stage stop, and local gathering place. In 1849 the Galena & Chicago Union Railroad arrived, and the community was officially named Cottage Hill, after the tavern. York Street became the village's main thoroughfare. In 1850 School District No. 1 was organized, with both English and German spoken in the classroom. The German Evangelical Synod of the Northwest established a proseminary in 1871, which later became Elmhurst College.Thomas Barbour Bryan, a Virginia-born lawyer, purchased a thousand acres from Bates and built a country house. His contributions to the town led residents to refer to him as “The Father of Elmhurst.” In 1862, he organized the first Protestant church as an Episcopal lay reader (St. Mary's Roman Catholic Church was founded the same year). Bryan's brother-in-law, Jedediah H. Lathrop, joined with other estate owners in planting a large number of elm trees along Cottage Hill, from which Elmhurst acquired its present name in 1869.The fire of 1871 brought wealthy refugees to Elmhurst and marked the onset of Elmhurst's gilded age, an era of elegant socializing that lasted into the twentieth century. By the turn of the century, what is now the site of York High School had served as both the Elmhurst Golf Club and the original Hawthorne racetrack (relocated to Cicero ).Elmhurst was incorporated in 1882, serving not only these wealthy estate owners, but also farmers, local businessmen, and owners of area industries. In 1883 Adolph Hammerschmidt and Henry Assman founded Elmhurst-Chicago Stone Company near the village's western limits to quarry dolomite limestone.During the 1920s Elmhurst became DuPage's largest city, with paved streets, a city planning commission and the founding in 1926 of the Elmhurst Memorial Hospital. The city-manager form of government was adopted in 1953. Elmhurst grew as a railroad suburb with many urban amenities, including Elmhurst College (whose campus is an accredited arboretum), the Lizzadro Museum of Lapidary Art (1962), the Elmhurst Art Museum, a public library, a park district, the Wilder Park conservatory (1923), the Elmhurst Historical Museum (1956), and the Elmhurst Symphony Orchestra (1960). Though essentially landlocked by the 1990s, Elmhurst engaged in ongoing redevelopment.",
+    "Bibliography": "Russell, Don. Elmhurst: Trails from Yesterday. 1977.Thompson, Richard A., ed. DuPage Roots. 1985.",
+    "Author of Text": "Jane S. Teague",
+    "Hyperlinked Terms Associated": [
+        "DuPage",
+        "Salt Creek",
+        "Germans",
+        "Addison",
+        "English",
+        "bilingual",
+        "Railroad",
+        "Elmhurst College",
+        "Protestant",
+        "Roman Catholic",
+        "trees",
+        "fire of 1871",
+        "Golf",
+        "Cicero",
+        "quarry",
+        "Elmhurst College",
+        "park district"
+    ],
+    "Street addresses associated": [
+        "Addison",
+        "Cicero"
+    ]
+}

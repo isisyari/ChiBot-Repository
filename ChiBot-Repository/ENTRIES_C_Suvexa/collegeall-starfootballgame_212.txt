@@ -1,0 +1,13 @@
+{
+    "Title": "College All-Star Football Game",
+    "Descriptive Text": "Initiated in 1934 by Arch Ward of the Chicago Tribune, the College All-Star Game football series was played annually in Chicago through 1976. Soon achieving status as the official opening of each football season, the game placed Chicago in the national sporting limelight each year as hundreds of newspaper writers from around the country attended.Matching a team of graduated All-American players from the previous season against the defending National Football League professional champion, the games were all played at Soldier Field —except for two games held at Northwestern. During its lifetime the series raised approximately $4 million for various Chicago-area charities.",
+    "Bibliography": "Littlewood, Thomas B. Arch: A Promoter, Not a Poet. 1990.Schmidt, Raymond. Football's Stars of Summer: A History of the College All-Star Football Game Series of 1934–1976. 2001.",
+    "Author of Text": "Raymond Schmidt",
+    "Hyperlinked Terms Associated": [
+        "Chicago Tribune",
+        "football",
+        "newspaper",
+        "Soldier Field",
+        "Northwestern"
+    ]
+}

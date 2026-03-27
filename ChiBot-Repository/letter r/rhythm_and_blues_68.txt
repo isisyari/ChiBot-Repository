@@ -1,0 +1,16 @@
+{
+    "Title": "Rhythm and Blues",
+    "Descriptive Text": "From the first decades after World War II, Chicago was a major center for rhythm and blues, a new eclectic style of black-appeal popular music that grew out of Blues and Jazz. Operating out of “Record Row” (Cottage Grove between 47th and 50th), Chicago's independent record companies, including Chicago's Miracle (founded 1946), Chess (founded as Aristocrat in 1947), Chance (1950), United (1952), and Vee-Jay (1953), helped to spread its popularity nationally and internationally.Phil and Leonard Chess had achieved their original success with blues artists before becoming a major factor in the exploding R&B market with such guitarist/singers as Chuck Berry and Bo Diddley and such vocal harmony groups as the Flamingos and the Moonglows. Vee-Jay, founded by Jimmy Bracken and Vivian Carter, enjoyed success on both the R&B and pop charts with bluesman Jimmy Reed and with groups like the Spaniels and El Dorados. Many of these R&B artists crossed over to the pop charts and contributed significantly to the development of rock ‘n’ roll.By the early 1960s, a relocated Record Row on South Michigan Avenue became the production, distribution, and marketing center for a new style of gospelized R&B called soul. The first notable Chicago soul-style record was Vee-Jay's “For Your Precious Love,” a 1958 hit by Jerry Butler and the Impressions. Other notable Vee-Jay soul artists were Dee Clark, Betty Everett, and Gene Chandler. Led by producer Carl Davis, Chicago-based Okeh (Columbia's independently distributed R&B subsidiary) had huge success in the soul market with Major Lance, Billy Butler, Walter Jackson, and the Vibrations. Under Roquel “Billy” Davis, Chess produced hits for Etta James, Little Milton, the Dells, and Billy Stewart. George Leaner's One-derful (1962) specialized in southern-style “hard soul,” featuring screamed lyrics, melisma (melodic embellishment), and rasping timbres. His most notable artists included Otis Clay, McKinley Mitchell, and the Five Du-Tones. These independent soul labels benefited from their policy of maintaining woodshedding practice studios and house bands that kept creativity high.At Brunswick, Carl Davis produced major 1970s soul hits by Jackie Wilson, Barbara Acklin, Tyrone Davis, and the Chi-Lites. Curtis Mayfield, who with the Impressions had been one of Chicago's most significant R&B groups, helped pioneer the funk style of soul with his Superfly soundtrack, produced on his own Curtom label.Although the city's record industry declined after the 1970s, Chicago continued to contribute to R&B. It introduced America in the 1980s to a dance-oriented version of R&B called house, a disco variant developed by club deejays at the Warehouse on the West Side. In the next decade, Chicago-based performers R. Kelly, Common (Rashied Lynn), and Crucial Conflict had national R&B hits.",
+    "Bibliography": "Pruter, Robert. Chicago Soul. 1991.Pruter, Robert. Doowop: The Chicago Scene. 1996.Rowe, Mike. Chicago Blues: The City and the Music. 1981.",
+    "Author of Text": "Robert Pruter",
+    "Hyperlinked Terms Associated": [
+        "World War II",
+        "Blues",
+        "Jazz",
+        "Chess",
+        "rock"
+    ],
+    "Street addresses associated": [
+        "West Side"
+    ]
+}

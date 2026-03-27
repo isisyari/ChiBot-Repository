@@ -1,0 +1,5 @@
+{
+    "Title": "Seiches",
+    "Descriptive Text": "A seiche (pronounced “saysh”) is a sudden fluctuation of water levels on a lake or inland sea. The Great Lakes are among the few regions in the world where these potentially deadly events occur.When a strong and rapid change in atmospheric pressure takes place on one side of a lake, usually associated with a line of thunderstorms, it can cause the water level to drop. As a result, the water level rises at the other end of the lake, in a motion that sometimes resembles a tidal wave. This sudden rise in water levels is potentially dangerous to swimmers, boaters, or anyone near the water.Eight people drowned in Chicago's most tragic seiche, on June 26, 1954; a ten-foot wave swept seven people off the rocks at Montrose Harbor and an eighth from North Avenue Bridge. Since then, there have been numerous seiche scares and reports of smaller seiches, but none that caused similar damage or deaths.",
+    "Author of Text": "Thomas G. Bobula"
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Chicago (Chicago Transit Authority)",
+    "Descriptive Text": "Long-lived rock band featuring sax, trombone, and trumpet, and an extremely successful melodic ballad style. Formed in Chicago in 1967 as the “Big Thing,” the band's first producer, James Guercio, suggested the name “ Chicago Transit Authority, ” later shortened to “Chicago” after the CTA threatened to sue. Relocating to Los Angeles in 1968, the band signed to Columbia, releasing its first album in 1969. It went gold, the first of 18 albums to reach gold or platinum status. “Chicago” will be remembered both for their pioneering jazz-rock of “25 or 6 to 4” and ballads “Hard to Say I'm Sorry” and “You're the Inspiration.” Their 1995 album “Night & Day” was an interpretation of the big bands of the 1930s and '40s.Original members: Peter Cetera, Terry Kath, Robert Lamm, Lee Loughnane, James Pankow, Walter Parazaider, Danny Seraphine.",
+    "Bibliography": "MacDonald, Meg. “Chicago.” In Contemporary Musicians, vol. 3. 1990, 32–34.Stambler, Irwin. Encyclopedia of Pop, Rock and Soul. 1989, 117–120.",
+    "Author of Text": "Jeanette L. Casey",
+    "Hyperlinked Terms Associated": [
+        "rock",
+        "Chicago Transit Authority"
+    ]
+}

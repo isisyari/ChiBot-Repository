@@ -1,0 +1,24 @@
+{
+    "Title": "Villa District",
+    "Descriptive Text": "The Villa District is an architectural study of bungalows. Its boundaries are the alley east of Pulaski Road, Avondale Avenue, Hamlin Avenue, and Addison Street. Most of the houses were built between 1907 and 1922.Albert Haentze and Charles M. Wheeler purchased the land in 1907, when restrictive covenants were already in place determining lot lines and spacing. The bungalows were designed in the “Chicago” and “California” styles with numerous variations. The simple American Foursquare was a boxlike structure with a broad front porch inspired by Prairie school architecture. Other styles included elements of colonial or Tudor design.The houses sat on parklike landscapes and sold for from $4,000 to as much as $20,000 for mansion-sized houses. Any number of combinations went into the exterior, such as clapboard, brick, shingles, and stucco. The interior was typically long and narrow. Although Haentze and Wheeler sold most of their vacant Villa property in 1913, subsequent building followed the same patterns.The Villa Improvement League was begun in 1907 by area builders to foster community participation and preserve the uniqueness of the neighborhood. In 1923 the league enhanced the Villa District by building six-foot-tall rock structures crowned with flower boxes on every street corner.Between 1986 and 1991, residents planted 120 trees to replace those killed in the 1960s epidemic of Dutch elm disease. In 1992 the Villa's 126 homeowners bought their own snow equipment to clear their streets. Named a National Historic District, the picture-perfect, tree-lined streets of the Villa District lend a quiet suburban quality to the heart of the city.",
+    "Bibliography": "Commission on Chicago Historical and Architectural Landmarks. “The Villa District: Preliminary Summary of Information.” May 1982.Prosser, Daniel J. “Chicago and the Bungalow Boom of the 1920s.” Chicago History (Summer 1981): 86–95.Roberts, Gary. “Villa Neighbors Find Life Easy.” Portage Park Times, September 10, 1992.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Street addresses associated": [
+        "Avondale",
+        "Back of the Yards",
+        "Bridgeport",
+        "Bronzeville",
+        "Chinatown",
+        "East Garfield Park",
+        "Englewood",
+        "Humboldt Park",
+        "Little Village",
+        "Near West Side",
+        "Pilsen",
+        "South Chicago",
+        "South Loop",
+        "Uptown",
+        "Washington Park",
+        "Woodlawn"
+    ]
+}

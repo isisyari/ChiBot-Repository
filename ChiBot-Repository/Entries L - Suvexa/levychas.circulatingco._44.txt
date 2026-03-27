@@ -1,0 +1,9 @@
+{
+    "Title": "Levy (Chas.) Circulating Co.",
+    "Descriptive Text": "In 1893, the 15-year-old Charles Levy won a horse and wagon in a raffle and began to haul newspapers around Chicago's West Side. By the 1920s, his company was distributing newspapers to the suburbs as well. In 1949, when the company was distributing not only newspapers but also magazines and paperback books, the center of operations moved to Goose Island, in the middle of the Chicago River. By the early 1950s, the company owned a fleet of over 60 trucks and amassed annual sales of about $5 million. Over time, the company began to increase its business outside the Chicago region. By the end of the 1980s, when Barbara Levy Kipper headed the company, over half of its some $360 million in annual sales occurred outside the Chicago area, where it still employed as many as 1,600 people. By the end of the 1990s, the Chas. Levy Co. was the largest distributor of periodicals in the Midwest and one of the largest in the nation; it continued to call Chicago home and employed several hundred people in the area.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff.",
+    "Street addresses associated": [
+        "West Side",
+        "Goose Island"
+    ]
+}

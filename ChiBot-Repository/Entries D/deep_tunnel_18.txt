@@ -1,0 +1,13 @@
+{
+    "Title": "Deep Tunnel",
+    "Descriptive Text": "The $4 billion Tunnel and Reservoir Plan (TARP), better known as “The Deep Tunnel,” is the Metropolitan Water Reclamation District of Greater Chicago's answer to water pollution and sewer backup problems in 52 municipalities in Cook County. Begun in 1975, and at one time the nation's largest municipal water pollution control project, it involves the construction of 109 miles (174 kilometers) of tunnels 9 to 33 feet (3 to 10 meters) in diameter excavated in dolomitic limestone bedrock as much as 350 feet (107 meters) below the surface. These tunnels will collect combined sanitary and storm sewer flows and convey them to surface reservoirs, such as quarries, for storage until the area's water reclamation plants can treat and safely discharge the effluent.The first phase of construction, 85 percent complete in 1999, is designed to minimize water pollution by reducing the discharge of untreated sewage into the area's streams and Lake Michigan, the source of the region's drinking water. Phase 2, begun in 1990, will reduce sewer backup into homes and businesses if adequate flood storage capacity can be constructed or acquired. The entire project is expected to be completed after 2015.Because of the region's aging infrastructure and high runoff characteristics, frequent large storms can cause commingling of sanitary and storm sewer flows that exceed the system's ability to handle the load. The Deep Tunnel is designed to reduce and nearly eliminate the release of untreated water to streams, Lake Michigan, and people's basements.",
+    "Bibliography": "American Society of Civil Engineers. “The Tunnel That Cleaned Up Chicago.” Civil Engineering, July 1986.",
+    "Author of Text": "David L. Schein",
+    "Hyperlinked Terms Associated": [
+        "Cook County",
+        "water",
+        "quarries",
+        "Lake Michigan",
+        "infrastructure"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Title": "Indian Creek, IL",
+    "Descriptive Text": "Lake County, 30 miles NW of the Loop. Area residents incorporated in 1958 as a preventative against encroachment from their neighbor Vernon Hills. In 2000 Indian Creek encompassed the smallest area of any municipality in Lake County, with a population of 194.",
+    "Author of Text": "Erik Gellman",
+    "Hyperlinked Terms Associated": [
+        "Vernon Hills",
+        "Lake County"
+    ],
+    "Street addresses associated": [
+        "Loop"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "Title": "Chicago's Central Business District and Principal Transportation Lines, 1904",
+    "Descriptive Text": "This 1904 map charts major public transportation routes in the city's commercial center at that time. The map reverses the usual directional orientation, since it places south at the top and east to the left. One can readily see the Loop Elevated Railroad (or Union Loop) that defines the downtown to this day, as well as the several scattered passenger railroad stations (and the lines they served) that the planners hoped to replace with fewer, larger, and more efficient terminals. Other familiar landmarks that remain are the Marshall Field Store, the Chicago Cultural Center (then the Chicago Public Library), and the Art Institute. City Hall is in the same block, but the building outlined here was to be demolished and replaced with the current structure by 1911. Some street names have also changed. Fifth Avenue is now Wells Street.",
+    "Bibliography": "Creator: American Society of Mechanical EngineersSource: Chicago Historical Society (ICHi-34342)"
+}

@@ -1,0 +1,8 @@
+{
+    "Title": "Wrigley Co. Letterhead, c.1915",
+    "Descriptive Text": "This engraving from the letterhead of chewing-gum manufacturer William Wrigley Jr. Co. indicated the company's expansion in overseas sales and production. Based upon the popularity of its industry-leading \"Spearmint\" brand, Wrigley Co. extended its foreign operations during the 1910s and claimed to be \"the brand that is sold all over the world.\" The manufacturing facility pictured here was in the McKinley Park Community Area at 3527 S. Ashland Ave., just south of the Sanitary and Ship Canal. The company's business headquarters were then located in the Loop, and would be moved to the Wrigley Building on North Michigan Avenue after construction was completed in 1921.",
+    "Street addresses associated": [
+        "McKinley Park",
+        "Loop"
+    ]
+}

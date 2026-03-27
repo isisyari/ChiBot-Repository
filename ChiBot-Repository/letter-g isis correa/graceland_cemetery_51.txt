@@ -1,0 +1,17 @@
+{
+    "Title": "Graceland Cemetery",
+    "Descriptive Text": "Graceland Cemetery was founded in 1860 as a private, parklike resting place just north of Chicago's city limits. Now situated on 121 acres between Irving Park Road, Clark Street, Montrose Avenue, and the Howard rapid transit, it holds the remains of many famous Chicago personalities. Graceland also showcases an expansive range of burial and architectural styles, as several grave sites were designed by important architects and artists, some of whom are buried here as well.Until midcentury, the city's lakefront cemetery was located in present-day Lincoln Park. When many feared that the burials would contaminate nearby Lake Michigan, the Chicago City Council decreed that all graves be moved to private cemeteries, including the bucolic Graceland.Thomas Bryan, a successful businessman and civic booster, founded Graceland Cemetery. Early designs by H. W. S. Cleveland called for the cemetery's uniform appearance, without fences around individual plots. Ossian Simonds created a permanent plan that used native plants and naturalistic landscape techniques. The firm of Holabird & Roche designed the cemetery buildings, which fit into the natural landscape design.Marshall Field, George Pullman, Ludwig Mies van der Rohe, and Potter and Bertha Palmer are among those buried in Graceland. Their resting places are marked respectively by a somber statue by Daniel Chester French, a stately column by Solon Beman, a streamlined headstone by Dirk Lohan, and a Greek temple by McKim, Mead & White. One of Louis Sullivan's outstanding works, the Getty tomb, as well as his own remains, are also in Graceland Cemetery.",
+    "Bibliography": "Lanctot, Barbara. A Walk through Graceland Cemetery. 1988.Sinkevitch, Alice, ed. AIA Guide to Chicago. 1993.",
+    "Author of Text": "Heidi Pawlowski Carey",
+    "Hyperlinked Terms Associated": [
+        "rapid transit",
+        "architectural",
+        "artists",
+        "Lincoln Park",
+        "Lake Michigan",
+        "cemeteries"
+    ],
+    "Street addresses associated": [
+        "Lincoln Park"
+    ]
+}

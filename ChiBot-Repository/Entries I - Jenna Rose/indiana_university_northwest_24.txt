@@ -1,0 +1,14 @@
+{
+    "Title": "Indiana University Northwest",
+    "Descriptive Text": "The Indiana University Northwest campus originated in 1917 as a joint project of the Gary Schools and Indiana University, which offered extension courses in Hammond, Gary, and East Chicago. Instructors traveled from Bloomington and Chicago, and, by 1922, students could complete the requirements for an Associate of Arts degree. In 1932 Indiana University abandoned the Gary program to concentrate its extension work at the Calumet Center in East Chicago. Unwilling to allow Depression-hit Gary families to lose their opportunity to send their children to college, Gary Schools superintendent William A. Wirt opened Gary College.In 1948 Indiana University assumed control of the struggling college, and the Gary Center of Indiana University grew rapidly in the 1950s. The city of Gary donated 27 acres of land in Gleason Park in 1955 and four years later the new campus opened. In 1963 the two Lake County campuses of Indiana University, the Calumet Center and the Gary Center, merged as the Northwest Campus of Indiana University, renamed Indiana University Northwest in 1968. The Northwest Center for Medical Education, a regional center of the Indiana University School of Medicine was added in 1972. By the end of the century, its 5,500 students attended the most ethnically diverse unit of the eight-campus Indiana University system.",
+    "Author of Text": "Roberta Wollons",
+    "Hyperlinked Terms Associated": [
+        "Hammond Gary",
+        "East Chicago"
+    ],
+    "Street addresses associated": [
+        "Gary",
+        "Hammond",
+        "East Chicago"
+    ]
+}

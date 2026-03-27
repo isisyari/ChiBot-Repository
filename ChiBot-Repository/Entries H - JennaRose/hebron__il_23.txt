@@ -1,0 +1,13 @@
+{
+    "Title": "Hebron, IL",
+    "Descriptive Text": "McHenry County, 58 miles NW of the Loop. Yankees were Hebron's earliest settlers, though they eventually were joined by German, Irish, Dutch, and Scandinavian immigrants. The 1860 arrival of the Kenosha & Rockford Railroad allowed the township's farmers to ship livestock to Chicago's stockyards. Incorporated in 1895, Hebron remains primarily a farming community, with a population of 1,038 in 2000.",
+    "Bibliography": "McHenry County in the Twentieth Century, 1968–1994. McHenry County Historical Society. 1994.Nye, Lowell A., ed. McHenry County, Illinois, 1832–1968. 1968.",
+    "Author of Text": "Brandon Johnson",
+    "Hyperlinked Terms Associated": [
+        "Yankees",
+        "German",
+        "Irish",
+        "Dutch",
+        "Railroad"
+    ]
+}

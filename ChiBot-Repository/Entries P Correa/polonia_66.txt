@@ -1,0 +1,9 @@
+{
+    "Title": "Polonia",
+    "Descriptive Text": "The term “Polonia” originates from medieval Latin and came into common parlance during the second wave of Polish immigration to the United States after 1945. It can refer either to a specific Polish community in America or to the entire community of Polish Americans. Since the mid-nineteenth century, Chicago's Polonia has been centered on the city's Northwest Side.",
+    "Bibliography": "Pacyga, Dominic A. “Polish America in Transition: Social Change and the Chicago Polonia, 1945–1980.” Polish American Studies (Spring 1987).Parot, Joseph John. Polish Catholics in Chicago, 1850–1920: A Religious History. 1981.Zglenicki, Leon. Poles of Chicago, 1837–1937: A History of One Century of Polish Contribution to the City of Chicago. 1937.",
+    "Author of Text": "Wallace Best",
+    "Hyperlinked Terms Associated": [
+        "Polish"
+    ]
+}

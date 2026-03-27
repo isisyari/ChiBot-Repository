@@ -1,0 +1,13 @@
+{
+    "Title": "North Central College",
+    "Descriptive Text": "Plainfield College opened on November 11, 1861, with 40 students in a two-story frame house, 35 miles southwest of Chicago. Its founders were the Evangelical Association of America, and most students were from the surrounding area and of German descent. Much of the school's early faculty were educated at Oberlin College and, like Oberlin, Plainfield College was coeducational from its founding. With an eye toward growth, the school's board of trustees renamed it North Western College in 1864. Growth was unlikely, however, as the village of Plainfield remained inaccessible by railroad. North Western College thus moved northeast to Naperville in 1870.The school struggled financially for several decades (fighting successfully to maintain accreditation throughout the 1920s), though its student body and course offerings continued to increase. In 1926, in part to differentiate the college from Northwestern University in Evanston, the name was again changed. North Central College flourished for the rest of the century; in 1999 it served over 2,700 students from its 56-acre campus in Naperville's historic district, awarding bachelor of arts and science degrees in more than 50 majors and offering 6 graduate programs as well. Though still affiliated with the United Methodist Church, a successor to the Evangelical Association, North Central remains nonsectarian in hiring and admissions.",
+    "Bibliography": "Keating, Ann Durkin, and Pierre Lebeau. North Central College and Naperville: A Shared History, 1870–1995. 1995.Roberts, Clarence N. North Central College: A Century of Liberal Education, 1861–1961. 1960.",
+    "Author of Text": "Margaret L. Frank",
+    "Hyperlinked Terms Associated": [
+        "German",
+        "Plainfield",
+        "Naperville",
+        "Northwestern University",
+        "Evanston"
+    ]
+}

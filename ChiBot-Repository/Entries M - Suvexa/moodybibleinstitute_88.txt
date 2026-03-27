@@ -1,0 +1,17 @@
+{
+    "Title": "Moody Bible Institute",
+    "Descriptive Text": "One of the most successful world centers for missionary training, the Moody Bible Institute (MBI) began in 1889 from the joint efforts of Dwight Moody and Emma Dryer. Moody assumed leadership of the organization, which took his name in 1900 after his death. Its original intention was to train what Moody dubbed “gap-men” (filling a gap between ordinary people and professional clergy) to work among the “neglected masses of Chicago.” Founded during the city's most dynamic period of growth, the institute was part of a national Protestant effort to proselytize in urban areas where Roman Catholics, Jews, and nonadherents were fast becoming a majority. After Moody's death, the institute became known for its conservative fundamentalism and opposition to liberal theology and the social gospel.A hundred years later, the institute had expanded into several impressive buildings on the Near North Side. Training students in day and night schools, it has offered an array of courses, including Bible studies, sacred music, and even aviation technology for missionary pilots. Besides a large publishing program and thriving AM and FM radio networks, MBI has produced hundreds of films and filmstrips through its affiliated Moody Institute of Science. Of its thousands of graduates, many have taken positions in churches and others have become foreign missionaries, although relatively few have made urban evangelism their commitment.",
+    "Bibliography": "Getz, Gene. MBI: The Story of Moody Bible Institute. 1986.Gilbert, James. Perfect Cities: Chicago's Utopias of 1893. 1991.",
+    "Author of Text": "James Gilbert",
+    "Hyperlinked Terms Associated": [
+        "missionary training",
+        "Protestant",
+        "Roman Catholics",
+        "social gospel",
+        "Near North Side",
+        "sacred music"
+    ],
+    "Street addresses associated": [
+        "Near North Side"
+    ]
+}

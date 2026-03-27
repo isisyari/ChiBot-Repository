@@ -1,0 +1,16 @@
+{
+    "Title": "Jackson Park",
+    "Descriptive Text": "Jackson Park, located south of 57th Street by Lake Michigan on Chicago's South Side, is the third largest of the city's more than five hundred parks and home to the famed Museum of Science and Industry. Jackson Park was originally designed in the 1870s, but was little improved until 1890 when Frederick Law Olmsted laid out the World's Columbian Exposition on the site.Olmsted worked with Daniel Burnham to create the “White City,” a fair laid out with white classical buildings surrounding reflecting pools, amid lagoons and a wooded island.Today Jackson Park's facilities include an 18-hole golf course and golf driving range, swimming beaches, new bathhouses, the Osaka Japanese Garden, and playing fields for activities as diverse as baseball, soccer, football, and lawn bowling. The “Golden Lady” ( Statue of the Republic ), a gilded scale replica of the huge sculpture that adorned the Court of Honor of the Columbian Exposition, graces this beautiful park.",
+    "Bibliography": "Cromie, Robert. A Short History of Chicago. 1984.Miller, Donald. City of the Century: The Epic of Chicago and the Making of America. 1996.",
+    "Author of Text": "David M. Solzman",
+    "Hyperlinked Terms Associated": [
+        "South Side",
+        "Museum of Science and Industry",
+        "Worlds Columbian Exposition",
+        "golf",
+        "swimming"
+    ],
+    "Street addresses associated": [
+        "South Side"
+    ]
+}

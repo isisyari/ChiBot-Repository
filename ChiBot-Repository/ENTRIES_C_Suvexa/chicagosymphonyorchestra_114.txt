@@ -1,0 +1,11 @@
+{
+    "Title": "Chicago Symphony Orchestra",
+    "Descriptive Text": "C. Norman Fay could never have known how successful his efforts would become when he marshaled the support of 50 like-minded Chicago businessmen to entice conductor Theodore Thomas from New York with promises of a permanent, full-time orchestra, a 28-week season, competitive wages for his musicians, and complete artistic freedom unfettered by box-office receipts or administrative burdens. When the Chicago Orchestra presented its first concert in the Auditorium Theater on October 16, 1891, Thomas created a recipe for success that has served the ensemble through its history: audience education and community service based upon uncompromising artistic excellence.Thomas died January 4, 1905, just weeks after dedicating the new Orchestra Hall that 8,000 contributors had built at his request. Another German -born maestro, Frederick Stock, succeeded Thomas and continued an illustrious conducting tradition which would later include Désiré Defauw, Artur Rodzinski, Rafael Kubelik, Fritz Reiner, Jean Martinon, Sir Georg Solti, and Daniel Barenboim. In 1919, Stock established the orchestra's first children's concerts and created the Civic Music Student Orchestra (now the Civic Orchestra of Chicago), a unique training ensemble intended to develop native talent that is still operating today. Another function of the orchestra was to help overcome the city's rough-hewn image and place Chicago onto the world's cultural stage. After over 900 recordings (1916–), 56 of which have won Grammy Awards (1960–), regular radio broadcasts, television appearances, numerous domestic and overseas tours, the “ Chicago sound, ” with rich brass sonorities complemented by virtuosic wind and string playing, has indeed elicited worldwide admiration.",
+    "Bibliography": "Otis, Philo Adams. The Chicago Symphony Orchestra: Its Organization, Growth and Development, 1891–1924. 1924.Schabas, Ezra. Theodore Thomas: America's Conductor and Builder of Orchestras, 1835–1905. 1989.Thomas, Rose Fay. Memoirs of Theodore Thomas. 1911.",
+    "Author of Text": "Mark Clague",
+    "Hyperlinked Terms Associated": [
+        "Auditorium",
+        "German",
+        "Chicago sound"
+    ]
+}

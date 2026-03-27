@@ -1,0 +1,9 @@
+{
+    "Title": "Island Lake, IL",
+    "Descriptive Text": "McHenry and Lake Counties, 40 miles NW of the Loop. Platted as a summer cottage development around an artificial lake by 1936, Island Lake incorporated in 1952 following post–World War II expansion demands. While accepting growth, the community of small lots near the Fox River has maintained much of its rural atmosphere. Recent residential developments brought the population to 4,449 in 1990 and 8,153 in 2000.",
+    "Bibliography": "McHenry County in the Twentieth Century, 1968–1994. McHenry County Historical Society. 1994.",
+    "Author of Text": "Craig L. Pfannkuche",
+    "Hyperlinked Terms Associated": [
+        "Fox River"
+    ]
+}

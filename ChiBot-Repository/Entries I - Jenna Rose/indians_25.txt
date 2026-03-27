@@ -1,0 +1,23 @@
+{
+    "Title": "Indians",
+    "Descriptive Text": "Though a few thousand Indians congregated on the West Coast by the early part of the twentieth century, the first major influx of Indians into Chicago awaited the arrival of graduate students and professionals eligible under the Immigration and Nationality Act of 1965. As with many other immigrant groups, the men arrived first, followed some years later by their families. The Indian population has grown steadily, though the increase owes less to the arrival of new professionals and more to the extended family system prevalent in India. By the end of the twentieth century, Chicago had the third-largest concentration of Indians in the United States. The 1980 census recorded 33,541 Indians in the Chicago metropolitan region; in 2000, the number had grown to 125,208. Many are professionals, particularly prominent in the sciences, medicine, the computer industry, and management. The number of Indian students at universities remains large, but a working-class population is also emerging. As in other large cities, Indians are visible as taxi drivers, shopkeepers, and gas station owners.Despite their affluence and professional status, Indians have never had a presence in Chicago politics and have been relatively isolated socially. Many are, nonetheless, employed by the city and the state. They do not lack organizations: a pamphlet released in 1995 by the Vishwa Hindu Parishad, an organization that advocates pride in Hindu culture and the political ascendancy of Hinduism, lists nearly 70 Indian associations in the greater Chicago area, not including those catering to Muslims. Several temples serve the Hindu community; there are two gurudwaras for Sikhs and one major Jain temple; and Indian Muslims frequent several mosques. Indian Christians and Zoroastrians (Parsis) are also well organized. The ethnic, linguistic, and cultural divisions that prevail in India have been carried over with organizations such as the Bengali Association, the Bihar Cultural Association, the Tamilnadu Foundation, the Telugu Association, the Punjabi Cultural Society, the Maharashtra Mandal, and at least three Gujarati associations. Other organizations strive to evoke a more comprehensive notion of “Indianness”: prominent among these are the Indian Classical Music Circle, which sponsors recitals by major Indian musicians, and the Chicago chapters of various professional organizations of Americans of Indian origin. Until the 1980s, no organization addressed adequately the problems encountered by Indian women, many of them unacquainted with legal and social services. Apna Ghar was set up in 1989–90 to meet this need as a shelter for battered Indian women and counseling service.A section of Devon Street, near the northwestern suburbs, provides a glimpse of Indian life. Indian restaurants proliferate, as do Indian grocery stores, boutiques, and jewelry shops. Here, as elsewhere in the Indian diaspora, commercial Hindi films are extremely popular and may well be the element that cements Chicago's diverse Indian population into a more cohesive identity. The growing strength of Indians is indicated by the fact that in 1991 the “Little India” stretch of Devon was also designated Gandhi Marg (Way), which in turn prompted Pakistanis to press for the redesignation of an adjoining stretch to Mohammed Ali Jinnah Way in memory of the founder of Pakistan.",
+    "Bibliography": "Rangaswamy, Padma. Namaste America: Indian Immigrants in an American Metropolis. 2000.",
+    "Author of Text": "Vinay Lal",
+    "Hyperlinked Terms Associated": [
+        "universities",
+        "taxi",
+        "gas station",
+        "politics",
+        "Hindu",
+        "Muslims",
+        "Skihs",
+        "Zoroastrians",
+        "social services",
+        "restaurants",
+        "grocery stores",
+        "Pakistanis"
+    ],
+    "Street addresses associated": [
+        "Devon"
+    ]
+}

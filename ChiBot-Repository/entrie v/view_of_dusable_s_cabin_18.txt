@@ -1,0 +1,4 @@
+{
+    "Title": "View of DuSable's Cabin",
+    "Descriptive Text": "Despite this crude rendering, which appeared in A. T. Andreas's History of Chicago in 1884, Jean Baptiste and Catherine Point DuSable had a considerable establishment on the north side of the main branch of the Chicago River just west of Lake Michigan. When sold in 1800, it included a 40-by-22-foot wood house, one horse mill, a pair of millstones, a bake house, tools, furniture, household goods, and livestock."
+}

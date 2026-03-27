@@ -1,0 +1,19 @@
+{
+    "Title": "Mafia",
+    "Descriptive Text": "“Mafia” is a word of uncertain origins and multiple meanings. A dictionary of 1868 defines it as a neologism denoting “bravado,” while another of 1876 defines it as of Piedmontese origin, the equivalent of “gang.” It is principally used, today, to refer to two criminal organizations, one in Sicily and one in the United States.In Sicily, the organization is composed of cosche —a corruption of the word for “artichoke”—which control areas or activities and which form ties to politicians for protection and patronage. With each headed by a capo ( don is merely a term of rispetto, or respect), but with some more powerful than others, the cosche form consorteria (alliances), which together are the amico degli amici (friends of ours), the onorata societá (honored society) of Sicily, or the “Mafia.”In the United States, the “Mafia” must be distinguished from the “Black Hand”—not a group, but a technique in the early 1900s of extortion (sending a “black hand” signifying death, if money is not paid)—and the Unione Siciliana, a fraternal organization, though widely infiltrated by gangsters, chartered by Illinois in 1895 and, after 1910, supervised by the Illinois Department of Insurance. According to the Federal Bureau of Investigation, the Mafia's membership in 1963 was approximately 5,000, including 2,500 in New York and 300 in Chicago. It comprised 24 borgate (families), headed by a capo (boss). The families were subdivided into regime (crews), headed by caporegime (captains). Not equal in wealth, power, or status, the families were under the jurisdiction of the commissione (national “commission”), which originated in cooperation among gangs in the 1920s. In 1963, it included the bosses of four of the five families in New York and the bosses of the families in Buffalo, Philadelphia, Detroit, and Chicago. The families engaged in illegal activities— gambling, narcotics, loansharking, hijacking, and labor racketeering—as well as legal activities such as waste disposal, restaurants and bars, vending machines, produce, trucking, and garment manufacturing.The group was known by various names—in New York, La Cosa Nostra (“our family”or “our thing”), in Buffalo, “The Arm,” and in Chicago, “The Outfit.” It emerged in Chicago from the contest for supremacy in producing and distributing liquor in the 1920s. Composed of Sicilians or Italians, its members formed numerous alliances with others. In Chicago, Alphonse Caponi (“Al Capone”), Anthony “Tony” Accardo, John “Jake” Guzik (a Polish Jew), and Llewellyn “Murray” Humphreys (a Welshman), played key roles in the organization.Today, the Mafia is a remnant of the 1963 organization because of prosecutions and civil suits, using, in particular, RICO, the racketeering statute, which authorizes long prison terms, the forfeiture of ill-gotten gains, and civil suits. Most families are little more than street gangs. Membership is down to 1,150, with 750 in New York and 50 in Chicago. The national commission, fearful of FBI surveillance, has not met since the late 1980s. The Mafia, which has never held a monopoly on organized crime in the United States, no longer has any special edge in an underworld teeming with Asians, Russians, and South Americans.",
+    "Bibliography": "Jacobs, James B. Busting the Mob. 1994.Nelli, Humbert S. The Business of Crime: Italians and Syndicated Crime in the United States. 1979.President's Commission on Law Enforcement and Administration of Justice. Task Force Report on Organized Crime. 1967.",
+    "Author of Text": "G. Robert Blakey",
+    "Hyperlinked Terms Associated": [
+        "gangs",
+        "Insurance",
+        "gambling",
+        "disposal",
+        "restaurants",
+        "Italians",
+        "Welshman",
+        "Russians"
+    ],
+    "Street addresses associated": [
+        "Chicago Lawn"
+    ]
+}

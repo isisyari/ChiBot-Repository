@@ -1,0 +1,4 @@
+{
+    "Title": "Colonnade and Fountain in Millennium Park, 2004",
+    "Descriptive Text": "The most modest and traditional piece of architecture in Millennium Park is located near the southeast corner of Michigan Avenue and Randolph Street. A plaque on the colonnade notes that this is a replica of the original colonnade, designed by Edward Bennett, which was erected here in 1917."
+}

@@ -1,0 +1,4 @@
+{
+    "Title": "Chicago-Area Expressways in 2003",
+    "Descriptive Text": "The region's first expressway links were easy-to-build segments through open areas serving heavy traffic to the east and to Milwaukee. A toll road network to bypass the city was built in three years, whereas construction of the city's first superhighway through the dense West Side took nearly a decade. Construction was accelerated after the Interstate Highway program made federal funding available. Radial expressways, intended to make central Chicago more accessible from the suburbs, proved \"two-way streets\" by also drawing businesses and residents outward. Extension of the metropolitan expressway network virtually stalled in the 1990s, and a combination of indecision and relentless urban development has precluded additional links along several logical corridors, such as the Fox Valley in Kane County."
+}

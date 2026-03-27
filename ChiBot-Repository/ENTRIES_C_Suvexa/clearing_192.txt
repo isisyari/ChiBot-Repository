@@ -1,0 +1,23 @@
+{
+    "Title": "Clearing",
+    "Descriptive Text": "Community Area 64, 10 miles SW of the Loop. Chicago annexed much of the area known as Clearing in 1915, with other segments added in 1917 and 1923. It is bounded by 65th Street to the south, 59th Street to the north, Harlem to the west, and Cicero to the east and includes about half of Midway Airport.Dutch and German farmers lived in the area by the mid-nineteenth century. The area's most extensive landholder was Long John Wentworth, a U.S. Senator and mayor of Chicago. Wentworth built a house in 1868 at the corner of what is now 55th and Harlem. The 4,700 acres owned by Wentworth included land in what eventually became Clearing, Garfield Ridge, and Summit. Clearing received its name from a proposed railway-switching yard. A. B. Stickney, president of the Chicago Great Western Railroad, laid out a plan in 1888 for a one-mile circle, called Stickney's Circle. This circle would allow workers to unload and load goods, avoiding the rail congestion closer downtown. This scheme failed, so the enterprising Stickney tried to cut a deal in 1891 with the upstart Chicago National Stockyards to rival the Union Stock Yard. This effort also failed, in part because of a national economic depression from 1893 to 1897. “Stickney's Circle” became “Stickney's Folly.”In 1909, George Hill established a hardware store, one of the first businesses in Clearing. Three years later, residents voted to incorporate as a village. By 1915, the Chicago Transfer and Clearing Company connected the freight car switching hub with 18 industries, and Clearing was annexed to the city.From those 18 industries in 1915, the Clearing Industrial District grew to more than 90 by 1928. Land in Clearing and Garfield Ridge owned by the Chicago Public Schools was leased to the city in 1926 for the purpose of building an airport on the Southwest Side. In 1927, Mayor William Hale Thompson dedicated the Chicago Municipal Airport. In 1928 there were 4 runways, expanding to 16 by 1941. By 1949 the airport was renamed Midway Airport to honor victories at Midway Island during World War II.Clearing entered a postwar residential and economic boom, and its population grew from 6,068 in 1940 to a peak of 24,911 in 1970. By 1970, some 300 firms had located in what is now known as the Bedford-Clearing Industrial District. During the economic recession from 1974 to 1984, over half of those companies left Clearing for other locations, reducing the number of firms to 175 and reducing the number of workers from 50,000 to just over 19,000. Since 1985, with the resurgence of Midway Airport, some stability has returned.",
+    "Bibliography": "Chicago Fact Book Consortium, ed. Local Community Fact Book: Chicago Metropolitan Area, 1990. 1995.Hill, Robert Milton. A Little Known Story of the Land Called Clearing. 1983.Swanson, Stevenson. Chicago Days: 150 Defining Moments in the Life of a Great City. 1997.",
+    "Author of Text": "Clinton E. Stockwell",
+    "Hyperlinked Terms Associated": [
+        "annexed",
+        "Dutch",
+        "German",
+        "mayor",
+        "Garfield Ridge",
+        "Summit",
+        "Stickney",
+        "Railroad",
+        "Union Stok Yard",
+        "Schools",
+        "Midway Airport"
+    ],
+    "Street addresses associated": [
+        "Garfield Ridge",
+        "Summit"
+    ]
+}

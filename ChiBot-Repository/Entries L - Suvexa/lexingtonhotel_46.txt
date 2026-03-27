@@ -1,0 +1,16 @@
+{
+    "Title": "Lexington Hotel",
+    "Descriptive Text": "The history of the Lexington Hotel mirrors the fortunes of Chicago's once fashionable Near South Side. Completed in 1892 in time for the World's Columbian Exposition, the hotel initially offered luxury apartments for permanent residents and temporary rooms for visitors. From 1928 to 1932 Al Capone made the hotel at 2135 S. Michigan Avenue his gangland headquarters, an association that the hotel's reputation never escaped. Eventually converted to a brothel and low-rent residential hotel, it closed in 1980. Despite its landmark status (1985), the building was demolished in 1995 after repeated unsuccessful attempts at renovation.",
+    "Bibliography": "Clipping Files. Chicago Historical Society, Chicago, IL.",
+    "Author of Text": "Jonathan J. Keyes",
+    "Hyperlinked Terms Associated": [
+        "Near South Side",
+        "Worlds Columbian Exposition",
+        "hotel",
+        "apartments"
+    ],
+    "Street addresses associated": [
+        "Lincoln Park",
+        "Near South Side"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Title": "Gold Coast",
+    "Descriptive Text": "Neighborhood in the Near North Side Community Area. “Gold Coast” refers to a stretch of expensive lakefront property occupied by the city's wealthiest residents. Because it was isolated from the downtown business district, only a few wealthy families, including the Cyrus McCormicks, the Potter Palmers, and the Joseph T. Ryersons, lived here before the construction of the Michigan Avenue Bridge in 1920.The opening of the bridge brought the development of Michigan Avenue as a luxury shopping district. A new architectural form, the luxury apartment building, sprang up in the area, dispelling fears that apartment dwellers had to be poor. Some of Chicago's elite took up residence in new residential hotels such as the Drake. The district became the heart of the upper crust of Chicago society. Sociologist Harvey Warren Zorbaugh, who claimed that college boys returning from the East Coast dubbed the area the “Gold Coast,” immortalized it in The Gold Coast and the Slum. The density of wealth in the Gold Coast buffered it against the deterioration that threatened other portions of the North Side in the 1950s. Developer Arthur Rubloff's projects, particularly the revitalization of the Magnificent Mile and Sandburg Village, sparked a new round of investment that protected the Gold Coast through the end of the twentieth century.",
+    "Bibliography": "Zorbaugh, Harvey Warren. The Gold Coast and the Slum: A Sociological Study of Chicago's Near North Side. 1929.",
+    "Author of Text": "Amanda Seligman",
+    "Hyperlinked Terms Associated": [
+        "Near North Side",
+        "Bridge",
+        "shopping district",
+        "apartment",
+        "residential hotels",
+        "Magnificent Mile",
+        "Sandburg Village"
+    ],
+    "Street addresses associated": [
+        "Gold Coast"
+    ]
+}

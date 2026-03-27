@@ -1,0 +1,24 @@
+{
+    "Title": "Rolling Meadows, IL",
+    "Descriptive Text": "Cook County, 24 miles NW of the Loop. In 1836 Orrin Ford became the first landowner in the area that is now Rolling Meadows, staking his claim of 160 acres in the tranquil forests and gently rolling terrain of an area known as Plum Grove. Other farm families followed, many traveling from Vermont. By the early 1840s settlers had built a dam across Salt Creek and had laid claim to the entire Plum Grove area.The community became part of newly formed Palatine Township in 1850 as German immigrants arrived. In 1862 they erected the Salem Evangelical Church, whose 40-foot-square church cemetery at the corner of Kirchoff and Plum Grove Roads still stood in 1998, a bit of history amid bustling traffic and a strip shopping center.In 1927 H. D. “Curly” Brown bought 1,000 acres of what became Rolling Meadows to build a golf course and land adjacent to it for a racetrack. In the early 1950s Kimball Hill purchased the land intended for the golf course, and began home sales by advertising a floor plan of his basic house in the Chicago Tribune. Although the response was positive, officials in neighboring Arlington Heights protested, hoping to buy the land themselves for estate homes. But prospective buyers of the Kimball Hill homes persuaded the Cook County Board for zoning changes to allow Hill to proceed.In 1953 the first families moved into the development, which Hill named Rolling Meadows. With a production schedule of 20 houses a week, 700 houses sold by 1955, mostly to blue-collar workers. Hill donated $200 per home for a school system, then built and equipped the first elementary school. He also founded the Rolling Meadows Homeowners' Association, donated land for parks, and funded the Clearbrook Center, a home for the mentally handicapped, which opened in 1955.Rolling Meadows incorporated in 1955 as a city named for its gently rolling terrain, and soon began annexing land for future development. The town boomed during the 1950s and 1960s as businesses moved into the area. When Crawford's department store opened in the 1950s it was the largest in the northwest suburbs (it closed in 1993). An industrial park opened on North Hicks Road in 1958, and Western Electric opened a facility in the 1960s which employed 1,500 workers. Developers inundated the area with apartment buildings and by 1970 multifamily dwellings made up 35 percent of the total structures in Rolling Meadows. Ramblin' Rose North, renamed Meadow Trace, opened in 1966, followed by Three Fountains. Rolling Meadows complexes, however, suffered from a series of fires in the decade. This prompted the city to become more stringent in their building codes, which had allowed for frame multifamily structures. Single-family housing continued to flourish in Rolling Meadows as developers utilized the natural wooded setting for the subdivisions of Tall Oaks, Dawngate, and Creekside.By 2000 the population was 24,609, with 19 percent at Hispanic origin, 7 percent Asian, and 3 percent African American. The city had begun revamping commercial areas along Kirchoff Road. To the south on Golf Road, corporations such as 3Com, Helene Curtis, and Charles Industries established bases in what has become known as the Golden Corridor.",
+    "Bibliography": "Perica, Esther. They Took the Challenge: The Story of Rolling Meadows. 1979.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "Salt Creek",
+        "German",
+        "golf",
+        "Arlington Heights",
+        "zoning",
+        "department stores",
+        "apartment",
+        "building codes"
+    ],
+    "Street addresses associated": [
+        "Roseland",
+        "Pullman",
+        "Kensington",
+        "Burnside",
+        "West Pullman",
+        "Fernwood"
+    ]
+}

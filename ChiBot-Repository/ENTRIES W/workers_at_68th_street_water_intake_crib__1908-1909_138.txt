@@ -1,0 +1,4 @@
+{
+    "Title": "Workers at 68th Street Water Intake Crib, 1908-1909",
+    "Descriptive Text": "This photograph, taken in late 1908 or early January 1909, shows men working on both sides of the 68th Street Water Intake Crib. This was dangerous work, shown on January 20, 1909, when 70 workers died in a fire at the site."
+}

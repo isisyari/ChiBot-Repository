@@ -1,0 +1,28 @@
+{
+    "Title": "Hyde Park",
+    "Descriptive Text": "Community Area 41, 6 miles SE of the Loop. The development of the Hyde Park community began in 1853 when Paul Cornell, a New York lawyer, purchased 300 acres of property from 51st to 55th Streets. Always a shrewd investor, Cornell deeded 60 acres to the Illinois Central Railroad in exchange for a train station and the promise of daily trips to the heart of Chicago's commercial core. The community continued to prosper over the next 30 years, as residential construction expanded and the transportation network grew dense. By the late 1880s, transportation options in the area included the Cottage Grove cable car and dozens of trains leaving from the South Park station at 57th Street to the Loop.Despite such improvements, the transformation of the built environment of Hyde Park remained modest until two major events of the early 1890s. The first was the creation of the University of Chicago and the second was the World's Columbian Exposition of 1893. The University of Chicago emerged from the philanthropy of John D. Rockefeller, who was interested in launching an institution of higher learning in the Midwest, particularly one to serve the educational needs of the American Baptist community in Chicago. The university also benefited from the good will of Marshall Field, who donated a significant amount of land for the new campus. The Columbian Exposition stimulated the construction of hundreds of residential and commercial buildings in Hyde Park and Woodlawn and the development of the South Side Elevated line, which reached southwards from the Loop to 39th Street by 1892 and finally reached the exposition in Jackson Park in the middle of 1893.After a significant building slump immediately following the exposition, construction continued vigorously until the late 1920s. A variety of prominent architects worked in the area, including Frank Lloyd Wright, who designed both the Heller and Robie houses on South Woodlawn Avenue. Through the first two decades of the twentieth century, a mixed-use pattern of six-flat walk-up apartment buildings interspersed with larger structures and a wide variety of commercial uses had become commonplace throughout Hyde Park.During this period, the community also became increasingly ethnically diverse, as Jewish residents became an important part of the area's social fabric. They began to set up a variety of social and civic institutions, including a Jewish community center and several synagogues. Many older Jewish residents preferred to live in the taller apartment buildings that were becoming commonplace throughout east Hyde Park, which was rapidly developing into a popular hotel and resort area. By the early 1930s, Hyde Park had over one hundred hotels, and the lakefront was home to almost a dozen of these increasingly elaborate and well-appointed structures, many of which were later converted into apartment buildings. Some of the older hotels built for the Columbian Exposition persevered, but others soon began to cater to a more transient population, a condition that would become problematic by the late 1940s.Beginning in the early 1930s, concerns arose about certain community changes taking place in Hyde Park. Numerous studies were commissioned to examine the growing crime problem in the area, along with the citywide phenomenon of illegal residential conversions. While many in the community were concerned about the viability of an integrated community in light of a rapidly expanding African American population, other groups were concerned with the safety of the University of Chicago's campus and its physical plant, valued at many millions of dollars. In order to coordinate the efforts to help sustain and renew the community, the university in 1952 helped establish the South East Chicago Commission, which was charged with monitoring building code violations and local crime.By the late 1950s, the first federally sponsored urban renewal plan was underway in Hyde Park. The plan attracted severe criticism from within the community by those residents who were to be displaced by it and from outsiders, including Monsignor John Egan of the Roman Catholic Church. The plan, which took almost a decade to execute, transformed many older densely built-up areas of Hyde Park into a state of semisuburbia. Along with the Columbian Exposition and the creation of the University of Chicago, Hyde Park's urban renewal was one of the most far-reaching and transforming events in the community's history.",
+    "Bibliography": "Beadle, Muriel. The Hyde Park–Kenwood Urban Renewal Years. 1964.Block, Jean F. Hyde Park Houses: An Informal History, 1856–1910. 1978.Grinnell, Max. Hyde Park, Illinois. 2001.",
+    "Author of Text": "Max Grinnell",
+    "Hyperlinked Terms Associated": [
+        "Illinois Central Railroad",
+        "transportation",
+        "Loop",
+        "built environment",
+        "University of Chicago",
+        "Worlds Columbian Exposition of 1893",
+        "philanthropy",
+        "Woodlawn",
+        "Jackson Park",
+        "apartment",
+        "Jewish",
+        "hotels",
+        "African American",
+        "building code",
+        "urban renewal",
+        "Roman Catholic"
+    ],
+    "Street addresses associated": [
+        "Hyde Park",
+        "Woodlawn"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "Title": "Jane Addams: Halsted Street around 1890",
+    "Descriptive Text": "When Jane Addams arrived in Chicago in 1889 with the intention of founding a settlement house in one of Chicago's immigrant neighborhoods, she needed the help of Chicago reporters and businessmen to find a suitable location. Settling on a site somewhere near the junction of Blue Island Avenue, Halsted Street, and Harrison Street, Addams found a “fine old house standing well back from the street, surrounded on three sides by a broad piazza.” She and Ellen Gates Starr furnished Hull House “as we would have furnished it were it in another part of the city.”Around Hull House was a neighborhood teeming with immigrants and their own institutions, like the imposing Holy Family Roman Catholic Church just a few blocks away, built by Irish immigrants before the Fire of 1871. But this was not a neighborhood of one immigrant group, and Addams understood this diversity just beyond her front porch:Halsted Street is thirty-two miles long, and one of the great thoroughfares of Chicago.... Hull-House once stood in the suburbs, but the city has steadily grown up around it and its site now has corners on three or four foreign colonies. Between Halsted Street and the river live about ten thousand Italians —Neapolitans, Sicilians, and Calabrians, with an occasional Lombard or Venetian. To the south on Twelfth Street are many Germans, and side streets are given over almost entirely to Polish and Russian Jews. Still farther south, these Jewish colonies merge into a huge Bohemian colony, so vast that Chicago ranks as the third Bohemian city in the world. To the northwest are many Canadian -French, clannish in spite of their long residence in America, and to the north are Irish and first-generation Americans. On the streets directly west and farther north are well-to-do English-speaking families, many of whom own their houses and have lived in the neighborhood for years; one man is still living in his old farmhouse.",
+    "Bibliography": "Addams, Jane. Twenty Years at Hull-House. 1910, 77–78, 81.",
+    "Hyperlinked Terms Associated": [
+        "settlement house",
+        "Roman Catholic",
+        "Irish",
+        "Fire of 1871",
+        "Italians",
+        "Germans",
+        "Jews",
+        "Canadian"
+    ]
+}

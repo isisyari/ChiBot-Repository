@@ -1,0 +1,8 @@
+{
+    "Title": "U.S. Robotics Inc.",
+    "Descriptive Text": "This enterprise was founded in 1976 by Casey Cowell, Stephen Muka, and three other alumni of the University of Chicago. From its first headquarters on Lincoln Avenue in Chicago, the company introduced the first commercial computer modem, which communicated at a speed of 0.3 kilobits per second. When the company arranged a public stock offering in 1991, annual sales were up to about $80 million. In 1995, when annual revenues approached $900 million, the company employed about 3,500 people at its Chicago-area plants in the suburbs of Skokie, Morton Grove, and Mount Prospect; it also had another 1,600 workers elsewhere in the country. By this time, U.S. Robotics had become the world's leading manufacturer of modems; it was the first to market modems that handled 14.4 and 28.8 kilobits per second. In 1997, the company was introducing the first 56 kilobit per second modems and also sold the “Palm” brand of handheld computers. U.S. Robotics, with $2 billion in annual sales by 1997, was purchased by 3Com Corp. of Santa Clara, California, a maker of computer networking gear. Over the next few months, hundreds of U.S. Robotics workers lost their jobs. At the beginning of the twenty-first century, the remnants of U.S. Robotics were owned by NatSteel Electronics Ltd. of Singapore and Accton Technology of Taiwan.",
+    "Author of Text": "Mark R. Wilson| Stephen R. Porter | Janice L. Reiff.",
+    "Street addresses associated": [
+        "Lincoln Park"
+    ]
+}

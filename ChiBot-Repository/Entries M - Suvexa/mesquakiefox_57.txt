@@ -1,0 +1,21 @@
+{
+    "Title": "Mesquakie (Fox)",
+    "Descriptive Text": "The Mesquakies originally lived in the lower peninsula of Michigan, but in 1667, when the French first encountered the tribe, they were occupying villages along the Fox and Wolf rivers, near Lake Winnebago, in east-central Wisconsin. Mesquakie hunting parties ranged into northern Illinois, however, and in 1669 Jesuit priests reported that Mesquakie hunters encamped along the Des Plaines River in western Cook County had been mistaken for Potawatomis and had been attacked by a war party of Iroquois. Although they continued to reside in Wisconsin, by 1700 Mesquakie hunters frequently descended the Fox River Valley to hunt bison on the prairies of northern Illinois. Large numbers of Mesquakies also passed through the Chicago region in 1710 when part of the tribe temporarily moved to the Detroit region.A military confrontation between the Mesquakies and French at Detroit in 1712 ushered in a quarter century of Mesquakie-French warfare, and although the Mesquakies returned to Wisconsin in 1712, Mesquakie warriors continued to scour the Chicago region attacking coureurs de bois and French-allied Indians. On December 1, 1715 a Mesquakie war party led by Pemoussa (He Who Walks) attacked a French expedition led by Constant Le Marchand de Lignery and in a series of skirmishes along the lakefront drove the French and their allies back toward Michigan. The warfare between the Mesquakies and French flared intermittently for over a decade, but Mesquakie war parties so disrupted the French fur trade in northern Illinois and Wisconsin that the French sent several additional expeditions against the Mesquakie villages.The French campaigns achieved some success, and during the summer of 1730 some of the Mesquakies attempted to abandon their villages in Wisconsin and pass through northern Illinois en route to joining the Senecas in New York. These Mesquakies descended the Fox River Valley just west of Chicago, crossed the Illinois River near modern Starved Rock, and traveled southeastward across the prairies where in early August they were intercepted by the French and their allies near modern Arrowsmith, in McLean County. The Mesquakies took refuge in a grove of trees on the prairie, and after a month's siege, they broke through the French lines but were attacked and defeated by their enemies, losing two hundred warriors and about three hundred women and children.Following additional attacks upon their remaining villages in Wisconsin, in 1732 the Fox refugees established a new, heavily fortified village on Pistakee Lake, northwest of Chicago, astride the modern boundary between Lake and McHenry Counties. In October 1732, led by the war chief Kiala, the Mesquakies successfully defended this village against a large war party of French-allied Indians, but during the following spring they abandoned the village and returned to Wisconsin, where they sought sanctuary among the Sacs at Green Bay. After 1733 the Mesquakies and Sacs lived together, first in Wisconsin, then in the lower Rock River Valley of northwestern Illinois, and finally in Iowa. A small village of Mesquakies reoccupied the Chicago region during 1741, but one year later they rejoined their kinsmen near Rock Island.Today, tribespeople from the Mesquakie settlement near Tama, Iowa, form part of the modern Native American community clustered in Chicago's Uptown neighborhood.",
+    "Bibliography": "Edmunds, R. David, and Joseph L. Peyser. The Fox Wars: The Mesquakie Challenge to New France. 1993.",
+    "Author of Text": "R. David Edmunds",
+    "Hyperlinked Terms Associated": [
+        "French",
+        "Des Plaines River",
+        "Potawatomis",
+        "Fox River",
+        "fur trade",
+        "refugees",
+        "McHenry Counties",
+        "Sacs",
+        "Native American",
+        "Uptown"
+    ],
+    "Street addresses associated": [
+        "Uptown"
+    ]
+}

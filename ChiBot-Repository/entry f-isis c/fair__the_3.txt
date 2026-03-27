@@ -1,0 +1,10 @@
+{
+    "Title": "Fair, The",
+    "Descriptive Text": "Founded in 1875 by Ernest J. Lehmann as a small Chicago retail shop, the Fair soon became a giant retail operation that is often regarded as the city's first department store. By the 1890s, when Ernest J. Lehmann, Jr., took charge of the business, a new store at State and Adams Streets contained 286,000 square feet of floor space. Promoting itself with the motto “everything for everybody under one roof,” the Fair was now one of the largest retailers in the city. Offering a wide range of goods at low prices, the store offered services such as free wrapping, delivery, and an on-site nursery. In 1900, when annual sales were about $8 million, the store had nearly 3,800 workers; by the 1910s, floor space reached nearly 800,000 square feet. The Fair had 5,500 workers, making it one of the largest employers in the city. During the 1920s, the Fair was purchased by S. S. Kresge & Co., the Detroit-based dime store chain (which would eventually become known as Kmart). Under the new ownership, the Fair opened a branch in Oak Park in 1929; during the 1950s, it added locations in Evergreen Park and Skokie. In 1957, the Fair was purchased by Montgomery Ward, a larger Chicago-based competitor.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff.",
+    "Street addresses associated": [
+        "Skokie",
+        "Oak Park",
+        "Evergreen Park"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "Title": "Chicago Teachers Federation Meeting, 1920s",
+    "Descriptive Text": "Founded in 1889 by Horace Horton, Chicago Bridge & Iron Co. was created by the merger of several small firms that manufactured parts for iron bridges. Its two Chicago-area plants were located in Washington Heights, well south of downtown. By 1910, these facilities employed about 600 people. During World War II, when it had 12,000 workers making military vessels, Chicago Bridge temporarily became a large military contractor. For most of the second half of the twentieth century, it employed about 1,000 people in the Chicago area and more at other plants around the country. During the early 1960s, the company built new headquarters in suburban Oak Brook. In 1979, the company became known as CBI Industries; five years later, it acquired Liquid Carbonic, the nation's leading supplier of carbon dioxide. By 1995, when it was bought by rival Praxair of Connecticut, CBI was a leader in the field of industrial gases, with nearly $2 billion in annual sales and over 14,000 employees worldwide.",
+    "Street addresses associated": [
+        "Washington Heights",
+        "Oak Brook"
+    ]
+}

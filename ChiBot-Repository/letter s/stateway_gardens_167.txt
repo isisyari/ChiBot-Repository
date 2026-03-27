@@ -1,0 +1,10 @@
+{
+    "Title": "Stateway Gardens",
+    "Descriptive Text": "Built in 1958, the 33-acre site between 35th and 39th Streets along State Street in the Douglas Community Area replaced the Federal Street slum area with all-black public high-rise housing. By the 1970s, municipal neglect and budget cuts created opportunities for gangs to gain control over the project's underground economy. In 2001 the Chicago Housing Authority began the process of demolishing the existing 1,644 units and replacing them with new mixed-income low-rise housing.",
+    "Bibliography": "Downey, Sarah, and John McCormick. “Razing the Vertical Ghettoes: Mayor Daley Plans to Rescue His City's Squalid Public Housing by Destroying It.” Newsweek, May 15, 2000.Pacyga, Dominic A., and Ellen Skerrett. Chicago, City of Neighborhoods: Histories and Tours. 1986.",
+    "Author of Text": "Erik Gellman",
+    "Street addresses associated": [
+        "Douglas",
+        "South Side"
+    ]
+}

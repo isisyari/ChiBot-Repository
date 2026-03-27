@@ -1,0 +1,8 @@
+{
+    "Title": "Chicago's Prairie Avenue Elite in 1886",
+    "Descriptive Text": "Following the destruction of elite villas on South Michigan Avenue in the Great Fire of 1871, the four blocks of Prairie Avenue between 17th and 22nd Streets developed as one of Chicago's finest neighborhoods, attracting many of the city's newly wealthy. By 1886 the district sported some 70 of the region's tycoons in manufacturing, commerce, real estate, law, and finance. At the top of the heap were the families, and homes, of George Pullman, manufacturer of luxury railroad cars; Marshall Field, the department store prince; Philip D. Armour, the meatpacker; and John B. Sherman, vice-president and general manager of the Union Stock Yard. They built commodious homes of ebullient forms, urbane but cheek by jowl in the manner of the day, creating an opulent streetscape that rivaled those of European cities. As the twentieth century dawned, and industry crept closer to the district, Prairie Avenue's social elite became restless and one by one departed for quieter climes, some moving to newer city neighborhoods such as Kenwood and the Gold Coast, but most choosing the low-density suburban havens of the North Shore. In little more than 30 years, Prairie Avenue had risen to the social pinnacle and just as quickly fallen from grace, leaving behind a remarkable architectural legacy no longer valued until it was almost all gone.",
+    "Street addresses associated": [
+        "Kenwood",
+        "Gold Coast"
+    ]
+}

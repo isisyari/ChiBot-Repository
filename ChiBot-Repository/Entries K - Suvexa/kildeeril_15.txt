@@ -1,0 +1,12 @@
+{
+    "Title": "Kildeer, IL",
+    "Descriptive Text": "Lake County, 30 miles NW ofthe Loop. The first government land survey in 1837 indicates a cabin built by Hermann H. Pahlman near what is now Long Grove Road in Kildeer. The area consisted of rich, rolling, heavily forested land, with streams and small lakes. German farmers bought land from the U.S. government for $1.25 per acre. Ela Township was organized in 1849, named after an early landowner, George Ela. In 1852 a post office called Ela was installed in Quentin's general store, which was located in a trading center at the intersection of Rand and Quentin Roads.Paved highways made commuting easier and brought weekend visitors and vacationers to surrounding lakes in the early 1900s. In 1958 Brickman Builders announced that they intended to build 16,000 single-family houses, 6,000 apartment units, a high school, four junior high schools, 29 elementary schools, a shopping mall, and an industrial park for a projected population of 60,000.Local residents fought this development by incorporating as the village of Kildeer. To preserve their environment, a one-acre minimum on residential lots was established by the village government, along with narrow country-style roads, and severely restricted commercial development. In 2000 Kildeer's population was 3,460.",
+    "Bibliography": "Brown, Clayton W. A Little Bit of History. 1997.",
+    "Author of Text": "Clayton W. Brown",
+    "Hyperlinked Terms Associated": [
+        "German"
+    ],
+    "Street addresses associated": [
+        "Kildeer"
+    ]
+}

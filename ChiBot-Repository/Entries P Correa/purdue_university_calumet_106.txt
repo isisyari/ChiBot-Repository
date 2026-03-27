@@ -1,0 +1,5 @@
+{
+    "Title": "Purdue University Calumet",
+    "Descriptive Text": "Purdue University Calumet began as an extension to Purdue University, which opened in West Lafayette, Indiana, in 1874 on land granted to the state from the federal government; it was named for local businessman and benefactor John Purdue. In the late 1940s, this extension campus in Hammond, Indiana—the industry-heavy corridor 3 miles east of the Illinois border and 25 miles southeast of Chicago—began offering courses to students working toward a degree from Purdue's West Lafayette campus. Purdue Calumet has since become an autonomous degree-granting university, a commuter school whose five campuses served more than 9,000 students in the 2001 academic year, over half of them on a part-time basis and nearly 40 percent over the age of 25.",
+    "Author of Text": "Sarah Fenton"
+}

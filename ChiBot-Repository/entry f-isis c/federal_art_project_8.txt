@@ -1,0 +1,19 @@
+{
+    "Title": "Federal Art Project",
+    "Descriptive Text": "The Federal Art Project (1935–1943) was the best known of several New Deal programs that provided employment for artists during the Great Depression. National director Holger Cahill aimed to foster cultural democracy by erasing the divide between fine and applied art and making art a part of daily life for the public. Influenced by John Dewey's pragmatic philosophy—which emphasized learning by doing and understood art as a process of human relations rather than a material object—Cahill incorporated education and research as well as art making into the FAP.In Chicago, Cahill's liberal notions met challenges from right and left. The first local director, painter and gallery-owner Increase Robinson, was more conservative and elitist. Her insistence on high professional standards meant fewer artists could qualify for the project. Whereas Cahill never sought to influence subject matter, Robinson specified “no nudes, no dives, no pictures intended as social propaganda.” She also avoided hiring members of the Artists Union and neglected two key parts of the national project, children's classes and community art centers. After the union filed charges against Robinson with Cahill in 1938, she was removed. The subsequent directors, George Thorp and Fred Biesel, proved more sympathetic to a broader range of artists and programs. In 1940 the project came under fire again when the Chicago Tribune pronounced much of the art “incompetent and ugly” and permeated with “communistic motifs.”The FAP's legacy endures in Chicago. Numerous works remain in schools and other public buildings, and the South Side Community Art Center, the only surviving FAP center in the country, continues to serve the city's African American community.",
+    "Bibliography": "After the Great Crash: New Deal Art in Illinois. Exhibition catalog. 1983.Mavigliano, George J., and Richard A. Lawson. The Federal Art Project in Illinois, 1935–1943. 1990.Smith, Clark Sommer. “Nine Years of Federally Sponsored Art in Chicago, 1933–1942.” M.A. thesis, University of Chicago. 1965.",
+    "Author of Text": "Diane Dillon",
+    "Hyperlinked Terms Associated": [
+        "New Deal",
+        "artists",
+        "Great Depression",
+        "art",
+        "art centers",
+        "Chicago Tribune",
+        "schools",
+        "African American"
+    ],
+    "Street addresses associated": [
+        "South Side"
+    ]
+}

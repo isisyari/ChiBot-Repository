@@ -1,0 +1,12 @@
+{
+    "Title": "Chicago Relief and Aid Society",
+    "Descriptive Text": "The Chicago Relief and Aid Society, founded in 1851, sought to exercise a “scientific” and “disinterested” model of urban alms giving. Elite male Chicagoans modeled the institution on New York's Association for Improving the Condition of the Poor—a pioneering alternative to what was viewed as the overly sentimental practices of early forms of benevolence, which encouraged sympathetic identification between the charity worker and the client. Practitioners of “scientific charity” believed in the rigorous investigation of all applicants by experts; only the “worthy poor”—those brought to a state of want through no fault of their own—should be granted temporary aid meant to restore them to self-sufficiency. Excessively generous support, it was believed, would instill habits of dependency.The Relief and Aid Society was one of dozens of sources for charity in Chicago in the mid-nineteenth century; others were run by Cook County, religious groups, ethnic associations, trade unions, and women's committees. The society functioned on a relatively small scale until the Great Fire of 1871, when Mayor R. B. Mason, at the request of a delegation of prominent businessmen, designated this organization as the “official” agent for the distribution of millions of dollars of “fire relief.”Many acclaimed the society's fire relief as a triumph of organization and system, while others bitterly complained that the suffering of many Chicagoans, particularly immigrant workers, too often was seen as beyond the pale of the society's mission. The Relief and Aid Society closed the books on their fire relief effort with $600,000 of the funds donated to the city left unspent, having come to the conclusion that all “honest need” born of the fire had been addressed. This surplus provided an operating budget that allowed the organization to build a new headquarters and suspend all new fundraising until the mid-1880s. In 1909, the society was absorbed into the United Charities of Chicago.",
+    "Bibliography": "Katz, Michael B. In the Shadow of the Poorhouse. 1986.McCarthy, Kathleen D. Noblesse Oblige: Charity and Cultural Philanthropy in Chicago, 1849–1929. 1982.Sawislak, Karen. Smoldering City: Chicagoans and the Great Fire, 1871–1874. 1995.",
+    "Author of Text": "Karen Sawislak",
+    "Hyperlinked Terms Associated": [
+        "Cook County",
+        "Fire of 1871",
+        "Mayor",
+        "United Charities"
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "Title": "Sans Souci Amusement Park, 1908",
+    "Descriptive Text": "The Sans Souci Amusement Park, at Cottage Grove and East 60th Street, was one of Chicago's most popular attractions when this photo was taken in 1908. It was also a stop on that year's Daily News trolley trip, which introduced riders to Chicagoland landmarks and activities within reach of public transportation."
+}

@@ -1,0 +1,35 @@
+{
+    "Title": "Norwegians",
+    "Descriptive Text": "Norwegian settlement in Chicago had its beginning in 1836 when a few families decided to remain in the city rather than continue on to the Fox River settlement founded two years earlier southwest of Chicago. Chicago was the third Norwegian settlement in America, after Kendall, founded in western New York State in 1825 by the pioneers of Norwegian emigration who that year arrived on the tiny sloop Restauration. Most of them moved to the Fox River settlement in the mid-1830s when group migration from Norway became an annual occurrence.The first permanent Norwegian resident in the city was David Johnson, a sailor, who arrived in 1834. The Illinois & Michigan Canal opened in 1848, providing employment to Norwegians and other immigrants. Norwegians played a significant role in shipping on the Great Lakes as seamen, captains, and shipbuilders as long as sailing ships dominated, into the 1870s. Captains and vessel owners became prominent within the ethnic community. Norwegian men found a special niche in the urban economy in the building trades and as tailors, while women who worked outside the home sought domestic work.The pioneer Norwegians settled in “the Sands,” the unhealthy area north of the Chicago River where it empties into Lake Michigan. There in the late 1830s and 1840s they squatted on canal land, owning their primitive huts and shacks but not the ground on which they stood. In this close-knit community of families, with a much greater gender balance than in the city as a whole, the majority hailed from western Norway. Although transience renders an exact count impossible, it appears that more than 500 Norwegians lived in Chicago in 1850.The building of warehouses, railroads, and factories, added to the unsavory conditions, pushed Norwegians from their original settlement. Moving north and west from the center of town, they established a colony centering on Milwaukee Avenue in the sparsely settled district west of the North Branch of the Chicago River. The colony flourished and by the 1860s more than 60 percent of Chicago's 1,313 Norwegians lived there. In the 1870s Indiana Street (now Grand Avenue) became the center of the Milwaukee Avenue colony, with the fashionable Wicker Park neighborhood to the north of this largely working-class district attracting the more prosperous members of the Norwegian community.The third and final Norwegian colony—before Norwegians dispersed into the suburbs and outlying districts—developed farther west in the Humboldt Park and Logan Square area. Movement of Norwegians out of the Milwaukee Avenue colony accelerated in the 1880s as more recent immigrants—mainly Poles, Polish and Russian Jews, and Italians —replaced Norwegian residents in these crowded, dirty, and smoky industrial river wards. By 1900 there were 41,551 Norwegian residents in Chicago, and by 1930, there were 55,948. Of these 63 percent lived in the Norwegian neighborhoods on the Northwest Side of Chicago. These were the golden years of Chicago's “Little Norway,” the third-largest Norwegian population in the world, after Oslo and Bergen.The Chicago colony was a major cultural and organizational center within the national Norwegian ethnic community. The newspaper Skandinaven, founded in Chicago in 1866, in time became the largest Norwegian-language journal in the world—no newspaper in Norway even came close—and it sought a national circulation. Victor Fremont Lawson, son of one of the founders, later became a major force in Chicago journalism as editor of the Chicago Daily News.Other second-generation Norwegian men and women also found opportunities in the professions. The Woman's Hospital Medical College offered a unique opportunity for women, such as Helga Ruud, the first graduate in 1889, who was associated with the Norwegian-American Hospital and the Norwegian Lutheran Deaconess Home and Hospital (now the Lutheran General Hospital at Park Ridge).As Norway modernized in the early twentieth century, emigrants increasingly included engineers, architects, or others possessing technical or artistic skills. An elegant clubhouse on Logan Square suggested the status of this imported elite. As chief engineer of bridges, Norwegian-born Thomas Pihlfeldt between 1901 and 1941 supervised the construction of no fewer than 55 bridges in Chicago. The many young men arriving after the turn of the century introduced an ethnic forte by arranging ski-jumping meets, in 1905 organizing Norge Ski Club. Knute Rockne, coming to the Logan Square community from Norway at age five in 1893, made a career as head football coach at Notre Dame.Norwegian neighborhoods could be located by the church steeples, which symbolized their strong Lutheran identity. Religious practices adjusted to the new environment and an expanded congregational social role met the needs of compatriots. Baptists and Methodists, as well as other faiths, however, gained a following. Although Chicago became the center of Methodism for Norwegian American converts, fewer than five thousand Norwegian Americans had converted to the Methodist faith nationwide by 1900. At the close of the twentieth century, the Norwegian Lutheran Memorial Church on Logan Square was still conducting services in the Norwegian language to a church membership widely dispersed beyond the Logan Square community. Ethnicity persisted as a defining component for many of the nearly 84,000 individuals within the metropolitan area who in 2000 claimed Norwegian first ancestry.",
+    "Bibliography": "Lovoll, Odd S. A Century of Urban Life: The Norwegians in Chicago before 1930. 1988.",
+    "Author of Text": "Odd S. Lovoll",
+    "Hyperlinked Terms Associated": [
+        "Fox River",
+        "Illinois & Michigan Canal",
+        "Great Lakes",
+        "shipbuilders",
+        "building trades",
+        "domestic work",
+        "Chicago River",
+        "Lake Michigan",
+        "railroads",
+        "Wicker Park",
+        "Humboldt Park",
+        "Logan Square",
+        "Poles",
+        "Jews",
+        "Italians",
+        "journalism",
+        "newspaper",
+        "Womans Hospital Medical College",
+        "Hospital",
+        "bridges",
+        "football",
+        "church"
+    ],
+    "Street addresses associated": [
+        "Humboldt Park",
+        "Logan Square",
+        "Wicker Park"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Title": "Laotians",
+    "Descriptive Text": "Until the end of the Vietnam War in the 1970s unleashed a massive influx of refugees, few Southeast Asians had migrated to the United States. Millions of Vietnamese, Cambodians, and Laotians fled to refugee camps in Malaysia, Thailand, and Indonesia after the ascension of Communist regimes in 1975. The plight of these refugees attracted international attention when camps were overwhelmed and had to turn away new arrivals. Canada, Australia, and France began accepting refugees from the camps, and nearly one million entered the United States in the largest refugee resettlement program in the nation's history. Over 230,000 Laotians arrived in the United States between 1975 and 1992, including both lowland ethnic Lao and highland Hmong. Assisted by social service organizations, Laotians settled throughout the nation and have since migrated within the United States, forming their largest communities in California, Texas, Minnesota, and Washington. Between 1975 and 1983, 3,500 Laotians settled in Chicago, primarily in the Uptown and Albany Park neighborhoods, while many more settled in the suburbs of Elgin, Aurora, Rockford, and Joliet, where the availability of refugee programs and services facilitated community growth.Laotian immigrants have faced a difficult process of adjustment to life in metropolitan Chicago. Many Laotians came from rural backgrounds, spoke little English, and had few transferable occupational skills and limited language skills and education. While a few Laotian businesses, particularly Lao groceries, have been established in areas with large Laotian communities like Elgin, many Laotians have sought factory jobs that do not require English skills. Federal grants and social service agencies such as the YWCA's Refugee Project in Elgin have provided services to facilitate adjustment. In addition, the community has built its own organizations and programs. Drawing on informal networks of mutual assistance, Laotians in Chicago established Lao American Community Services (LACS) in 1984 to assist newcomers and preserve Lao cultural heritage. LACS provides a variety of services, including job training and placement, youth services, English-language instruction, citizenship classes, health care services, and counseling. It also brings the community together through cultural programming like classical Laotian dance classes and activities.Religious institutions serve important spiritual, social, and cultural needs and are at the center of vibrant Laotian communities in the city and suburbs. Most Laotians are Buddhist, and in Laos the temple, or wat, is the center of village life and Buddhist philosophy an important part of traditional values. Buddhism remains an important part of life in metropolitan Chicago for most Laotians, and Buddhist temples in Elgin, Rockford, and Chicago draw these communities together for holy days, chanting, and meditation. Some Laotians have converted to Christianity and established Lao churches in Rockford and Elgin. These churches serve as centers of small religious communities, offering services to members and creating differences with Laotian Buddhists that are not only religious but cultural. The Lao New Year in mid-April and funerals are the two events that bring together Laotians of all faiths.",
+    "Bibliography": "Hansen, Marty. Behind the Golden Door: Refugees in Uptown. 1991.Rumbaut, Ruben G. “A Legacy of War: Refugees from Vietnam, Laos, and Cambodia.” In Origins and Destinies: Immigration, Race, and Ethnicity in America, ed. Ruben Rumbaut and Silvia Pedraza, 1996.",
+    "Author of Text": "Tracy Steffes",
+    "Hyperlinked Terms Associated": [
+        "refugees",
+        "Vietnamese",
+        "Cambodians",
+        "Hmong",
+        "social service",
+        "Uptown",
+        "Albany Park",
+        "Elgin",
+        "Aurora",
+        "Joliet",
+        "YWCA",
+        "Religious institutions",
+        "Buddhist"
+    ],
+    "Street addresses associated": [
+        "Uptown",
+        "Albany Park",
+        "Elgin",
+        "Aurora",
+        "Rockford",
+        "Joliet"
+    ]
+}

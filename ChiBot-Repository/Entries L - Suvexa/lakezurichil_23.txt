@@ -1,0 +1,21 @@
+{
+    "Title": "Lake Zurich, IL",
+    "Descriptive Text": "Lake County, 32 miles NW of the Loop. Cedar Lake was created in the 1830s by beavers who dammed an outflow stream from a lowland area. Seth Paine, believing that people could achieve happiness through communal living, settled land east of the lake in 1836. He dreamed of organizing a commune as described by the French philosopher Charles Fourier. Since some Swiss cantons were practicing Fourier's communal system, Paine named his settlement and the adjoining lake Lake Zurich.In 1841 Paine constructed a communal store on his property and invited people from Chicago to come to thevillage he platted and live by Fourier's principles. Along with his Union Store, Paine constructed a shelter for homeless Chicagoans, calling it the Stable of Humanity. He also welcomed escaping slaves and labored in the cause of the Underground Railroad. By 1850, Paine's community numbered no more than 100 residents.With skeptical neighbors refusing to join the commune, Paine returned to Chicago in 1852 to put into practice his belief that people would have to change their ideas about what constituted wealth before they could accept Fourier's vision. He opened the Bank of Chicago, basing its loan policy on humanitarian rather than profit principles. Civil War economics ended Paine's experiment, and Paine died in Chicago on June 6, 1872, barely remembered by Lake Zurich residents.Although Rand Road (now U.S. Route 12), an important mail and stagecoach trail from Chicago to southern Wisconsin, ran through the community, Lake Zurich hardly grew during the late 1800s. In 1889, the Elgin, Joliet & Eastern Railroad (EJ&E) built its Chicago bypass line (from northern Indiana to Waukegan) through Lake Zurich. Believing that the railroad would bring development, community leaders incorporated Lake Zurich as a village in 1896, with Frank Clark as president.Although large icehouses were built with a view to developing an industry, it failed to prosper because of poor transportation to Chicago's center, and the community's population rose to only just over 200 by 1900. In 1910, Justin K. Orvis persuaded residents to support the construction of a rail line linking Lake Zurich to the Chicago & North Western Railway at Palatine. Passenger service on the Palatine, Lake Zurich & Wauconda Railroad (PLZ&W) began in 1912 after the railroad bridged the EJ&E.The new line opened up Lake Zurich to summer picnic traffic and the community's reputation as a resort area blossomed. As Americans embraced the automobile, Rand Road became a paved highway in 1922, contributing to the demise of the PLZ&W. Auto trips to Lake Zurich's rental cottages increased dramatically in the 1920s, enhancing the community's reputation as a beautiful place to live.Hearing such stories, many World War II veterans moved to Lake Zurich to raise their families amid summer greenery. Most Lake Zurich summer cottages were winterized to make room for the expanding population; the community's 1936 population of 350 jumped to 3,800 by 1966. Although Lake Zurich's reputation as a summer resort for white-collar Chicagoans continued into the 1970s, by 2000 the community had gained the status of suburban bedroom community with a population of 18,104.",
+    "Bibliography": "Loomis, Spencer, and Gloria Heramb, eds. Lake Zurich Centennial: One Hundred Years of a Midwestern Village. 1996.Loomis, Spencer. Pictorial History of Ela Township. 1994.Whitney, Richard. Old Maud: The Story of the Palatine, Lake Zurich, and Wauconda Railroad. 1992.",
+    "Author of Text": "Craig L. Pfannkuche",
+    "Hyperlinked Terms Associated": [
+        "homeless",
+        "Underground Railroad",
+        "Civil War",
+        "Railroad",
+        "transportation",
+        "Palatine",
+        "Wauconda",
+        "World War II"
+    ],
+    "Street addresses associated": [
+        "Lake Zurich",
+        "Palatine",
+        "Waukegan"
+    ]
+}

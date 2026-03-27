@@ -1,0 +1,13 @@
+{
+    "Title": "Copperheads",
+    "Descriptive Text": "“Copperheads” were northerners who opposed the United States Army's defense of the Union during the Civil War, though Republicans also used the term to describe northern Democrats in general, in order to charge the Democrats with disloyalty. In Chicago, there were many Democrats, but few openly disloyal Copperheads. In 1861, the city's leading Democrat, Stephen Douglas, called on his party to support the Lincoln administration, and most Democrats rallied to the Union war effort with enthusiasm. By 1863, however, discontent with several of the administration's war measures–taxes, banking policies, conscription, infringements on civil liberties, and especially the Emancipation Proclamation–caused an upsurge of antiwar feeling. Wilbur Storey's Chicago Times was nationally famous for its strident antiwar stance, extreme racism, and suppression by military authorities, though it seems never to have represented a large local constituency. A few local residents participated in an abortive conspiracy to mobilize the Confederate prisoners of war held at Camp Douglas as the nucleus of an insurrection aimed at establishing a pro-South “western confederacy,” but this effort went nowhere. Luckily for Chicago, conscription occurred peacefully, with no outbreaks resembling the bloody New York City draft riots of July 1863, which might have strengthened a popular Copperhead following.Among local politicians, most active Copperheads were southern migrants to the city like former mayors Buckner Morris and Levi Boone. Most Democrats, however, including the wartime mayor Francis C. Sherman, sustained the difficult position of maintaining their identity as a loyal opposition, separate from the Republicans, throughout the war.",
+    "Author of Text": "Robin Einhorn",
+    "Hyperlinked Terms Associated": [
+        "Civil War",
+        "Republicans",
+        "Democrats",
+        "antiwar",
+        "Camp Douglas",
+        "mayors"
+    ]
+}

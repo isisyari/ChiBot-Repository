@@ -1,0 +1,22 @@
+{
+    "Title": "Modern and Postmodern Dance",
+    "Descriptive Text": "Modern dance drifted into Chicago on a June night in 1895 when the young Isadora Duncan, billed as the “California Faun,” floated about to Mendelssohn's “Spring Song” as part of a vaudeville show at the Masonic Temple Roof Garden. Over one hundred years later, the postmodern Bill T. Jones/Arnie Zane Dance Company recalled the century and interrogated the future in “We Set Out Early ... Visibility Was Poor” (1998) at the Arie Crown Theater. In the final moments of this production, two male soloists, one dark skinned, the other light, slowly repeated movement phrases taken from what were once racially distinct dance traditions. The difference between them remained visible but now as a part of one dance, on the same stage.Chicago's first great modern dancers were Doris Humphrey, Katherine Dunham, and Sybil Shearer. Humphrey taught briefly in Oak Park at the Humphrey School of Dance before leaving town to join the Denishawn Dancers in 1917. Dunham came to Hyde Park in the late 1920s during a particularly vibrant period in Chicago dance history. While a student at the University of Chicago, she began forming a prototype of the Katherine Dunham Dance Company that would open on Broadway in 1940. After a two-year research project in the West Indies, Dunham created the fusion of Caribbean and African American movement that international audiences would later identify as American modern dance. Sybil Shearer “defected” from Manhattan to Winnetka in 1943 after a triumphant debut at Carnegie Chamber Music Hall. She found a spare but fresh artistic environment in which to question the way modern dance was taught on the East Coast. Until her last performances in 1972, she refused to identify a “Shearer technique,” insisting on making herself anew with each dance. Spectators came to Chicago from all over the nation to see what she would do next.Modern dance in Chicago experienced a renewed period of growth, comparable to that of the late twenties, when Bruce and Judith Sagan created the Harper Theatre Dance Festival (1965–1975) in Hyde Park. Maggie Kast, Nana Shineflug, and Shirley Mordine introduced new approaches to dance making through their work as teachers and performers. Mordine founded the Dance Center of Columbia College in 1969, as well as a dance company, providing major institutional support for the modern dance community. In 1972, the Muntu Dance Theatre began its investigation of African dance, music, and folklore, illuminating the Africanist presence that had always been implicit in twentieth-century modernism. Postmodern dance emerged from all of these sources. Among its most prominent representatives were the artists of the dance collective MoMing (1974–1990), Jan Erkert, Bob Eisen, Jan Bartoszek at the Chicago Cultural Center, Fluid Measure Performance Company, and XSIGHT! Performance Group.",
+    "Bibliography": "Ann Barzel Research Collection. Chicago Dance Collection, Newberry Library, Chicago, IL.Barzel, Ann. “Dance in Chicago—An Early History.” American Dance 2.1 (1986): 27–31.Lyon, Jeff. “Oh, Did They Dance!” Chicago Tribune Magazine, January 28, 1996.",
+    "Author of Text": "Nancy G. Moore",
+    "Hyperlinked Terms Associated": [
+        "vaudeville",
+        "dance",
+        "Oak Park",
+        "Hyde Park",
+        "University of Chicago",
+        "African American",
+        "Winnetka",
+        "Columbia College",
+        "dance company",
+        "folklore",
+        "MoMing"
+    ],
+    "Street addresses associated": [
+        "Hyde Park"
+    ]
+}

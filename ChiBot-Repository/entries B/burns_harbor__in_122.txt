@@ -1,0 +1,5 @@
+{
+    "Title": "Burns Harbor, IN",
+    "Descriptive Text": "Porter County, 32 miles SE of the Loop. In 1962, Bethlehem Steel announced it would build its largest steel plant to date at Burns Harbor. In 2001, it ranked as one of the most efficient steel plants in the United States. Fewer than 1,000 residents lived in Burns Harbor at the end of the century.",
+    "Author of Text": "Erik Gellman"
+}

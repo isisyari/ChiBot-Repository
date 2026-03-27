@@ -1,0 +1,19 @@
+{
+    "Title": "National Negro Congress",
+    "Descriptive Text": "The National Negro Congress (NNC), created in 1935, attempted to build a national constituency to pressure New Deal administrators for labor and civil rights. Over 800 delegates, 43 percent of them from Chicago and the rest from across the nation, representing 500 different organizations, filled the Eighth Regiment Armory on the Chicago's South Side for the inauguration of the NNC from February 14 to 16, 1936. A large crowd gathered outside the armory to listen to the proceedings on loudspeakers, and WCFL, “The [Radio] Voice of Labor,” broadcast highlights of the event over the airwaves. The sessions included discussions concerning sharecroppers, interracial organizing, women and labor, the arts, business, and the war in Ethiopia. The Chicago Defender accurately assessed the event as “the most ambitious effort for bringing together members of the Race on any single issue.”The Chicago Council ranked among the most active NNC chapters. Charles Burton of the Brotherhood of Sleeping Car Porters held the leadership position until 1940, when Ishmael P. Flory, a more radical labor organizer, assumed the reins. The Chicago NNC protested against discrimination in the Cook County Nursing Home, demonstrated against police brutality, aided Congress of Industrial Organizations campaigns to organize steel mills and packinghouses, created tenants' leagues, and campaigned for increased African American employment. The congress disbanded in 1947 because of Cold War suppression, but many of its adherents remained lifelong activists.",
+    "Bibliography": "Bates, Beth Tompkins. Pullman Porters and the Rise of Protest Politics in Black America, 1925–1945. 2001.Cayton, Horace, and George S. Mitchell. Black Workers and the New Unions. 1939.Wittner, Lawrence S. “The National Negro Congress: A Reassessment.” American Quarterly 22.4 (Winter 1970).",
+    "Author of Text": "Erik Gellman",
+    "Hyperlinked Terms Associated": [
+        "New Deal",
+        "civil rights",
+        "South Side",
+        "Chicago Defender",
+        "WCFL",
+        "Chicago Defender",
+        "Brotherhood of Sleeping Car Porters",
+        "Congress of Industrial Organizations",
+        "police",
+        "African American",
+        "Cold War"
+    ]
+}

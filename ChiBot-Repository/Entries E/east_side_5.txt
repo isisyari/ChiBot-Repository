@@ -1,0 +1,32 @@
+{
+    "Title": "East Side",
+    "Descriptive Text": "Community Area 52, 13 miles SE of the Loop. The modern history of the East Side was shaped by the entrance of heavy industry into the Calumet area in the 1870s. Prior to this time, Native Americans had lived off the land, hunting and fishing for their food. Located just south of South Chicago and east of South Deering, the region's natural port and its proximity to railroads influenced many firms to locate in the area. Industry flourished, and by the 1920s the East Side, until then known by the names Taylorville, Goosetown, and Colehour, was significant for iron and steel production.Consequently, settlement exploded. Germans and Swedes established themselves in the late 1800s. The first religious congregation, the Colehour German Lutheran Church, opened in 1874, and a succession of congregations soon followed. Croatian, Slovene, and Serbian immigrants began to arrive in the 1880s, sparking the first signs of nationalist divisions. Germans and Swedes promoted their “American-ness” before their new neighbors. This symbolized a divisive trend that was to continue into the next century.New settlers were quick to organize their own congregations. Croatians, specifically, formed the Sacred Heart parish at 96th and Escanaba. Italians entered the area in 1914; together with the Slavs, they inhabited the older neighborhoods near the river. Shortly thereafter, Calumet Park was constructed; it influenced the eastward migration of the community. Today it is considered a great resource of the East Side, home to local athletics, a waterfront, and other public entertainment.The East Side's geography, bordered by water on three sides and shielded by miles of mills, is perhaps symbolic of its voluntary social isolation. The East Side has long been considered a suburb of South Chicago, and its residents have a profound sense of social cohesiveness; family and friendship ties tend to remain stable for many years. Ethnic cohesion has not always been so stable. As new immigrants entered the area after 1900, they often met with antagonism from the older inhabitants. Following World War I, ethnic differences began to subside as immigration slowed and a process of Americanization influenced the population. The attempted entry of African Americans into the area, however, produced particularly bitter and often violent resistance from East Siders. Race riots exploded at Calumet Park and in the nearby area of Trumbull Park in South Deering following attempts by African American families to move in after World War II. Between 1980 and 2000 the Hispanic population grew from 13 to 68 percent, and the area remained a predominantly working-class enclave.Industrial conflict arising from the hegemony of local steel has plagued the area since the 1930s. Republic Steel had built a specialty plant, and was one of the area's chief employers. The Steel Workers Organizing Committee (SWOC) launched a campaign to organize the Republic steelworkers in 1937. Greatly supported by local iron and steel workers, SWOC organized a Memorial Day march on the plant. As 1,000 people approached the mill gates, Chicago police ordered their retreat. The crowd capitulated, yet police began shooting at the strikers, killing 10 and maiming many more. The massacre sidetracked the drive for unionization; Republic Steel was eventuallyorganized in 1941. SWOC was transformedinto the United Steelworkers of America in 1942.The decline of the Chicago steel industry had profound effects on the East Side community. Calumet-area steel producers suffered greatly from depressed economic conditions and international competition. Republic Steel dismissed half its employees in the 1980s. In 1984, the company merged with Jones and Laughlin to form LTV Steel, becoming the country's second largest steel producer, but in 1986 LTV declared bankruptcy, closing operations in Chicago. Layoffs reverberated throughout the East Side, decimating the local economy. The population dropped by several thousand between 1970 and 1980. In 1982, the area became an official “enterprise zone,” part of the city's effort to revitalize the local economy. These efforts have not proved very successful. Two decades later, the East Side remained an embattled and struggling community, attempting to recreate its sense of cohesion. In 2000 the Ford Motor Company announced plans to expand onto the site of the former Republic Steel.",
+    "Bibliography": "Bensman, David, and Roberta Lynch. Rusted Dreams: Hard Times in a Steel Community. 1988.Kornblum, William. Blue Collar Community. 1974.",
+    "Author of Text": "Kristina M. Bas and David Bensman",
+    "Hyperlinked Terms Associated": [
+        "Calumet",
+        "South Chicago",
+        "South Deering",
+        "railroads",
+        "iron and steel",
+        "Germans",
+        "Swedes",
+        "Croatian",
+        "Slovene",
+        "Serbian",
+        "Italians",
+        "waterfront",
+        "World War I",
+        "Americanization",
+        "African Americans",
+        "Race riots",
+        "iron and steel workers",
+        "Memorial Day",
+        "unionization"
+    ],
+    "Street addresses associated": [
+        "East Side",
+        "South Chicago",
+        "South Deering"
+    ]
+}

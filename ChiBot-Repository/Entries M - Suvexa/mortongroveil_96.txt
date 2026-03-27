@@ -1,0 +1,20 @@
+{
+    "Title": "Morton Grove, IL",
+    "Descriptive Text": "Cook County, 14 miles N of the Loop. Morton Grove first gained national recognition through its greenhouses and later through its stance on gun control. Fame, however, came as slowly as did settlement. English immigrants moved into the Lehigh-Beckwith area in the 1830s, followed by German and Prussian fam- ilies a decade later. In 1872 the Milwaukee Railroad laid a single-track line, setting up a flag stop in town. The approximately one hundred residents relied on truck farming or employment with local companies. They named their community Morton Grove for railroad financier Levi Parsons Morton, later vice president under Benjamin Harrison.In 1889 new industry came with the Poehlmann Brothers Company greenhouse business. Renowned for its roses, the company received national attention when its Poehlmann Rose received first prize at the 1904 St. Louis World's Fair. The brothers operated three plants in Morton Grove, employing between 300 and 500 workers.Between 1900 and 1930 the local economy depended on the wholesale florist business. Platz and Sons opened their greenhouse in 1904. In 1910 the Lochner family started a roadside stand selling vegetables and flowers, which prospered and led them to build a greenhouse 15 years later. The burgeoning floral business also benefited a local contractor who built greenhouses.In 1892 the railroad completed a second track, a year after the first subdivision was built by George Fernald and George Bingham east of the tracks. Incorporated in 1895, the village covered 1,200 acres, with 600 more acres added by 1900. Four years later land along the North Branch of the Chicago River and the Skokie marshes was designated forest preserve property.In the 1920s and 1930s Chicagoans came to play slot machines and gamble at Morton Grove's numerous roadhouses. The Great Depression hit the community hard, and the Poehlmann brothers went bankrupt. Twenty acres were purchased from the failing company by the Morton Grove Days Committee, land that later became Harrer Park. The remaining land was bought by Baxter Laboratories. Light industrial plants and research and development companies began operations in the area in the 1940s.Morton Grove's biggest growth spurt occurred in the 1950s, when population rose by over 15,000 after the opening of the Edens Expressway. In contrast to the 1920s, by the 1950s the village sought to develop a quiet suburban atmosphere, banning anything that would likely disturb the peace of the community. In 1981 Morton Grove became the first community in the country to pass an ordinance restricting the private possession of handguns within the village.In 2000 the census counted 22,451 residents of Morton Grove, 74 percent white, 22 percent Asian, and 0.6 percent black; 4 percent were Hispanic. While other industries came into the area, greenhouse operations remained a constant, including Lochner's and Platz Flowers, a wholesale firm with an accompanying retail business named Jamaican Gardens.",
+    "Bibliography": "Beaudette, E. Palma. Niles Township, Niles Center, Morton Grove, Niles Village, and Tessville. 1916.Blythe, Robert W. “Morton Grove, Illinois, and 1950s Metropolitan Development.” M.A. thesis, University of Illinois at Chicago. 1992.Morton Grove Centennial Commission. Morton Grove, Illinois, 1895–1995: Centennial Anniversary. 1994.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "gun control",
+        "English",
+        "German",
+        "Railroad",
+        "subdivision",
+        "Chicago River",
+        "Skokie",
+        "forest preserve",
+        "gamble",
+        "roadhouses",
+        "Great Depression",
+        "Expressway"
+    ]
+}

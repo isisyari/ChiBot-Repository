@@ -1,0 +1,14 @@
+{
+    "Title": "Northeastern Illinois University",
+    "Descriptive Text": "Established in the fall of 1961 on the North Side in North Park, Northeastern Illinois University's original purpose was to train elementary school teachers for the city of Chicago. Under the governance of the Chicago Board of Education with support from the Ford Foundation, Chicago Teachers College–North, as it was called, began with 1,364 students under the leadership of Dean Roy N. Jervis. During the first decade of the school's existence, it underwent name changes to reflect transformations in its goals: in 1965, the school became Illinois Teachers College–Chicago North and, in 1971, Northeastern Illinois University, reflecting its expanded mission to train elementary and high-school teachers for the whole metropolitan region as well as students in the liberal arts and business.At the opening of the twenty-first century, the university encompassed 330 faculty and over 10,000 students—7,000 undergraduates and 3,000 graduate students. It offers master's degrees in the liberal arts, education, and business. As a commuter college, Northeastern has drawn its students from the greater Chicago area; its diverse student population, representing over 40 ethnic groups, has mirrored the larger community. About 45 percent of the undergraduates attend part-time while holding jobs. Sixty-two percent of the student population is female, with 19 percent Hispanic, 12 percent African American, and 10 percent Asian.Northeastern's Chicago Teachers' Center provides classroom instructional material and consultative services to teachers. Its Center for Inner City Studies offers degrees in African American Studies. Through various collaborations, the university also provides distance-learning courses to suburban communities in Cook, DuPage, and Lake Counties.",
+    "Bibliography": "Frederick, Duke. Early Times at Northeastern: A Memoir. 1978.Northeastern Illinois University. “Review of Undergraduate Education.” 1994–5.Sachs, Jerome M. Reminiscences about Northeastern Illinois University. 1987.",
+    "Author of Text": "June Sochen",
+    "Hyperlinked Terms Associated": [
+        "North Park",
+        "school",
+        "African American"
+    ],
+    "Street addresses associated": [
+        "North Park"
+    ]
+}

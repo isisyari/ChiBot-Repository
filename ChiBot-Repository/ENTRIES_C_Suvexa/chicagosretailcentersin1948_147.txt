@@ -1,0 +1,4 @@
+{
+    "Title": "Chicago's Retail Centers in 1948",
+    "Descriptive Text": "In the middle of the twentieth century, shopping in the Chicago region was still resolutely urban. It had developed around the historic business core of the city, which still accounted for an overwhelming proportion of total retail sales. It spread along major streetcar routes within the city, a seemingly endless string of family businesses, chain stores, and department store branches at key intersections. Beyond that, small retail concentrations were to be found in the downtowns of the region's satellite cities and the trackside business clusters of the railroad suburbs. The spread of the automobile at first simply reinforced this historic mass-transit-based pattern, because the plethora of city streets and slowly rising urban congestion limited the impact of the private car."
+}

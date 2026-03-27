@@ -1,0 +1,19 @@
+{
+    "Title": "Bensenville, IL",
+    "Descriptive Text": "DuPage County, 17 miles W of the Loop. The village of Bensenville occupies the northeastern corner of DuPage County near O'Hare Airport. Bensenville has evolved from rural farming community to railroad town to mature airport suburb, reflecting the changes of the Chicago area.As in other DuPage communities, the Potawatomi tribe represented the largest Indian presence, before their removal after 1833. New Englanders Hezekiah Dunklee and Mason Smith established claims near Salt Creek soon after the Indian removal in a wooded grove west of present-day Bensenville in Addison Township. Political strife in Europe contributed to building the area's population, as many German immigrants settled in the area.These farmers raised wheat and dairy products. A stage road connecting Chicago, Elgin, and Galena and a plankroad that paralleled Irving Park Road promoted travel, trade, and settlement in the region. The opening of the Galena & Chicago Union Railroad in 1849 to the south also contributed to growth and provided a glimpse into the role of transportation in the community's future.In the early 1870s, Dietrich Struckmann, T. R. Dobbins, and Roselle Hough purchased and subdivided the land that would become Bensenville. The Chicago, Milwaukee, & St. Paul Railroad began service between Chicago and Elgin with a stop in the area. Discussion of incorporation soon began, and on May 10, 1884, the measure passed handily.During the next 30 years, Bensenville began to resemble a suburb. The first school opened in 1886, and storm sewers were constructed a year later. Other amenities, such as telephone service, concrete sidewalks, and electricity, followed in the early 1900s. Most significant, the Chicago, Milwaukee, & St. Paul constructed a roundhouse and freight yard in Bensenville in 1916. The yard provided many jobs and attracted new residents, including many Mexicans. Bensenville soldiered quietly forward through the twenties and thirties, reaching a population of 1,869 by 1940.In 1940 the federal government announced plans to construct an aircraft plant to manufacture cargo planes just outside Bensenville in Cook County. The plant operated from 1943 to 1945. Chicago purchased the complex in 1946 to develop a large airport. The proposed airport required additional land in unincorporated DuPage County, which Chicago planned to acquire. Nearby Bensenville challenged Chicago's right to annex this land in court, but lost. Many unincorporated Bensenville structures were moved or demolished to accommodate portions of O'Hare Airport, which began domestic commercial service in 1955.Bensenville's population grew dramatically after World War II, doubling by 1950 and nearly tripling by 1960. O'Hare provided the catalyst for increased industrial development between the airport and residential areas, but the airport also created substantial noise pollution. Bensenville joined 16 other area suburbs in 1969 in forming the O'Hare Area Noise Abatement Council to address this issue.Like its eastern DuPage neighbors, Bensenville has nearly reached its limits in land development. The village still attracts residents from many ethnic backgrounds, including Indians, East Asians, and Eastern Europeans, and grew slightly, to a population of 20,703, in 2000.",
+    "Bibliography": "Jones, Martha Kirker. Bensenville. 1976.Knowing Our History, Learning Our Culture. Videotape. Bensenville Community Library, 1993. 42 min.Ritzert, Kenneth. “Bensenville.” In DuPage Roots, ed. Richard Thompson, 1985.",
+    "Author of Text": "Aaron Harwig",
+    "Hyperlinked Terms Associated": [
+        "DuPage County",
+        "O´Hare Airport",
+        "Potawatomi",
+        "Salt Creek",
+        "Addison",
+        "German",
+        "Railroad",
+        "transportation",
+        "telephone",
+        "Mexicans",
+        "Indians"
+    ]
+}

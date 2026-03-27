@@ -1,0 +1,11 @@
+{
+    "Title": "House Moving",
+    "Descriptive Text": "In contrast to the present, when housing structures are seldom moved, Chicagoans in the 1830s, 1840s, and 1850s took advantage of the mobility of balloon frame structures without infrastructure connections. New arrivals could buy homes and then move them to a desired location. Chester Tupper, Chicago's first house mover, regularly moved structures on rollers down the middle of Chicago's early streets.Only a very specific kind of building was easily moved. Shanties, log cabins, and structures made of brick or stone all posed particular problems for house movers. Balloon frame houses had none of these disadvantages. They were light, of flexible construction, and their frames were not sunk into the ground.House moving was such a nuisance by 1846 that a group of Chicagoans asked that the city council not permit more than one building to stand in the streets of any block at the same time, or permit any one building to stand in the streets for more than three days. In 1855 Daniel Elston unsuccessfully petitioned the city council for permission to move a house across the Chicago River on the Kinzie Street Bridge.There are several key reasons why house moving was so popular during these years. Early industrialization, which provided factory-made nails, and large-scale milling operations near Chicago facilitated house moving by making balloon frame construction possible. The lack of paved streets and the absence of utilities through the 1840s also facilitated house-moving.",
+    "Bibliography": "Bross, William. “What I Remember of Early Chicago,” in Reminiscences of Chicago during the Forties and Fifties, comp. Mabel McIlvaine. 1913.Gale, Edwin O. Reminiscences of Early Chicago and Vicinity. 1902.",
+    "Author of Text": "Ann Durkin Keating",
+    "Hyperlinked Terms Associated": [
+        "ballon frame",
+        "infrastructure",
+        "streets"
+    ]
+}

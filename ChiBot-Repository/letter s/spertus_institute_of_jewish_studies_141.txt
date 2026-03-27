@@ -1,0 +1,9 @@
+{
+    "Title": "Spertus Institute of Jewish Studies",
+    "Descriptive Text": "Spertus encompasses three institutions devoted to the preservation of Jewish history and culture: the Spertus Museum, the Asher Library, and Spertus College. Founded in 1924 as the College of Jewish Studies to instruct teachers for the Jewish schools and clubs then multiplying around Chicago, the college received accreditation in 1971. By 2002 it served primarily as a center for graduate education, granting both master's and doctoral degrees in Jewish studies. The library and museum opened in 1967, and the three institutions moved together from their original location on East 11th Street to South Michigan Avenue in 1974. The largest museum devoted exclusively to Jewish culture outside of New York and California, the Spertus Museum maintains a collection of more than 10,000 artifacts and houses the nation's first permanent exhibition on the Holocaust.",
+    "Bibliography": "Cutler, Irving. The Jews of Chicago: From Shtetl to Suburb. 1996.",
+    "Author of Text": "Sarah Fenton",
+    "Street addresses associated": [
+        "Loop"
+    ]
+}

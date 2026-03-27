@@ -1,0 +1,21 @@
+{
+    "Title": "Michigan City, IN",
+    "Descriptive Text": "LaPorte County, 41 miles E of the Loop. Michigan City, Indiana, lies at the mouth of Trail Creek, on Lake Michigan's southeastern shore. Envisioned by nineteenth-century boosters as a commercial and transportation center, this small city is now best known as a tourist hub for the Indiana Dunes territory.When federal surveyors arrived in the Lake Michigan dunes, they saw the low, swampy site at the mouth of Trail Creek as the ideal location for a major harbor at the end of the Michigan Road, then being built northward through Indiana. In 1831, armed with inside knowledge of the harbor plans, real-estate speculator Maj. Isaac C. Elston of Crawfordsville, Indiana, began to buy land there. In 1832, Elston laid out the town of Michigan City. The first settlers arrived the following year. By 1836, the town's population had swelled to nearly 3,000.Between 1837 and 1844, the town served as the principal grain market for northern Indiana. Several rail lines arrived in the 1850s, bringing their repair shops with them. The Haskell & Barker Car Company, established in 1852, quickly became the city's largest employer. The Northern State Prison began supplying local manufacturers with convict labor shortly after it opened in the early 1860s.Harbor construction finally moved forward after the Civil War. In 1867 and 1868, the Michigan City Harbor Company built two piers and dredged a deep channel between them. With an infusion of federal funds, the harbor was soon ready to accept large vessels. Michigan City became one of Indiana's largest lumber markets. Industry boomed.Michigan City's fortunes began to recede after 1900. Profitable convict labor was outlawed. The lumber trade gradually died out. The Michigan Central Railroad moved its rail shops at the close of World War I, and the Haskell & Barker car works became Michigan City's sole large employer. Hoosier Slide, the town's once-towering sand dune, was completely mined out by the 1920s.Fortunately for Michigan City, Lake Michigan tourism surged at about the same time. Though lake steamer excursions declined after 1915, when the Michigan City–bound Eastland rolled over in the Chicago River, other modes of tourist transportation took their place. The Dunes Highway opened in 1923. Shortly thereafter, utilities magnate Samuel Insull upgraded the Chicago, South Shore & South Bend Railroad. Both the highway and the electric interurban provided Chicagoans with easy access to Michigan City and the dunes beaches. (They also provided Michigan City residents a convenient means of commuting in the other direction.) Michigan City's lakeshore Washington Park, established in 1891 and improved in the 1930s, aimed to draw the tourist trade. The creation of the Indiana Dunes National Lakeshore in the 1960s fortified the tourism industry. By the end of the twentieth Century, downtown Michigan City, which had experienced decline in the face of urban renewal, housed a popular outlet mall and a casino boat recently moored in Trail Creek.",
+    "Bibliography": "Greening, Elwin G., ed. A Pictorial History of Michigan City, Indiana, 1675–1992. 1992.Nicewarner, Gladys Bull. Michigan City, Indiana: The Life of a Town. 1980.Packard, Jasper. History of LaPorte County, Indiana, and Its Townships, Towns, and Cities. 1876.",
+    "Author of Text": "Elizabeth A. Patterson",
+    "Hyperlinked Terms Associated": [
+        "Lake Michigans",
+        "Indiana Dunes",
+        "dunes",
+        "real-estate",
+        "Civil War",
+        "lumber",
+        "Railroad",
+        "World War I",
+        "Eastland",
+        "Chicago River",
+        "interurban",
+        "commuting",
+        "urban renewal"
+    ]
+}

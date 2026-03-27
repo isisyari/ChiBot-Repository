@@ -1,0 +1,22 @@
+{
+    "Title": "Niles, IL",
+    "Descriptive Text": "Cook County, 13 miles NW of Loop. In the early 1830s, German farmers flocked to the area around present-day Waukegan Road and Milwaukee Avenue, which came to be known as Dutchman's Point. John Schadiger and Julius Perren were the first, build- ing an unusual house that had no windows and a single door. In 1837 John Marshall and Benjamin Hall erected the North Branch Hotel, and the following year residents established the area's first schoolhouse.By 1850 the North West Plank Road, later Milwaukee Avenue, allowed farmers to travel more easily to the markets of downtown Chicago. The township of Niles formed in 1850; by 1884 the town, centered at Milwaukee, Waukegan, and Touhy Avenues, consisted of two stores, two hotels, one drugstore, three churches, three cemeteries, two schools, and one doctor's office. In 1899, at the time of the village's incorporation, population was 500. The name of Niles was probably taken from the nationally distributed Niles Register newspaper.After the turn of the century the Chicago Surface Lines street railway traveled down the middle of Milwaukee Avenue to Niles, bringing immigrants from Chicago. In the 1930s Niles's population of 2,135 included 800 Polish orphans in St. Hedwig's orphanage.In 1932 industrialist and inventor Robert Ilg constructed a recreational park for his employees. Although the Ilg Hot Air Electric Ventilating Company, later Ilg Industries, was located in Chicago, Ilg lived in Niles. He installed two swimming pools and a water tower which he hid behind a half-size replica of Italy's Leaning Tower of Pisa. In 1960 the Ilg family turned over part of the park property to the Leaning Tower Young Men's Christian Association. The tower has since been restored and is a symbol of the community. In 1991 Niles and Pisa became sister cities.Covering six square miles, Niles has no official downtown area, but considers Milwaukee Avenue its commercial center. In the 1950s the village annexed an area at the northwest corner of the village, and construction of a commercial complex began soon afterward. The Golf Mill Shopping Center was dedicated in 1959. In 1989 approximately 1,100 businesses were active in the village, generating over $7 million in taxes.Niles's population totaled 30,068 in 2000; 83 percent were white, 34 percent were foreign-born; 13 percent were Asian. More than a quarter were 64 or older. The only Chicago suburb to offer free bus service to major shopping and recreational facilities, Niles transports more than 350,000 commuters annually. Residents have access to extensive services, ranging from senior citizen centers to six hundred park district programs to counseling services.",
+    "Bibliography": "Tyse, Dorothy C. History of Niles, Illinois. 1974.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "German",
+        "Hotel",
+        "township",
+        "hotels",
+        "cemeteries",
+        "schools",
+        "street railway",
+        "Polish",
+        "orphanage",
+        "swimming",
+        "Young Mens Christian Association",
+        "annexed",
+        "Shopping",
+        "bus"
+    ]
+}

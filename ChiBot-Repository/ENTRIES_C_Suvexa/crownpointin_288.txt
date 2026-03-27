@@ -1,0 +1,9 @@
+{
+    "Title": "Crown Point, IN",
+    "Descriptive Text": "Lake County, 35 miles SE of the Loop. Originally named Lake CourtHouse, Crown Point was settled in 1834, and has served as the county seat of Lake County,Indiana, since 1840. The name was changed to Crown Point in 1845. Between 1915 and 1940, Crown Point was a popular elopement destination for Chicago-area couples because there was no waiting period to obtain a marriage license. The 2000 population was 19,806.",
+    "Bibliography": "Moore, Powell A. The Calumet Region: Indiana's Last Frontier. 1959.",
+    "Author of Text": "Peggy Tuck Sinko",
+    "Hyperlinked Terms Associated": [
+        "Lake County,Indiana"
+    ]
+}

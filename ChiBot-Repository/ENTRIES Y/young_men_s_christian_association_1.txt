@@ -1,0 +1,28 @@
+{
+    "Title": "Young Men's Christian Association",
+    "Descriptive Text": "The Chicago Young Men's Christian Association was founded in 1853 as an interdenominational Protestant evangelical group devoted to the spiritual and social needs of young whitecollar workers. In the 1860s and 1870s, under the leadership of evangelist Dwight Moody, the Y departed from its initial mission to young men and took on more general evangelical work, including noon prayer meetings for the public and the distribution of relief to the poor. The city's first YMCA building, Farwell Hall (1867), named after benefactor and dry-goods merchant John V. Farwell, contained a library and parlor for the use of its members but lacked the features for which the Y is best known: dormitories and a gymnasium. Instead, its revival hall and offices served as a center for practical Christian work in Chicago, housing such groups as the Women's Christian Temperance Union.In 1879 special programs for young boys and a gymnasium and baths were introduced by popular demand. Tract distribution and relief work were dropped in favor of new, more popular methods of evangelism, including the employment of popular White Stockings star Billy Sunday as spiritual leader from 1883–1887.These changes were spearheaded by a new set of leaders drawn from Chicago's mercantile elite, including James Houghteling, Cyrus H. McCormick, Jr., and John V. Farwell, Jr. In the last quarter of the nineteenth century, the organization grew in size and scope, establishing branch buildings for railroad workers at junctions (beginning 1879), for college students (1891), and for the general population on the West Side (1887) and in Hyde Park (1895). Athletics became an integral part of the YMCA's character-building mission, and an expanded physical and athletic program included rental of an outdoor athletic ground and a baseball park in the 1880s.In 1893, construction began on a new 13-story building on LaSalle Street, the “Central” YMCA, which included a bowling alley, swimming pool, and gymnasium. Young white migrants could find rooms at the YMCA Hotel (1916), located just south of the Loop.In the 1910s the YMCA began to offer English classes and Americanization programs and worked with industry leaders like Sears, Roebuck to provide recreation facilities for its workers. Although racial discrimination in public accommodations was illegal in Illinois, the YMCA claimed that custom demanded separate facilities for blacks and whites. With seed money from Sears executive Julius Rosenwald, the African American community erected a building on South Wabash Street in 1913 that served as the welcoming center for newcomers, offering temporary accommodation, job placement, and other services.During the 1920s, the YMCA planned an expansion campaign that would put a modern, fully equipped building with residences, gymnasium, and educational facilities in every city neighborhood; and the camping program for boys, initiated as early as 1899, acquired its first permanent facilities, including Camp Hasting (1923) in Lake County and Camp Martin Johnson (1925) in Michigan. In this period, the Chicago Y's initial programs in business education blossomed, resulting in the creation of a formalized, accredited program known as the Central YMCA College, which later became the basis for Roosevelt University. Chicago also became a national center of education for Y staff workers with the construction of a training school, later named George Williams College (1915), on the South Side.Although the Great Depression placed a severe strain on YMCA resources, new branches were established and school and camp programs were often offered without charge. Membership became more inclusive; in 1931 the requirement for affiliation with an evangelical church was dropped, and by 1933 women were admitted on an equal basis. The Protestant faith remained central to the YMCA's programs until 1947, when leaders enacted a policy designed to encourage people of all faiths to practice the customs of their own religions.In the postwar years the Y again adapted to changing conditions, renaming itself the YMCA of Metropolitan Chicago to describe its changing role as both an urban social welfare agency and a middle-class suburban athletic center. Several inner-city branches were refashioned to tackle unemployment and homelessness. In the suburbs, the Metropolitan Y recognized the need of growing communities for family-based activity centers and built seven new buildings in the 1950s. These branches, tied administratively to the city, differed from the independent suburban Ys established in the early twentieth century. The post–World War II suburban expansion of the YMCA of Metropolitan Chicago was part of a concerted effort to address the region's social, physical, educational, and spiritual needs as a whole.",
+    "Bibliography": "Dedmon, Emmett. Great Enterprises: 100 Years of the YMCA of Metropolitan Chicago. 1957.Hopkins, Howard C. History of the YMCA in North America. 1951.Lupkin, Paula. “A Temple of Practical Christianity.” Chicago History 24 (Fall 1995): 22–41",
+    "Author of Text": "Paula R. Lupkin",
+    "Hyperlinked Terms Associated": [
+        "Protestants",
+        "Womens Christian Temperance Union",
+        "railroad workers",
+        "Hyde Park",
+        "baseball",
+        "bowling",
+        "swimming",
+        "Hotel",
+        "Loop",
+        "Americanization",
+        "African American",
+        "Roosevelt University",
+        "South Side",
+        "Great Depression",
+        "unemployment",
+        "homelessness"
+    ],
+    "Street addresses associated": [
+        "Hyde Park",
+        "South of Loop"
+    ]
+}

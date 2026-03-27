@@ -1,0 +1,8 @@
+{
+    "Title": "Hewitt Associates",
+    "Descriptive Text": "In 1940, Ted Hewitt founded an insurance brokerage company in suburban Lake Forest providing financial planning for business executives and professionals. Hewitt Associates began offering compensation and benefit plan consulting services to area employers in the 1950s. With the opening of its Minneapolis branch office in 1959, Hewitt expanded nationally and, beginning with its Toronto office in the 1974, globally. After a half century of astonishing growth, Chicago's largest management consulting business went public in 2002. Globally, it boasted 86 offices in 37 countries, 15,000 employees, and revenues of nearly $2 billion. Its headquarters, located in the Chicago suburb of Lincolnshire, employed 3,400 full-time consultants.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff.",
+    "Street addresses associated": [
+        "Lincolnshire"
+    ]
+}

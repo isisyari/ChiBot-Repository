@@ -1,0 +1,8 @@
+{
+    "Title": "Batswana",
+    "Descriptive Text": "While a few individuals may have settled in Chicago earlier, the majority of Batswana came to Chicago in the 1990s on educational scholarships. The Botswana government has sponsored hundreds of students and professionals every year to obtain advanced degrees around the world, particularly in the United Kingdom, the United States, and Australia. The vast majority of Batswana students have returned home immediately after completing their educations, although a small number have remained to work for a few years. Community estimates suggested approximately 20 Batswana in Chicago in 2002, nearly all of them students specializing in a range of studies.Batswana in Chicago meet for soccer, informal parties, and holidays and sometimes travel to larger Batswana communities in Michigan, New York, California, Washington DC, or Atlanta for large events like Batswana Independence Day (September 30). Chicago Batswana also remain connected to a larger community through Bosuinusa, an organization of Botswana students in the United States that organizes events and conferences and also maintains an active Internet newsgroup with more than a hundred participants.",
+    "Author of Text": "Tracy Steffes",
+    "Hyperlinked Terms Associated": [
+        "soccer"
+    ]
+}

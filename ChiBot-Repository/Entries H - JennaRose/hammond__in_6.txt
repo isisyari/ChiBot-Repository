@@ -1,0 +1,24 @@
+{
+    "Title": "Hammond, IN",
+    "Descriptive Text": "Lake County, 20 miles S of the Loop. In 1851 Ernest and Caroline Hohman purchased 39 acres of land along the Grand Calumet River, where they operated a stagecoach stop. The area remained unsettled until 1869, when the George H. Hammond Company purchased 15 acres from the Hohmans for a slaughterhouse. Initially a small operation, the slaughterhouse prospered, employing 1,500 workers by 1895. Marcus Towle, one of Hammond's partners, platted the first subdivision, established the first newspaper and cemetery, and built an expensive hotel, a roller skating rink, and an opera house. He also created a variety of small industries to diversify the economy. When the city incorporated in 1883, Towle served as Hammond's first mayor.From its inception, Hammond was a German, working-class city, with a large percentage of homeowners among both skilled and unskilled workers. Local support for labor climaxed in 1894, when Hammond played a major role in the Pullman Strike. During the strike, local workers refused to handle Pullman cars, making Hammond the last stop for westbound rail traffic entering Chicago. City officials supported the strikers. But after violence erupted, federal troops occupied Hammond. On July 7, 1894, the troops shot and killed a local carpenter. Outraged, a mass meeting of citizens condemned President Grover Cleveland for having employed troops.Support for labor diminished after 1901, when fire destroyed the Hammond Company and eliminated 1,500 jobs. The city faced a crisis. To attract new industries, local officials promised to protect capital from labor agitators. The promise allowed Hammond to attract new industries. The most significant came in 1906 with the arrival of Standard Steel Car Company, which employed 3,500 men. But the city never became as industrial as its neighbors Whiting, East Chicago, and Gary.Instead, Hammond developed an impressive regional downtown with department stores, office blocks, and movie palaces. In addition, the 1920s produced a housing boom. A few of the new subdivisions south of downtown were exclusive, like Woodmar, which promised to move residents “out of the smoke zone and into the ozone” and provided work for local architects L. Cosby Bernard and Addison Berry. But most new homes were modest bungalows.The Great Depression halted construction, which resumed at a fever pitch during the 1950s. By 1960, Hammond had no room for expansion. However, in 1966, the creation of River Oaks shopping mall in Calumet City challenged Hammond's 70-year history as a center for retailing. During the next decade, long-established family businesses closed and a wave of demolition gutted the once-prosperous downtown. Similarly, major industries closed, including American Steel Foundries in 1973, Pullman-Standard in 1981, and Rand McNally in 1981. Only Saint Margaret's Hospital and the First Baptist Church continued to prosper downtown.From 1970 to 1990 Hammond's population declined 22 percent, from 107,983 to 84,236. In 1980, 47 percent of the workforce remained in manufacturing occupations, 40 percent in technical sales and service, and 13 percent in managerial and professional occupations. By 2000, the population of 83,048 remained 72 percent white, primarily of German, Polish, and Irish ancestry, while Hispanics and African Americans accounted for 21 percent and 15 percent of the population, respectively.",
+    "Bibliography": "Bigott, Joseph C. “With Security and Comfort for All: Working-Class Home Ownership and Democratic Ideals in the Calumet Region, 1869 to 1929.” Ph.D. diss., University of Delaware. 1993.Moore, Powell A. The Calumet Region: Indiana's Last Frontier. 1959. Reprinted with an afterword by Lance Trusty, 1977.Trusty, Lance. Hammond: A Centennial Portrait. 1984.",
+    "Author of Text": "Joseph C. Bigott",
+    "Hyperlinked Terms Associated": [
+        "subdivision",
+        "newspaper",
+        "cemetery",
+        "German",
+        "Pullman Strike",
+        "Whiting",
+        "East Chicago",
+        "Gary",
+        "department stores",
+        "bungalows",
+        "Great Depression",
+        "Calumet City",
+        "Hospital"
+    ],
+    "Street addresses associated": [
+        "Woodmar"
+    ]
+}

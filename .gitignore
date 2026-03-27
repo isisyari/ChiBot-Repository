@@ -1,0 +1,11 @@
+# Environment variables - NEVER COMMIT
+.env
+.env.local
+.env.production
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db

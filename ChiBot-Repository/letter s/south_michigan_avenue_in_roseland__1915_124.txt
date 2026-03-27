@@ -1,0 +1,7 @@
+{
+    "Title": "South Michigan Avenue in Roseland, 1915",
+    "Descriptive Text": "South Michigan Avenue between 111th and 115th in Roseland drew shoppers from all over Chicago's far South Side and the southern suburbs from the 1860s through the 1960s. This 1915 post card illustrates why its range of stores attracted so much business in the mass transit era and why, with the wider use of automobiles, areas like this one with limited parking lost many of their customers to shopping malls.",
+    "Street addresses associated": [
+        "Roseland"
+    ]
+}

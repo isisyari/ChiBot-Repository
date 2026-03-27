@@ -1,0 +1,16 @@
+{
+    "Title": "Parking",
+    "Descriptive Text": "The early parking garages, constructed in the early twentieth century, were predominantly one-story structures located south of the Loop. Some of the garages were horse stables, where automobiles were charged the same amount it cost to stable a horse.The Hotel LaSalle parking garage, constructed in 1917, was the first high-rise parking garage in the Loop. Still standing at Washington and LaSalle today, the multicolored terra cotta structure was designed in the architectural tradition of the First Chicago School. The original ramp is still in use. The garage possessed complementary facilities such as a car-wash rack on each floor and a repair shop on the top floor.In the 1920s, parking entrepreneurs Richard G. Lydy and Ben Kissel began buying old buildings in downtown Chicago on Franklin Street, Wells Street, and Printers Row, converting the obsolete structures into parking buildings. The 1930s brought about new parking-garage designs such as double-deck parking, more high-rise garages, and a growing number of parking lots. Parking rates were high and paid by businessmen, salesmen, the clients of doctors and dentists, and shoppers.As the Loop developed, additional parking was created for the increasing number of people entering by car. The first parking meters were installed in 1947 on the upper and lower levels of Wacker Drive. The city built the first underground parking garages in the early 1950s and, in 1957, adopted the current zoning ordinance to regulate privately owned parking facilities.The 1970s brought parking policies that responded to federal air-quality standards. The city of Chicago, to attain higher air quality in response to EPA standards, banned private parking garages in the Loop. Over five thousand public spaces were eliminated between 1978 and 1983.By 1997, there were 342 public parking garages and lots in the Chicago Central Area, which includes the Loop, Lakefront, South Loop, River North, Upper Near North, Streeterville, and Near West Side areas.The largest parking garage in the Chicago area is located at O'Hare Airport.",
+    "Bibliography": "“Automobiles—Parking.” Clipping file. Chicago Historical Society, Chicago, IL.“Public Parking Facilities: Chicago Central Area, July 1997.” City of Chicago, Department of Planning and Development, November 1998.",
+    "Author of Text": "Nasutsa M. Mabwa",
+    "Hyperlinked Terms Associated": [
+        "Loop",
+        "Printers Row",
+        "zoning",
+        "South Loop",
+        "Near North",
+        "Streeterville",
+        "Near West Side",
+        "OHare Airport"
+    ]
+}

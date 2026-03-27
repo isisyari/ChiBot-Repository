@@ -1,0 +1,25 @@
+{
+    "Title": "Griffith, IN",
+    "Descriptive Text": "Lake County, 27 miles SE of the Loop. Farmers came to the area of Griffith in the early 1850s after Congress passed the Swamp Land Act, and the State of Indiana offered swamplands for $1.25 an acre. Area residents, many of German descent, traveled to Schererville for social affairs and Sunday services until 1891, when Jay Dwiggins and his brother Elmer of Chicago laid out the town. Construction of factories, houses, and a school soon followed. The Dwigginses advertised the town as “Chicago's Best Factory Suburb,” as it had numerous railroads crossing through it, including the Erie & Kalamazoo (later the Michigan Central), built in 1852; and the Michigan Southern, built in 1854.While the town established a government in 1904, it remained small, with two saloons, a small foundry, a glove factory, and a population of 523 in 1910.In 1913 developer Ernest de St. Aubin formed the Griffith Land Company. De St. Aubin moved with his family to Griffith from Chicago and oversaw the town's subdivision development until his death in 1928.Growth was slow but steady, with residents attracted to jobs in the railroad industry, at the steel mills in Gary and East Chicago, and at the Standard Oil refinery in Whiting. In 1914 Griffith annexed what later became the commercial district, on Ridge Road. Residents voted to launch a municipal water system in 1919, and in 1920 the Griffith Volunteer Fire Department took over the loosely organized firefighting to meet growing urban needs. The city also saw the opening of the Griffith State Bank and several stores. The bank collapsed during the Great Depression, and the building was later used for a library.In the 1920s, Louis Keen opened the town's second foundry. Business in Griffith expanded greatly around that time, and the population grew to 1,176 in 1930. Keen's foundry became a large employer in the thirties.Griffith grew despite the Depression because there were still jobs at the numerous steel mills and the refinery. Ernest Strack started a grocery business in the thirties which later became Lake County's largest local grocery chain. Growth continued after World War II as white veterans saw Griffith as a bedroom community to the industrial cities of Gary, East Chicago, and Hammond in northwest Indiana.By 1960, the population reached 9,483 and it soared to a peak of 18,168 in 1970. The 1990s brought another housing boom around a commercial strip on Ridge Road, even as population dipped to 17,334 in 2000. Fifteen churches serve the city. Griffith's biggest employer is Packaging Corporation of America.",
+    "Bibliography": "Griffith Diamond Jubilee Corporation. Seventy-five Years of Growing Together: Griffith Jubilee, 1904–1979. 1979.Moore, Powell A. The Calumet Region. 1959.",
+    "Author of Text": "Jennifer Mrozowski",
+    "Hyperlinked Terms Associated": [
+        "German",
+        "Schererville",
+        "railroads",
+        "saloons",
+        "subdivision",
+        "Gary",
+        "East Chicago",
+        "Whiting",
+        "annexed",
+        "firefighting",
+        "Great Depression",
+        "Lake Countys",
+        "World War II",
+        "Hammond"
+    ],
+    "Street addresses associated": [
+        "Griffith"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "Title": "Catholic Worker Movement",
+    "Descriptive Text": "During its heyday in the late 1930s and early 1940s, the Chicago Catholic Worker was the most significant offshoot of Dorothy Day's group in New York City. It ran houses of hospitality (St. Joseph's, the longest lasting and most important, opened in 1938) where members lived and practiced works of mercy. Its rejection of pacifism and revolutionary rhetoric, close connection with the Church hierarchy, and immersion in the Congress of Industrial Organizations in Chicago distinguished it from its parent organization. The Chicago Catholic Worker, especially its newspaper published from 1938 to 1941, launched the careers of many prominent Roman Catholic journalists and lay activists, including John Cogley, Edward Marciniak, and James O'Gara.",
+    "Bibliography": "Piehl, Mel. Breaking Bread: The Catholic Worker and the Origin of Catholic Radicalism in America. 1982.Sicius, Francis J. The Word Made Flesh: The Chicago Catholic Worker and the Emergence of Lay Activism in the Church. 1990.",
+    "Author of Text": "Steve Rosswurm",
+    "Hyperlinked Terms Associated": [
+        "Congress of Industrial Organizations",
+        "newspaper",
+        "Roman Catholic"
+    ]
+}

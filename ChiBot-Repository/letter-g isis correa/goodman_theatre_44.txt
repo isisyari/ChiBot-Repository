@@ -1,0 +1,17 @@
+{
+    "Title": "Goodman Theatre",
+    "Descriptive Text": "The city's oldest and largest not-for-profit theater originated in 1922, when the parents of Kenneth Sawyer Goodman, a Chicago playwright who died of influenza while in the army in World War I, sent a letter to the trustees of the Art Institute proposing a theater at the rear of the museum as a memorial to their son. Three years later, a professional repertory company opened the auditorium, designed by Howard Van Doren Shaw.After founding director Thomas Wood Stevens left in 1930, the professional company was dissolved, but the school of drama Stevens had established was continued and student productions took over the Goodman stage. In 1957, however, the newly hired John Reich, a Viennese teacher and director, mingled professional with student actors; and in 1969, Reich set up a fully professional theater company. In 1977, having divorced itself from the school (which moved to DePaul University ), the Goodman formed its own board, the Chicago Theatre Group.The era of William Woodman, Reich's successor in 1973, was marked by the emergence of Chicago playwright David Mamet, whose American Buffalo had its premiere at Goodman's Stage 2 in 1975 in a production directed by Gregory Mosher, who would succeed Woodman as artistic director in 1978. In 1984 the Mamet-Mosher collaboration climaxed with the American premiere of the Pulitzer Prize–winning Glengarry Glen Ross.With Mosher's departure to New York, artistic leadership in 1986 went to Robert Falls, a star of the city's burgeoning off-Loop theater scene. His tenure was highlighted by a landmark 1998 revival of Arthur Miller's Death of a Salesman and by plans for the theater to move in 2000 from the Art Institute to a new North Loop complex on Dearborn Street.",
+    "Bibliography": "Goodman Theatre. Again the Curtain Rises: A Pictorial History of Goodman Theatre Productions, 1925–1985. 1985.Ryan, Sheila. At the Goodman Theatre: An Exhibition in Celebration of the Sixtieth Anniversary of Chicago's Oldest Producing Theatre, October 12, 1985–January 11, 1986. 1985.",
+    "Author of Text": "Richard Christiansen",
+    "Hyperlinked Terms Associated": [
+        "theater",
+        "World War I",
+        "Art Institute",
+        "theater company",
+        "DePaul University",
+        "Loop"
+    ],
+    "Street addresses associated": [
+        "Loop"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Title": "Eastern Orthodox",
+    "Descriptive Text": "The term “Eastern Orthodox” usually refers to those Orthodox Christians who claim Hellenic, Slavic, or Arabic cultural traditions and adhere to the liturgies and customs of the ancient Byzantine church. Eastern Orthodox parishes generally have relied on ethnic identity as a significant organizing principle. Ecclesiastical organizations in the United States exist for Albanians, Bulgarians, Belarusians, Carpatho-Rusyns, Greeks, Macedonians, Romanians, Russians, Serbians, Syrians, and Ukrainians. The majority of Chicago's Eastern Orthodox congregations belong to either the Greek Orthodox Archdiocese of North and South America or the Orthodox Church in America (formerly the Russian Orthodox Greek Catholic Metropolia in North America) or enjoy autocephalous or autonomous status granted by the Ecumenical Patriarch of Constantinople. Some local groups still recognize the authority of church authorities in their countries of origin.Groups of Greeks, Russians, and Serbs were the first Eastern Orthodox believers to establish permanent Eastern Orthodox churches in Chicago. The Russian population of the city established St. Vladimir's Russian Orthodox parish in 1892 and in 1903 built Holy Trinity Cathedral. The construction of the cathedral, designed by renowned architect Louis Sullivan, was facilitated by a $4,000 donation from Czar Nicholas II of Russia. Belarusians and Ukrainians, traditionally identified as “Russians” by American immigration officials in the early twentieth century, often joined Russian Orthodox parishes. Many Ukrainians, however, were Eastern Rite or Uniate Catholics (Eastern Christians who adhere to the Eastern liturgical tradition but acknowledge the spiritual primacy of the Roman Catholic pope) and soon began to establish their own Ukrainian Catholic parishes, beginning with St. Nicholas parish in 1905.The city's earliest Greek and Serbian settlers were also quick to found their own ethnic parishes. Chicago's first Greek Orthodox parish, organized in 1892, met in rented quarters until it was able to build Annunciation Greek Orthodox Cathedral in 1910. Greek Orthodox adherents also established the parish of St. Constantine in 1909 on the city's South Side. St. Constantine's became one of the largest congregations in the Greek Orthodox Archdiocese of North and South America. Serbian immigrants living in Wicker Park first worshipped at Holy Resurrection Church, built in 1905, until the parish moved to its current far Northwest Side location in the 1960s. By the 1970s, the number of Greek Orthodox parishes in the Chicago area had jumped to 28. The increase in Serbian parishes was slightly more modest—19 parishes were still in operation by the 1970s.Later immigrant groups to Chicago also established their share of Eastern Orthodox churches. Albanians, Bulgarians, Romanians, Carpatho-Rusyns, and Macedonians all founded churches in Chicago. By the 1970s, there were 88 Eastern Orthodox parishes of various ethnic classifications in the city and its environs.Eastern Orthodoxy's adaptation to modern American culture has not always been smooth. Devotees have left inner-city parishes for the suburbs and parishes have modified liturgical traditions to attract younger followers. Perhaps the most challenging development, however, has been the tendency among some Eastern Orthodox groups to separate from traditional ecclesiastical organizations. Parishes that have traditionally catered to adherents of Eastern European origin, such as Holy Nativity Romanian Orthodox Church on Chicago's far North Side, broke with church authorities in Communist-dominated homelands in the 1960s.",
+    "Bibliography": "Bezkorovainy, Anatoly, ed. A History of Holy Trinity Russian Orthodox Cathedral of Chicago, 1892–1992. 1992.Bird, Thomas E. “Eastern Orthodox.” In Harvard Encyclopedia of American Ethnic Groups, ed. Stephan Thernstrom, 1980.The James Landing Papers. Special Collections, University Library, University of Illinois at Chicago.",
+    "Author of Text": "Brandon Johnson",
+    "Hyperlinked Terms Associated": [
+        "Albanians",
+        "Bulgarians",
+        "Belarusians",
+        "Greeks",
+        "Macedonians",
+        "Romanians",
+        "Russians",
+        "Serbians",
+        "Syrians",
+        "Ukrainians",
+        "Eastern Rite",
+        "South Side",
+        "Wicker Park"
+    ],
+    "Street addresses associated": [
+        "South Side",
+        "Wicker Park"
+    ]
+}

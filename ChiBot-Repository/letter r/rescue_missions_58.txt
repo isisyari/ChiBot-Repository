@@ -1,0 +1,16 @@
+{
+    "Title": "Rescue Missions",
+    "Descriptive Text": "Religious people have always stepped in to help meet Chicago's social, economic, and spiritual challenges, forming missions to “rescue” their fellow citizens who have fallen into spiritual or material poverty.Most Chicago rescue missions were active in the nineteenth century, starting in 1842, when the City Tract Society began feeding the hungry. Two years later Seamen's Bethel Church began ministering to sailors. The Chicago City Missionary Society began caring for the poor in 1853. A year later, the “Ragged School in the ‘Sands'” began serving the poor living in shacks at the mouth of the Chicago River.Presbyterians established the “Railroad Mission,” where poor Irish immigrants and African Americans were schooled together in a railroad car. Other efforts targeted newsboys and bootblacks, prostitutes, and saloon frequenters. By 1871, Chicago had over 33 rescue missions.The nonsectarian Armour Mission opened in 1886 at 33rd and Butterfield, shortly after the Salvation Army began its ongoing mission to Chicago's poor. Both organizations revealed a trend toward interdenominational cooperation at century's end.The Pacific Garden Mission, perhaps the most visible Chicago rescue mission and the site of evangelist Billy Sunday's conversion, was founded in 1877 by George and Sarah Clarke in the South Loop. Named after the site's former tenant, the notorious Pacific Beer Garden, it sought to be “a harbor for wrecked and ruined lives” and soon became known as the “Old Lighthouse.”At the close of the twentieth century, Chicago's rich tradition of rescue missions was most visible in the Pacific Garden Mission, the Salvation Army, and the Chicago Christian Industrial League.",
+    "Bibliography": "Clarke, Sarah D. The Founding of Pacific Garden Mission: Over 35 Years Contributed to the Master's Service. 1914.Pierce, Bessie Louise . A History of Chicago. vols. 1 and 2, 1937–1957.",
+    "Author of Text": "R. Jonathan Moore",
+    "Hyperlinked Terms Associated": [
+        "Irish",
+        "Africans Americans",
+        "saloons",
+        "Salvation Army",
+        "Pacific Garden Mission"
+    ],
+    "Street addresses associated": [
+        "South Loop"
+    ]
+}

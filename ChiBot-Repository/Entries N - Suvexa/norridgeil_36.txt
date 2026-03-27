@@ -1,0 +1,22 @@
+{
+    "Title": "Norridge, IL",
+    "Descriptive Text": "15 miles NW of the Loop. Norridge shares 70 percent of its border with Chicago, but prefers not to be identified with the city that nearly annexed it in 1948. Its name is derived from the names of neighboring areas Norwood Park and Park Ridge.Farmers who bought acreage in the area in the 1830s built their cabins on scattered sites. The area was once called “Goat Village” because of a woman who raised goats in the eastern portion of town. Many called it the “Swamp” because of the muddy conditions and unpaved streets.During the 1920s development was planned for an 80-acre subdivision from Ozanam to Olcott and Irving Park to Montrose. Residents shopped in neighboring Dunning until 1932, when a commercial strip was established along Irving Park Road.In 1948 Norridge was about to be annexed to Chicago when a local improvement association moved to incorporate as a village, stymieing Chicago's efforts at annexation. The 1950s ushered in an era of growth and development, encouraged by the construction of a waterworks system, the paving of sidewalks, streets, and curbs, and the installation of storm and sanitary sewers.In 1954 Norridge annexed land north from Montrose to Lawrence, and farms disappeared quickly. The same year the Norridge Youth Committee was established to promote athletic and social events. The Norridge Community Park District was established after the village purchased 22 acres between Wilson and Lawrence Avenues. The village grew from one-half square mile in 1949 to two square miles in 1958. Many new residents, predominately of Italian and Polish extraction, came from Chicago neighborhoods.The Harlem-Irving Plaza brought in sales tax that led to decreased property taxes. Begun in 1955 with 45 stores, the center had 140 stores by the 1990s.Although often compared to Harwood Heights because of their similar histories and their look-alike bungalow and ranch houses, Norridge has more shopping and industry than its neighbor. Residents in the 1990s were still mainly of Polish and Italian heritage. The 2000 census counted 14,582 people, nearly 95 percent white, with small but growing Asian and Hispanic populations.",
+    "Bibliography": "McGowen, Thomas. Island within a City: A History of the Norridge–Harwood Heights Area. 1989.Mussen, Craig. “The History and Origin of Norridge, Illinois.” Manuscript. 1979. Eisenhower Public Library, Harwood Heights, IL.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "Norwood Park",
+        "Park Ridge",
+        "subdivision",
+        "shopped",
+        "Dunning",
+        "annexation",
+        "Park District",
+        "Italian",
+        "Polish",
+        "Harwood Heights",
+        "bungalow"
+    ],
+    "Street addresses associated": [
+        "Norwood Park"
+    ]
+}

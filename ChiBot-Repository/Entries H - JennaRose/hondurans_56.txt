@@ -1,0 +1,33 @@
+{
+    "Title": "Hondurans",
+    "Descriptive Text": "Chicago's first Honduran immigrants began arriving during the early twentieth century. Some came to study at Midwestern universities and then settled in Chicago to practice medicine, engineering, or other professions. Primarily mestizos of mixed Indian and Spanish heritage, these immigrants established families and formed a community in South Chicago with other Hondurans who came to work in the steel mills. By 1960, several hundred Hondurans had settled in South Chicago, Little Village ( North Lawndale ), and Humboldt Park. Lacking formal ethnic organizations, families came together for informal gatherings in each others' homes.As immigration increased in the 1970s and 1980s, Chicago's Hondurans began to pursue more formal associations, but with only modest success. Hondureños Unidos, established in 1970, dissolved after several years, and other organizational attempts proved equally ephemeral until La Sociedad Civica-Cultural Hondureña was founded in 1989. Committed to preserving Honduran culture and educating immigrants' children, the society provided scholarships, supported folk music, and sent donations of food and clothing to Honduras.The last few decades of immigration have brought greater diversity as well as greater numbers to the Honduran community, including the arrival of many Garifuna, or Black Caribs, of mixed Indian and African descent. These late-twentieth-century arrivals were drawn by Chicago's employment opportunities. As the century drew to a close, many Honduran men were working in construction or factories. Honduran women often found jobs as domestic workers. Approximately 10 percent of Chicago's Honduran community were working as professionals. Many more had left professions in Honduras but were unable to practice in the United States.Waukegan was home to the largest Honduran community in the 1990s, but North and South Side neighborhoods with significant Honduran populations included Logan Square, Uptown, South Chicago, West Town, Albany Park, and New City. Although many Hondurans attend Roman Catholic churches with other Spanish-speaking immigrant neighbors, they come together each year in early February to celebrate La Virgen de Suyapa, the patron saint of Honduras. Annually in September, Hondurans unite with Chicago's other Central American communities to celebrate Independence Day. In the late 1990s, Hondurans continued to arrive in Chicago, many migrating from the larger Honduran immigrant communities in New Orleans, New York, and Los Angeles, attracted by Chicago's reputation for higher-paying employment. The 2000 census counted 5,844 Hondurans in the metropolitan area, although community estimates ranged up to several times that number.",
+    "Author of Text": "Kate Caldwell",
+    "Hyperlinked Terms Associated": [
+        "South Chicago",
+        "Little Village",
+        "North Lawndale",
+        "Humboldt Park",
+        "folk music",
+        "construction",
+        "domestic workers",
+        "Waukegan",
+        "Logan Square",
+        "Uptown",
+        "West Town",
+        "Albany Park",
+        "New City",
+        "Roman Catholic"
+    ],
+    "Street addresses associated": [
+        "South Chicago",
+        "Little Village",
+        "North Lawndale",
+        "Humboldt Park",
+        "Logan Square",
+        "Uptown",
+        "West Town",
+        "Albany Park",
+        "New City",
+        "Waukegan"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "Title": "West Dundee, IL",
+    "Descriptive Text": "Kane County, 37 miles NW of the Loop. West Dundee mixes historic charm with newer commercial and residential development. Over the years there have been efforts to merge West with East Dundee, the village just across the Fox River: a 1956 referen- dum was approved by East Dundee but rejected by West Dundee. These roles were reversed in a 1962 referendum. Each town's retention of individuality dates back to their early days, when West Dundee's Scottish and English heritage kept it apart from its German neighbors.In 1835 Elder John and Nancy Oatman established a tavern and a store that became the core of the community. Others settlers came, and in 1837 they held a lottery to determine who would name the town. Alexander Gardiner won and named the town Dundee in honor of his Scottish hometown. In 1843 Scotsman Allan Pinkerton, later the renowned detective, set up business as a cooper. The town was incorporated in 1867.West Dundee was hemmed in from development for years. The river formed a natural eastern barrier. To the north and west, the D. Hill Nursery, founded in 1855 by William Hill, specialized in fruit trees. The business grew to include evergreens, some of which were sent to Chicago for the World's Columbian Exposition in 1893. Expanding to 900 acres, the nursery survived the Great Depression by running a cattle feed operation that continued through World War II. Some of the thousands of seasonal workers traveled to work from Chicago by electric car, while the majority lived on the nursery grounds.In the 1950s a segment of the Hill property was sold and turned into the Highlands subdivision, which was annexed into West Dundee in 1956. The community also annexed property west of Illinois 31 in 1957, Royal Lane in 1960, and the Old World subdivision in 1966. The nursery eventually sold all of its land and moved to McHenry County. Plans for the Spring Hill Mall on Hill's land began in 1973 and the project was completed in 1980. The 1.1 million-square-foot mall's retail sales boosted West Dundee's economy and created an estimated 1,600 jobs by 1982. New subdivisions were built to the west of Spring Hill.With a 2000 population of only 5,428, West Dundee has managed to keep its quaintness and small-town feeling intact. Designated historical sites, include some of the elegant houses on Oregon Avenue. Restored buildings include structures reported to have provided refuge for slaves on the Underground Railroad.",
+    "Bibliography": "Bullinger, Carolyn J., ed. Dundee Township, 1835–1985. 1985.Provisional League of Women Voters. Fox Valley Four. 1971.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "East Dundee",
+        "Fox River",
+        "Scottish",
+        "English",
+        "German",
+        "Pinkerton",
+        "trees",
+        "Worlds Columbian Exposition",
+        "Great Depression",
+        "World War II",
+        "subdivision",
+        "annexed",
+        "Underground Railroad"
+    ],
+    "Historical Sources Associated (Title, Source, and Link)": "|"
+}

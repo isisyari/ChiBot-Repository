@@ -1,0 +1,4 @@
+{
+    "Title": "Raising Funds for City Planning, 1906",
+    "Descriptive Text": "In this fundraising letter, written early in the campaign that ultimately would result in the Plan of Chicago, Merchants Club Finance Committee Chairman Walter Wilson contacted banker Charles Dawes, urging him to solicit funds from other wealthy and civic-minded Chicagoans. Every one of the approximately fifty members of the Merchants Club was made a member of the Finance Committee and asked to solicit from others in support of the planning effort. Dawes was later Vice President of the United States under Calvin Coolidge and co-recipient (with British Foreign Secretary Austen Chamberlain) of the Nobel Peace Prize for his work on German reparations after World War I."
+}

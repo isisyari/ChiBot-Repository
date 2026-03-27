@@ -1,0 +1,24 @@
+{
+    "Title": "The Chicago Region and Its Global Models",
+    "Descriptive Text": "Because railroads were such an integral part of the growth of Chicago, the entire metropolitan area became the site of much innovation in suburban development and design. Riverside and Pullman were among the most famous examples, drawing interest and visitors from around the world. While some Chicagoans were seeking refuge from the city, however, others saw advantages to remaining within the central city, at least during the workday. As developers constructed residential enclaves and manufacturing facilities outside city limits, many business leaders continued to locate their headquarters in downtown Chicago. These new buildings, like some suburban developments, attracted international attention for their innovative design and implementation of technology.Railroads ran out from Chicago's center to a growing hinterland by the mid-nineteenth century. Settlements emerged around stops along these rail lines for farmers, industries, commuters, and various institutions. Real estate speculators who hoped to attract commuters to new subdivisions offered amenities such as paved streets and a community water supply. Riverside was among the first and most famous of these speculative commuter enclaves. Potential residents were offered \"the conveniences peculiar to the finest modern cities, with the domestic advantages of the most charming country, in a degree never before realized.\" The village's design embodied characteristics of a movement on both sides of the Atlantic to create park-like havens for people who could afford refuge from pollution and congestion of industrial cities.Pullman Arcade Building, 1885.The company town of Pullman, founded by George M. Pullman of the Pullman Palace Car Company, was an example of experiments occurring on both sides of the Atlantic to address labor unrest and improve conditions for industrial workers. Even before a 1894 strike captured international attention, the community (which was annexed to Chicago in 1889) was a regular stop on Chicago-area tours. Visitors sought to see for themselves the town that was the subject of debate regarding capitalism, paternalism, individual rights, and the proper nature of the employer/employee relationship.Home Insurance Building, c. 1905.As land values in Chicago's Loop soared, low buildings seemed inefficient and outdated. In order to build upward and not face the constraint of traditional load-bearing walls, Chicago architects began experimenting with metal skeleton structures. William Le Baron Jenney's Home Insurance Company building (1885), located at the northeast corner of LaSalle and Adams Streets, was the world's first completely iron-and-steel-framed building.",
+    "Bibliography": "Photographer: Barnes-CrosbySource: Chicago Historical Society (ICHi-19291)",
+    "Author of Text": "Sarah S. Marcus",
+    "Hyperlinked Terms Associated": [
+        "Planning Chiacgo",
+        "Railroads",
+        "Riverside, IL",
+        "Subdivisions",
+        "Suburbs and Cities aas Dual Metropolis",
+        "Pullam Inc.",
+        "Pullman",
+        "Retail Geography",
+        "Shopping Districts and Malls",
+        "Architecture",
+        "First Chicago School",
+        "Skyscrapers"
+    ],
+    "Street addresses associated": [
+        "Riverside",
+        "Pullman"
+    ]
+}

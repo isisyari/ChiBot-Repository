@@ -1,0 +1,4 @@
+{
+    "Title": "Wisconsin Central Depot in Antioch, c.1928",
+    "Descriptive Text": "Wisconsin Central trains brought hundreds from Chicago on summer Saturdays to the Chain of Lakes region (c. 1928)."
+}

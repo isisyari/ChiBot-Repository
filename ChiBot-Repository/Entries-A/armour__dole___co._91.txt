@@ -1,0 +1,5 @@
+{
+    "Title": "Armour, Dole & Co.",
+    "Descriptive Text": "Armour, Dole & Co. was founded in 1860 by George Armour, Charles Dole, and Wesley Munger. The company owned a grain elevator at the depot of the Chicago, Burlington & Quincy Railroad with a capacity of 850,000 bushels. After the Civil War, Armour, Dole & Co. remained among the city's leading grain warehousers; their elevators had a combined capacity of 2.1 million bushels in 1871. By the early 1880s, this figure had grown to 6.3 million bushels.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff."
+}

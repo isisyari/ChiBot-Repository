@@ -1,0 +1,33 @@
+{
+    "Title": "Forest Glen",
+    "Descriptive Text": "Community Area 12, 10 miles NW of the Loop. Forest Glen is perhaps the most stereotypically suburban of Chicago's community areas. This well-to-do and well-kept area contains the prestigious Edgebrook and Sauganash neighborhoods. Many city administrators, upper-echelon police and fire officials, lawyers, judges, and politicians live here. This secluded area lies on the city's far Northwest Side, and it is separated from surrounding portions of the city and suburbs by a ring of forest preserves, parks, golf courses, and cemeteries. Here, the monotonous flatness of the Chicago lake plain gives way to very attractive heavily forested and gently rolling terrain. The North Branch of the Chicago River forms part of the southern boundary of the area and wriggles from northwest to southeast through the community's eastern portion. The uniqueness of the area is further enhanced by a complex street pattern which, thanks to the serpentine wanderings of the river, departs markedly from the rigorous rectangular grid of most of Chicago's streets.CAMPING IN FOREST PRESERVE, 1922The woods to the east of the meandering river are thicker than those to the west since, from early times, the river protected the forest from fires blown eastward by the prevailing west winds. These flower-dappled woods once provided summer campgrounds and prime hunting territory for the Miami and Potawatomi Indians. Artifacts of their presence are still occasionally found here, and streets with Indian names invoke their memory. Indeed, the nearly two-and-one-half-square-mile area occupied by Sauganash and Edgebrook was once the preserve of Billy Caldwell, a colorful chief of the Potawatomi. Caldwell, whose Indian name was Sauganash (meaning Englishman), mediated the treaties between the Indians and the United States. In 1828, in recognition of his help, the federal government ceded Caldwell the tract of land.As Chicago grew outward, more and more distant areas were drawn into the urban web, particularly with the expansion of commuter rail lines. Railroad stops at Forest Glen and Edgebrook encouraged commuter settlement by the 1880s. Residential development began in that decade when Captain Charles Hazelton founded the first church in the area, built a home which still stands, and subdivided 10 acres for additional development. Milwaukee Railroad executives created a residential retreat alongside a golf course at Edgebrook. Initially a part of Jefferson Township, this area was largely annexed to Chicago in 1889. The relative remoteness of Forest Glen from the city center and the limited transportation facilities probably contributed to its sluggish development. It was not until the 1920s that home building began in earnest.By 1940, Forest Glen began to exhibit the character it shows today as a wealthy and powerful community of fine homes. By this time, the original residents of English and Swedish stock were joined by neighbors whose nationalities were German, Czech, and Irish. Roman Catholics founded new parishes alongside older Protestant churches. The community reached its highest population of 20,531 in 1970. Mayor Richard J. Daley's insistence that city workers live in the city led many to live in Forest Glen.At the end of the twentieth century, Forest Glen had a scattering of industry along the rail tracks and limited commercial facilities near major intersections on Cicero, Devon, and Lehigh Avenues. Even so, the area was overwhelmingly residential in character and most of the housing consisted of owner-occupied, single-family dwellings. Although there were virtually no apartments or townhouses, the housing stock was diverse. Within the community area, the various neighborhoods were rather stratified, with bungalows in Forest Glen, midrange housing in Edgebrook, and palatial dwellings in Sauganash. Homes in the area ranged from $150,000 to $300,000, but spacious and patrician older homes could fetch $500,000 or more. Some of these vintage homes have remained in the same families for generations.The community is stable, comfortable, and wealthy relative to most of Chicago, and it holds an aura of political power. The population has retreated slightly from its 1970 high as younger residents have moved out to establish their own families. By 2000, the area continued as an overwhelmingly white, Roman Catholic community.",
+    "Bibliography": "Alexander, Lois Ann, et al. Sauganash: A Historical Perspective. 1999.Chicago Fact Book Consortium, ed. Local Community Fact Book: Chicago Metropolitan Area. Based on the 1970 and 1980 censuses.Solzman, David M. The Chicago River: An Illustrated History and Guide to the River and Its Waterways. 1998.",
+    "Author of Text": "David M. Solzman",
+    "Hyperlinked Terms Associated": [
+        "police",
+        "forest preserves",
+        "golf",
+        "cemeteries",
+        "Chicago River",
+        "streets",
+        "Miami",
+        "Potawatomi",
+        "Railroad",
+        "golf",
+        "Jefferson Township",
+        "transportation",
+        "English",
+        "Swedish",
+        "German",
+        "Czech",
+        "Irish",
+        "Roman Catholics",
+        "Protestant",
+        "apartments"
+    ],
+    "Street addresses associated": [
+        "Forest Glen",
+        "Edgebrook",
+        "Sauganash"
+    ]
+}

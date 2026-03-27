@@ -1,0 +1,4 @@
+{
+    "Title": "River Street at Rush Street Bridge, 1914 or 1915",
+    "Descriptive Text": "The Rush Street Bridge proved to be a serious holdup to traffic by the early twentieth century. On the south bank, Wabash and Michigan avenues both fed traffic onto the bridge (Rush Street only ran on the north side of the river). The 1909 Plan of Chicago called for construction of a new bridge at Michigan Avenue and the redevelopment of River Street as Wacker Drive. Once the new Michigan Avenue Bridge was completed in 1920, the Rush Street Bridge was demolished."
+}

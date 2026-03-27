@@ -1,0 +1,20 @@
+{
+    "Title": "Barrington, IL",
+    "Descriptive Text": "Cook and Lake Counties, 32 miles NW of the Loop. While the oak grove and prairie land that lay between Chicago and the Fox River in the 1830s were both attractive and fertile, fear of Indian attack during the 1832 Black Hawk War and the lack of milling facilities kept Eastern farmers from entering the area. After the war, mills were erected along the Fox River at Dundee and Algonquin, and land-hungry Yankees flowed in.William Butler Ogden became interested in connecting the developing northwest to Chicago's growing port facilities. He gained control of the Chicago, St. Paul & Fond du Lac Railroad (later the Chicago & North Western Railway) in 1854 and pushed its tracks to the northwest corner of Cook County, where a station named Deer Grove was built.Although it meant improved profits, many area farmers feared the railroad would bring too many saloons and Irish Catholics to the area. In response to the opposition, Robert Campbell, a civil engineer working for the Fond du Lac line, purchased a farm two miles northwest of Deer Grove and platted a community there in 1854. At Campbell's request, the railroad moved the station building to his new community, which he called Barrington after Barrington, Massachusetts, the original home of a number of area farmers.The prosperity of the Civil War era increased Barrington's population to 300 in 1863. Because leaders believed the growing community needed tax-supported improvements, an election to incorporate Barrington was held on February 16, 1865. Homer Willmarth became the first village president. The village prospered as many Chicago grain merchants whose homes were destroyed in the Fire of 1871 decided to construct opulent Queen Anne–style residences along Barrington's tree-shaded streets.Although the Elgin, Joliet & Eastern Railway was built through Barrington in 1889, the village continued to serve agriculturally based trading interests into the twentieth century. Dairy farming was the major activity on the meadows and woodlots surrounding the community. Fueled by post– World War I prosperity, however, a number of Chicago business leaders built their residences on large woodland tracts around the village, bringing an end to dairying.The large estate acreage that tended to remain in family hands decade after decade protected Barrington from the densely packed residential developments that came to neighboring communities in the 1950s and 1960s. Barrington's population grew from 3,213 in 1930 to only 5,435 in 1960. But with the construction of the Northwest Tollway five miles to the south in the early 1960s, development did come to Barrington's south side. Population reached 10,168 in 2000.Proud of its reputation as an estate community, Barrington's leaders continue their opposition to dense population developments replacing estate acreage as it comes up for sale. A proposal to turn the Elgin, Joliet & Eastern Railway into a suburb-to-suburb commuter line with Barrington as a major stop met strong disapproval based on the fear that, as happened with the towns along the Northwest Tollway, such a transportation development would clog the city with traffic and noise.",
+    "Bibliography": "Lines, Arnett C. A History of Barrington, Illinois. 1977.Messenger, Janet. “Country Living.” Northshore Magazine, December 1997, 73–94.Sharp, Cynthia Baker. Tales of Old Barrington. 1976.",
+    "Author of Text": "Craig L. Pfannkuche",
+    "Hyperlinked Terms Associated": [
+        "Fox River",
+        "Black Hawk War",
+        "Algonquin",
+        "Railroad",
+        "Cook County",
+        "saloons",
+        "Irish",
+        "Civil War",
+        "Fire of 1871",
+        "agriculturally",
+        "World War I",
+        "Tollway"
+    ]
+}

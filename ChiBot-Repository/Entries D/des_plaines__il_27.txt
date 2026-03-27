@@ -1,0 +1,23 @@
+{
+    "Title": "Des Plaines, IL",
+    "Descriptive Text": "Cook County, 17 miles NW of the Loop. Des Plaines is a suburban transportation hub. Trains, buses, and highways provide a network bringing commuters and visitors from Chicago to Des Plaines and beyond. The Des Plaines River provided the earliest means of transportation. The river was variously known as Le Plein, Aux Plaines, and Oplain until Germans settled in the village and called it Des Plaines. In 1869 the town became Des Plaines by act of the state legislature.In 1835 Socrates Rand settled on the river's west bank; in 1837 he opened his home for Episcopal services and in 1838 operated the first school in the cheese room of his cabin. An important community member, Rand helped to build the railroad by providing timber for a sawmill, and became the first township chairman. In 1857 the first subdivision was named for him.The Illinois & Wisconsin Railroad (later known as the Chicago & North Western Railway) came through Des Plaines in 1854 with a depot located near the river. Train service and the extension of the North West Plank Road brought industry and laborers. In 1873 the settlement was incorporated as a village. The 1880 census figured population at 818.Flooding posed a constant threat. Although 10 bridges crossed the river in Des Plaines, their wood construction made them temporary, since spring floods could wash them away. The Great Flood of 1881 hindered travel for many weeks. Although the addition of brick culverts somewhat secured the bridges, heavy flooding continued to wear away at them. The first steel bridge crossed the river in 1900.In the summer months the idyllic river setting enticed Chicagoans to board trains for Des Plaines to picnic or camp. As many as 8,000 people came in a day, disrupting the quiet community and annoying townspeople whose flower gardens were trampled by visitors. The Des Plaines Methodist Camp Ground, established in 1860, drew Methodists from across the region. Northwestern Park's pavilion provided another attraction when it opened for dancing in the early 1900s. In 1918 Cook County's Forest Preserve District created favorable water levels for boating, swimming, and fishing by constructing a dam two miles north of Des Plaines.Growth accelerated in the 1920s and the population more than doubled to 8,798 in 1930. A city form of government was adopted in 1925 and the village of Riverview was annexed. Orchard Place was added in 1949, with adjacent land becoming part of O'Hare International Airport. Des Plaines grew to eight square miles, as a center for both suburban residential growth and light industry.In 1955 Des Plaines became home to the McDonald's Corporation's first restaurant. The community welcomed Oakton Community College in 1969. Population reached 57,239 in 1970 and declined to about 53,000 in the following two decades. By 2000 the population had grown to 58,720, with 17 percent Hispanic, 8 percent Asian, and 1 percent African American.Connections for workers continue to make Des Plaines an attractive community for commuters. Next-door to O'Hare Airport, townspeople have access to numerous daily trains, extensive bus lines, major roads such as Rand Road and Northwest Highway, and tollroads and expressways.",
+    "Bibliography": "Henkes, Mark. Des Plaines: A History. 1975.Johnson, Donald S. Des Plaines, Born of the Tallgrass Prairie: A Pictorial History. 1984.Smith, Hermon Dunlap. The Des Plaines River, 1673–1940: A Brief Consideration of Its Names and History. 1940.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "transportation",
+        "Des Plaines River",
+        "Germans",
+        "railroad",
+        "subdivision",
+        "bridges",
+        "Forest Preserve",
+        "OHare international Airport",
+        "tollroads",
+        "expressways"
+    ],
+    "Street addresses associated": [
+        "Des Plaines",
+        "Riverview",
+        "Orchard Place"
+    ]
+}

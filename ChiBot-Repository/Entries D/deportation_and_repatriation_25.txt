@@ -1,0 +1,19 @@
+{
+    "Title": "Deportation and Repatriation",
+    "Descriptive Text": "On the eve of the Great Depression, Chicago was home to the largest Mexican community in the Midwest, with more than 25,000 Mexicans and Mexican Americans. This community consisted of families but also included large groups of single men. They worked in a variety of industries, including railroads, meatpacking plants, and steel mills. Mexican Chicago thrived during the 1920s, and the neighborhood Atlas Bank counted among its depositors some 600 Mexicans in addition to another 400 who regularly bought money orders. The Mexican community supported a business class who operated a variety of enterprises: fourteen restaurants, five pool halls, five grocery stores, a barber shop, a shoe repair, four bakeries, a photograph gallery, a tailor shop, and a music shop.Few of these businesses survived the Great Depression, when major industries commonly awarded preference to workers of European descent and marked Mexicans for layoffs. Mexico City newspapers reported vast unemployment in Chicago and suggested that many of the unemployed were recent arrivals fleeing an even more deplorable situation in surrounding areas.Many Mexicans refused welfare assistance even though starvation was imminent. Instead, many preferred voluntary repatriation to escape the difficult economic situation. As early as 1929, the local Chicago Spanish-language newspaper La Raza advocated repatriation for unemployed Mexicans. Chicago's Mexican consul Rafael Aveleyra also offered his good offices to assist his nationals and their children in securing transportation and relocating to Mexico.Although repatriated Mexicans used various modes of transportation, including cars, buses, and trucks, public and private agencies preferred railroad transportation, because the trains were more reliable, delivered repatriates to the border, and offered a special discount rate of $15 per person. Most relief agencies in the United States preferred to pay a one-time train ticket fare rather than provide long-term assistance to Mexicans.Chicago differed from other American cities and such neighbors as Gary, South Chicago, and Indiana Harbor in never mounting a public repatriation campaign against Mexicans. Discrimination by local police and the court system, and layoffs, however, induced many Mexicans to repatriate voluntarily. A conservative estimate reports that Chicago's Mexican community of 25,000 in 1929 declined to less than 16,000 by 1938.",
+    "Author of Text": "Francisco E. Balderrama",
+    "Hyperlinked Terms Associated": [
+        "Great Depression",
+        "Mexican",
+        "meatpacking",
+        "restaurants",
+        "grocery stores",
+        "unemployment",
+        "Gary",
+        "police",
+        "court system"
+    ],
+    "Street addresses associated": [
+        "South Chicago"
+    ]
+}

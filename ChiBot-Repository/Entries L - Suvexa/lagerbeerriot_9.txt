@@ -1,0 +1,17 @@
+{
+    "Title": "Lager Beer Riot",
+    "Descriptive Text": "Chicago's first civil disturbance, on April 21, 1855, resulted in 1 death, 60 arrests, and the beginning of political partisanship in city elections.On March 6, a “Law and Order” coalition swept city elections. The coalition was formed by anti-immigrant, anti-Catholic nativists (Know-Nothings) and temperance advocates who were interested in moral reform and public order. With most municipal services either privatized or organized at the neighborhood level, city elections in the 1840s and early 1850s had been nonpartisan contests of little interest to anyone except real-estate owners. The extremely low voter turnout permitted this quietly mobilized coalition to win control of city hall with a thin base of popular support.Once elected, Mayor Levi Boone and the new council majority hiked liquor license fees while also shortening license terms from one year to three months. Expecting resistance, Mayor Boone “reformed” the city's police force: tripling its size, refusing to hire immigrants, requiring police to wear uniforms for the first time, and directing them to enforce an old, previously ignored ordinance requiring the Sunday closing of taverns and saloons. These were intentionally provocative acts aimed at Germans and Irish accustomed to spending their leisure hours in drinking establishments.Germans organized to resist the $300 license ordinance, raising defense funds for tavern owners arrested for noncompliance. Prosecutions clogged the city courts and attorneys scheduled a test case for April 21. This, in effect, scheduled the riot. A huge crowd assembled to support the defendants. Mayor Boone ordered police to clear the courthouse area, which resulted in nine arrests. An armed group from the North Side German community decided to rescue the prisoners, but Boone held them off by keeping the Clark Street drawbridge raised until he was able to assemble more than two hundred policemen. When the bridge was lowered and North Siders surged across, shooting began. Boone called in the militia, and the riot ended in minutes.The riot mobilized Chicago's immigrant voters. In March 1856, a heavy German and Irish turnout defeated the nativists, causing the $50 liquor license to be restored. More important was the renewed attention to city elections on the part of political party leaders, ending the era of municipal nonpartisanship. Never again would city elections be of such limited interest that a small group of extremists could win surreptitiously.",
+    "Author of Text": "Robin Einhorn",
+    "Hyperlinked Terms Associated": [
+        "real-estate",
+        "police",
+        "Sunday closing",
+        "saloons",
+        "Germans",
+        "Irish",
+        "leisure"
+    ],
+    "Street addresses associated": [
+        "North Side"
+    ]
+}

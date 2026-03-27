@@ -1,0 +1,16 @@
+{
+    "Title": "Nommo",
+    "Descriptive Text": "The Bantu term nommo denotes the magical power of words to cause change, which was the purpose of Nommo, the journal of the Organization of Black American Culture (OBAC) Writer's Workshop. Founded in 1967 amidst artistic and social ferment, OBAC sought to create a forum for black artists, writers, and critics. The literary journal that emerged developed within a shared set of ideals, concerns, and communal values, as Nommo gave form and substance to a new revolutionary black aesthetic. Nearly every 1960s black Chicago poet also wrote prose, and felt compelled to address issues, to take a stand.Led by seminal critic and thinker Hoyt W. Fuller, artists and writers such as Johari Amini, Carolyn Rodgers, Jamila-Ra, Jeff Donaldson, Randson Boykin, Walter Bradford, and others came together with the younger generation, including Nora Brooks Blakely, daughter of acclaimed poet Gwendolyn Brooks. Brooks herself lent her considerable literary resources and prestige to the group, and several figures later attracted national attention, including poets Sterling Plumpp, playwright Sandra Jackson-Opoku, and Haki Madhubuti (Don L. Lee), founder of the Third World Press. Meeting first in the historic South Side Community Art Center and the DuSable Museum, OBAC later settled into a home in the Abraham Lincoln Center. Nommo, like the civil rights movement, flourished throughout the next decade, bringing major figures like Amiri Baraka (LeRoi Jones) to Chicago as advisors. The Reagan years saw the waning of black artistic collectives throughout the United States, and Chicago was no exception, as Nommo closed its doors in 1987. An offshoot, Third World Press, continues to flourish, carrying on a rich legacy of bringing new and established African American writers to the public.",
+    "Bibliography": "Andrews, William, Frances Foster, and Trudier Harris, eds. The Oxford Companion to African-American Literature. 1997.Gates, Henry Louis, Jr., and Nellie McKay, eds. The Norton Anthology of African-American Literature. 1997.Parks, Carole A., ed. Nommo: A Literary Legacy of Black Chicago (1967–1987). 1989.",
+    "Author of Text": "Ronne Hartfield",
+    "Hyperlinked Terms Associated": [
+        "artists",
+        "South Side Community Art Center",
+        "DuSable Museum",
+        "civil rights movement",
+        "African American"
+    ],
+    "Street addresses associated": [
+        "South Side"
+    ]
+}

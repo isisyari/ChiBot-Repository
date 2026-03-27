@@ -1,0 +1,12 @@
+{
+    "Title": "Liberians",
+    "Descriptive Text": "Until the influx of refugees fleeing the 1980 military coup began arriving in the United States, the Liberian community in Chicago consisted of a few scattered individuals who had come to the city for educational purposes. During the 1980s and 1990s, the community grew to approximately 1,000 households, comprising mostly refugees and former Liberian government officials. According to a coalition of local Liberian immigrants, the Organization of the Liberian Community, Chicago has become a destination for Liberians because it has an active community and because it is the location of the Midwestern Consul General of the Honorary Liberian Consulate.Since the community is not concentrated in any particular neighborhood, except for some small pockets of settlement on the South Side, nor any occupational category, community life revolves around the yearly celebration of Liberian Independence Day on July 26 and on Liberian relief efforts. Many Liberian immigrants cooperate with the fundraising efforts of the Peace and Stability for Liberia organization, headed in the 1990s by former Illinois senator Paul Simon. Attempts in the early 1990s to organize a Liberian church met with little success. Although the community was thriving in the 1990s, most of its members still hoped to return to their country if the political situation there stabilized.",
+    "Author of Text": "Tracy N. Poe",
+    "Hyperlinked Terms Associated": [
+        "refugees",
+        "South Side"
+    ],
+    "Street addresses associated": [
+        "South Side"
+    ]
+}

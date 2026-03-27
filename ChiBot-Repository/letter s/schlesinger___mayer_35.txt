@@ -1,0 +1,4 @@
+{
+    "Title": "Schlesinger & Mayer",
+    "Descriptive Text": "This dry-goods merchant house was founded in Chicago in 1872 by Leopold Schlesinger and David Mayer, both immigrants from Germany. The company soon opened branches in New York and Europe. In 1899, the company commissioned architect Louis Sullivan to dramatically redesign its large downtown Chicago department store at State and Madison Streets, where it employed nearly 2,500 people. When the refurbished structure was completed in 1904, Schlesinger & Mayer was no longer financially able to operate there. Rival Carson Pirie Scott moved in immediately, attaching its name to the ornate building that would become an architectural landmark for decades to come."
+}

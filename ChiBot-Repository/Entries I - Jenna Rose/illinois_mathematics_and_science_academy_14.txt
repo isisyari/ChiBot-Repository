@@ -1,0 +1,8 @@
+{
+    "Title": "Illinois Mathematics and Science Academy",
+    "Descriptive Text": "The Illinois Mathematics and Science Academy (IMSA) was established by the Illinois legislature in 1985 and opened on September 7, 1986. The residentially based program in Aurora attracts 10th to 12th graders from throughout the state with special interests or talents in science and math, although other liberal arts and extracurricular programs are also offered. IMSA also serves professional educators through its “Center,” which emphasizes the development of math and science pedagogy. The academy's achievements include producing the winner of the 1993 Westinghouse Talent Search and leadership in curriculum development.",
+    "Author of Text": "Steven Essig",
+    "Hyperlinked Terms Associated": [
+        "Aurora"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "Title": "Greektown",
+    "Descriptive Text": "In the late nineteenth century, Chicago's Greek population began to coalesce in the area surrounded by Halsted, Harrison, and Blue Island Streets, where the campus of the University of Illinois at Chicago is now located. Greektown (also known as “the Delta”) was the largest and best-known urban community of Greeks in the United States for much of the early twentieth century.",
+    "Bibliography": "Kourvetaris, George A. First and Second Generation Greeks in Chicago. 1971.Steiner, Edward A. On the Trail of the Immigrant. 1906.",
+    "Author of Text": "Max Grinnell",
+    "Hyperlinked Terms Associated": [
+        "Greek",
+        "University of Illinois at Chicago"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "Title": "Kirkland & Ellis",
+    "Descriptive Text": "This law firm was the descendant of a partnership formed in Chicago in 1908 by Stewart G. Shepard and Robert R. McCormick. (McCormick soon left to take charge of the Chicago Tribune newspaper, the family business.) In 1915, both Weymouth Kirkland and Howard Ellis started to work for the Shepard firm; their names eventually became those that identified the business. Among the firm's major clients were Chicago companies such as International Harvester, Inland Steel, Marshall Field, Motorola, and McCormick's own Tribune Co. The firm remained one of the city's largest into the twenty-first century, with revenues above $500 million and a workforce that included over 400 attorneys in Chicago and scores more at offices in New York and other cities around the world.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff."
+}

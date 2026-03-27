@@ -1,0 +1,15 @@
+{
+    "Title": "Charity Organization Societies",
+    "Descriptive Text": "Charity Organization Societies (COS) began in the eastern United States during the 1870s to improve the organization of social services. A vast number of independent groups had formed to ameliorate the problems of poverty caused by rapid industrialization, but they operated autonomously with no coordinated plan. COS founders wanted to reform charity by adding a paid agent's investigation of the case's “worthiness” before distributing aid. Furthermore, they believed that unregulated and unsupervised relief caused rather than cured poverty, so a volunteer “friendly visitor” offered advice and oversaw the family's progress. COS views dominated charity philosophy until the 1930s and influenced the face of social welfare as it evolved during the Progressive era.Chicago charities adopted these principles later than eastern cities, in the 1890s. The first local charity organization society formed in 1883, but three years later it folded into the older and larger Chicago Relief and Aid Society (founded 1857) with little effect upon charity methods. COS proponents tried again to implement the principles of organization in 1893 when Chicago, already suffering from the national economic depression, experienced severe unemployment with the close of the World's Columbian Exposition. A new agency, the Central Relief Association (later the Bureau of Organized Charities), formed to coordinate benefits between agencies and implement investigation methods. It also attempted to make services available without regard to nationality or religion. In 1909, the United Charities of Chicago incorporated both the Bureau of Charities and the Relief and Aid Society.By the 1920s, ideas about social insurance and publicly funded entitlements began to replace COS concerns about public aid, resulting in a partnership between public and private agencies in the delivery of social services. Furthermore, social research and professional training had developed extensively during the intervening years and most social service education moved to universities, such as the School of Social Service Administration at the University of Chicago.",
+    "Bibliography": "McCarthy, Kathleen D. Noblesse Oblige: Charity and Cultural Philanthropy in Chicago, 1849–1929. 1982.Watson, Frank Dekker. The Charity Organization Movement in the United States: A Study in American Philanthropy. 1922.",
+    "Author of Text": "Joanne L. Goodwin",
+    "Hyperlinked Terms Associated": [
+        "social services",
+        "Chicago Relief and Aid Society",
+        "World´s Columbian Exposition",
+        "United Charities",
+        "insurance",
+        "social service education",
+        "University of Chicago"
+    ]
+}

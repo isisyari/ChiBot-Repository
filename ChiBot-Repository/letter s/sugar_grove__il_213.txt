@@ -1,0 +1,5 @@
+{
+    "Title": "Sugar Grove, IL",
+    "Descriptive Text": "Kane County, 43 miles W of the Loop. The Potawatomi called this area Sugar Grove because of the preponderance of sugar maples (now the Bliss Woods Forest Preserve ). Farmers from Ohio and New York arrived in the 1830s. Incorporated as a village in 1957, Sugar Grove grew to 3,909 residents in 2000 thanks to its convenient commuter location just south of Interstate 88.",
+    "Author of Text": "Erik Gellman"
+}

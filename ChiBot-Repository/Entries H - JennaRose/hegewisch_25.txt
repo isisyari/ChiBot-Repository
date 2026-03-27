@@ -1,0 +1,33 @@
+{
+    "Title": "Hegewisch",
+    "Descriptive Text": "Community Area 55, 16 miles SE of the Loop. Early maps indicate that a natural water passage existed from the present location of Hammond, Indiana, to the western banks of Wolf Lake through Hyde Park Lake. Native Americans settled on sand dunes and traveled along this passage for trade purposes. Waterfowl also followed this natural route during migratory periods as the primary feeder to the Mississippi flyway.Immigrant laborers and other settlers built the first railroads across this terrain into Chicago in the 1850s. Originally part of Lake Township, it became part of Hyde Park Township in 1867.Adolph Hegewisch, president of U.S. Rolling Stock Company, hoped to establish “an ideal workingman's community” when he laid out the town along a rail line in 1883. He moved his company about 10 miles east to border the new town and announced plans to build two major canals as an incentive for other factories to locate near the town. The first canal would have shortened the Calumet River; the second would have stemmed from the first to connect Wolf Lake to Lake Michigan. Owing to a lack of capital, these plans never came to fruition, and the town of Hegewisch fell dramatically short of its estimate of 10,000 residents by 1885—only 500 names were listed in the town directory four years later.In 1889, Hegewisch was annexed to Chicago along with the rest of Hyde Park Township. Adolph died a few years later and the Rolling Stock Company became part of the Pressed Steel Car Company before World War I. During these decades, Joseph H. Brown and other industrialists developed steel mills in and around Hegewisch. New residents included many Polish, Yugoslavian, Czechoslovakian, Swedish, and Irish workers.In 1935, attempts to organize workers for better pay, hours, and conditions affected the Hegewisch community. The Congress of Industrial Organizations (CIO) created the Steel Workers Organization Committee (SWOC). In 1937, Carnegie-Illinois, a major subsidiary of U.S. Steel located in Hegewisch, signed a contract with the SWOC that limited hours, increased pay, and provided vacation time. The other “Little Steel” plants around the area did not follow suit, which prompted a strike against Republic Steel and other plants in May. On Memorial Day, off-duty police officers hired by Republic opened fire on the nonviolent demonstrators, killing 10 and injuring hundreds. The violence succeeded in breaking the union until the emergence of the United Steelworkers in the 1940s. This event has since become known as the Memorial Day Massacre; a plaque commemorates the victims at 117th Street and Avenue O.The steel mills in and around Hegewisch remained the mainstays of the community over the next half century. The Pressed Steel Car Company switched its manufacturing operation from railroad cars to Howitzer tanks and other vehicles during World War II. After the Vietnam War, steel manufacturing waned across America, Hegewisch included. After the closure of Wisconsin Steel in 1980, the population declined because of layoffs. However, the remaining residents focused new energies on community activism and successfully blocked plans for both a Calumet airport and designation of landfills in the area. In the 1980s, residents of Hegewisch initiated a renewal project that included successful lobbying for a Metra stop, a branch of the Chicago Public Library, and a $300,000 block grant to repair infrastructure. Since the 1960s, Hegewisch has balanced out some of its population losses with the relocation of a significant number of Mexican Americans into the area. Adjacent to the Bishop Ford Expressway (I-94) and numerous railway lines, industry (including DMC, a major Midwest distributor of Ford automobiles since 1998) and nearby Indiana casinos constitute the employment base for the residents of Hegewisch.",
+    "Bibliography": "Sellers, Rod, and Dominic A. Pacyga. Chicago's Southeast Side. 1998.",
+    "Author of Text": "Erik Gellman",
+    "Hyperlinked Terms Associated": [
+        "Hammond",
+        "Native Americans",
+        "railroads",
+        "Lake Township",
+        "Hyde Park Township",
+        "Calumet River",
+        "Lake Michigan",
+        "annexed",
+        "Polish",
+        "Yugoslavian",
+        "Czechoslovakian",
+        "Swedish",
+        "Irish",
+        "Congress of Industrial Organizations",
+        "a strike",
+        "Memorial Day Massacre",
+        "Metra",
+        "Chicago Public Library",
+        "infrastructure",
+        "Mexican",
+        "Expressway"
+    ],
+    "Street addresses associated": [
+        "Hyde Park",
+        "Hegewisch"
+    ]
+}

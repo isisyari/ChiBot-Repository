@@ -1,0 +1,5 @@
+{
+    "Title": "King (Henry W.) & Co.",
+    "Descriptive Text": "In 1854, Henry W. King arrived in Chicago and helped to found Barrett, King & Co., a clothing company that grossed about $150,000 in sales in its first year. During the Civil War, the enterprise became known as King, Kellogg & Co. After the Kelloggs departed, Henry W. King & Co. was created in 1880 by King and his partners, most of whom lived in New York City. By the 1880s, King & Co. was a leading Midwestern clothing wholesaler and retailer, with about $5 million in annual sales. By the end of the nineteenth century, the company's main sales territories stretched from the Midwest to the Pacific. Most of the clothes sold by King, which reportedly employed about 5,000 people around the country, were made in Maine and New York by Browning, King & Co.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff."
+}

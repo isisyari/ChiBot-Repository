@@ -1,0 +1,6 @@
+{
+    "Title": "Warren G. Harding in Chicago, 1920",
+    "Descriptive Text": "Republican candidate for President, Warren G. Harding, stands with Ohio Governor Frank Bartlett and an unidentified man at the Republican Convention in Chicago, where the \"smoke-filled room\" meeting took place, 1920.",
+    "Creator (Photographer)": "Chicago Daily News",
+    "Source": "Chicago Historical Society (DN-0071961)"
+}

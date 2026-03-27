@@ -1,0 +1,11 @@
+{
+    "Title": "Black Belt",
+    "Descriptive Text": "From the turn of the twentieth century until after World War II, the term “Black Belt” was commonly used to identify the predominately African American community on Chicago's South Side. Originally a narrow corridor extending from 22nd to 31st Streets along State Street, Chicago's South Side African American community expanded over the century until it stretched from 39th to 95th streets, the Dan Ryan Expressway to Lake Michigan.",
+    "Bibliography": "Chicago Commission on Race Relations. The Negro in Chicago: A Study of Race Relations and a Race Riot. 1922.Drake, St. Clair, and Horace R. Cayton. Black Metropolis: A Study of Negro Life in a Northern City. Rev. ed. 1993.Philpott, Thomas Lee. The Slum and the Ghetto: Neighborhood Deterioration and Middle-Class Reform, Chicago, 1880–1930. 1978.",
+    "Author of Text": "Wallace Best",
+    "Hyperlinked Terms Associated": [
+        "African American",
+        "South Side",
+        "Lake Michigan"
+    ]
+}

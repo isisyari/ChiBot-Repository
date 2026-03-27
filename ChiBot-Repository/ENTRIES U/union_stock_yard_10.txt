@@ -1,0 +1,9 @@
+{
+    "Title": "Union Stock Yard",
+    "Descriptive Text": "The Union Stock Yard opened on Christmas Day 1865. Operated by the Union Stock Yard & Transit Co., the 475-acre market located at Exchange and Halsted Streets in the New City Community Area consolidated several small stockyards. In the mid-1870s major packers located next to the stockyard and remained until the late 1950s.The stockyard owed its origins to innovations in railroad transportation. In turn, direct sales from breeders to packers, the emergence of interstate trucking, and the resulting decentralization of the meat industry brought its decline. The market closed on August 1, 1971, after handling more than one billion animals. By the end of the century the stockyard site was home to the city's most successful industrial park.",
+    "Bibliography": "Holt, Glen E., and Dominic A. Pacyga. Chicago: A Historical Guide to the Neighborhoods: The Loop and South Side. 1979.Wade, Louise C. Chicago's Pride: Packingtown and Environs in the Nineteenth Century. 1987.",
+    "Author of Text": "Dominic A. Pacyga",
+    "Street addresses associated": [
+        "New City"
+    ]
+}

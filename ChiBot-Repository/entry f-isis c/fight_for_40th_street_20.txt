@@ -1,0 +1,13 @@
+{
+    "Title": "Fight for 40th Street",
+    "Descriptive Text": "In 1913, as part of an effort to eliminate duplicate street names, the city council named the West Side 40th Street after Peter Crawford, an early Cicero Township landowner. In 1933, Mayor Edward Kelly sought to consolidate his ties to Polish voters by renaming Crawford Avenue to honor Count Casimir Pulaski, a Polish hero of the American Revolutionary War. Business owners at the intersection of Crawford and Madison, one of the city's major shopping districts, protested. Pulaski's supporters countered that such objections masked anti-Polish prejudice. Crawford's proponents obtained a temporary injunction against the change, but in April 1935, the Illinois Supreme Court upheld the city council's right to select street names.Crawford's backers did not give up. Angry residents tore down “Pulaski Road” signs, and the Postal Service continued to deliver mail addressed to Crawford Avenue. In 1937, Illinois passed a law that the city council must change a street name on the request of owners of 60 percent of its frontage. So in 1938 some property owners submitted petitions for the restoration of the name Crawford Avenue to Pulaski Road, while others asked that Haussen Court, which was less than two blocks long, be renamed for Crawford. Neither petition had enough signatures to require city action.In 1949, owners of businesses along Pulaski Road filed a final round of petitions for Crawford. Although these signatures were valid, the city council refused to act. Property owners sued city officials for dereliction of duty. The second Crawford Avenue lawsuit culminated in 1952, when the Illinois Supreme Court ruled in favor of the name Pulaski.",
+    "Author of Text": "Amanda Seligman",
+    "Hyperlinked Terms Associated": [
+        "Mayor",
+        "Polish",
+        "shopping districts"
+    ],
+    "Street addresses associated": [
+        "Cicero"
+    ]
+}

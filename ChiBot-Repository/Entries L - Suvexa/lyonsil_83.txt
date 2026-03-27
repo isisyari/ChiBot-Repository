@@ -1,0 +1,32 @@
+{
+    "Title": "Lyons, IL",
+    "Descriptive Text": "Cook County, 11 miles SW of the Loop. The marshy region at what is now 47th and Harlem separates waters that flow into the Great Lakes from those that flow into the Mississippi River. During wet seasons Native Americans could travel from the South Branch of the Chicago River to the Des Plaines River through an area called Mud Lake.The origin of the town name is uncertain; local lore suggests a relation to Lyon, France, another town at the confluence of two bodies of water. David and Bernardus Laughton established a trading post and tavern in the late 1820s near the confluence of Salt Creek and the Des Plaines River. Construction on the Illinois & Michigan Canal brought workers to the region. German farmers settled here, but growth was slow, in part owing to fear of prairie fires. A large brewery began operations in 1856, and two years later Lyons joined with other towns in petitioning for a railroad to be built through their towns.By the early 1880s, a thriving limestone quarry and lime kilns, a flour mill, and numerous taverns constituted the town's major commercial enterprises. Harvesting ice from the Des Plaines River provided seasonal employment. A Roman Catholic church opened in 1876, and a Lutheran church served the large German community. By the 1880s Polish immigrants arrived in significant numbers.Formal incorporation came in 1888, and in 1897 the small town of Cooksville was transferred to Lyons from adjoining Riverside. In the early twentieth century one commentator referred to Lyons as “bibulous ... the chosen abode of Bacchus and Terpsichore.” A more restrained observer of the era characterized Lyons as “quaint” and traditional, and noted that there were “unlimited possibilities” for the development of the town.Progressive-era reformers targeted the town for change, but in 1908 a vote to abolish saloons lost by a lopsided 244–14 margin. Not surprisingly, one of the most influential men in town was a brewer, George Hofmann, Jr. In 1908 he built a dam on the Des Plaines River in order to generate water power, and adjacent to the dam he erected the Hofmann Tower, the center of a park complete with boat rides on the river.The paving of Ogden Avenue in 1914 expedited auto travel, and the Chicago & Joliet Electric Railway made the town even more accessible. Amusement parks and taverns continued, even during Prohibition. Residential development boomed after 1945, when most of the town's available land was converted to housing. The last amusement park closed in the 1970s, as did the red-light district.The population of 10,255 in 2000 consisted of various ethnic groups, although there were relatively few African Americans. Lyons's reputation as a residential, blue-collar town has not diminished over the years, and there are still many taverns. Metra's Burlington Northern Santa Fe line provides easy access to Chicago. The Chicago Portage National Historic Site, located in Ottawa Trail Woods, is a place where the Native American and French pasts mingle with the present. The Hofmann Tower remains a local landmark, and is on the National Register of Historic Places.",
+    "Bibliography": "Andreas, A. T. History of Cook County Illinois. 1884.Benedetti, Rose Marie. Village on the River, 1888–1988. 1988.Lyons Diamond Jubilee, 1888–1963. 1963.",
+    "Author of Text": "Ronald S. Vasile",
+    "Hyperlinked Terms Associated": [
+        "Native Americans",
+        "Chicago River",
+        "Des Plaines River",
+        "Salt Creek",
+        "Illinois & Michigan Canal",
+        "German",
+        "railroad",
+        "brewery",
+        "quarry",
+        "Roman Catholic",
+        "Polish",
+        "Riverside",
+        "saloons",
+        "Amusement parks",
+        "Prohibition",
+        "African Americans",
+        "Metras Portage",
+        "French"
+    ],
+    "Street addresses associated": [
+        "Lyons",
+        "Cooksville",
+        "Riverside",
+        "Ottawa Trail Woods"
+    ]
+}

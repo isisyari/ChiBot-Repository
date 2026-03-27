@@ -1,0 +1,5 @@
+{
+    "Title": "National Packing Co.",
+    "Descriptive Text": "In 1902, the leading Chicago-based packing companies (including Armour, Swift, and Morris) agreed to merge into a giant corporation called the National Packing Co. Conceived primarily as a holding company, National Packing soon began buying up smaller meat companies, such as G. H. Hammond and Fowler. Between 1904 and 1910, National Packing acquired 23 stockyards and slaughtering plants nationwide, which gave it control over about one-tenth of U.S. meat production. The company owned branches in over 150 cities around the world, along with a fleet of 2,600 refrigerated railcars. Pressure from U.S. government regulators forced the dissolution of the company in 1912, leaving the structure of the American meat industry about the same as it had been before 1902.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff."
+}

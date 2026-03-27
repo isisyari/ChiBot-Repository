@@ -1,0 +1,5 @@
+{
+    "Title": "Chicago's Retail Centers in 2000",
+    "Descriptive Text": "By century's end, shopping in metropolitan Chicago had been revolutionized. First, shopping plazas with off-street parking began the concentration of retail land use into favored nodes. Commercial strips incorporating such plazas also proliferated, especially along major arterial streets. But it was the building of the metropolitan expressways in the 1950s-80s that fundamentally realigned shopping locations for Chicagoans by providing widespread access to the new shopping malls and regional supermalls. By 2000 there were at least 23 regional malls within the contiguous built-up area. Most of the old commercial ribbons along major city streets atrophied, except where foot traffic remained strong, and downtown Chicago retail businesses faced severe competition from suburban competitors, leading a number of department stores to close in the urban core, having repositioned their sales space in the outlying malls.",
+    "Bibliography": "Authors: Michael P. Conzen and Ann T. NatunewiczSource: Newberry Library"
+}

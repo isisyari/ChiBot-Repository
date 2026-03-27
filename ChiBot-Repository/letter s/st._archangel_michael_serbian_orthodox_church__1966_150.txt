@@ -1,0 +1,4 @@
+{
+    "Title": "St. Archangel Michael Serbian Orthodox Church, 1966",
+    "Descriptive Text": "St. Archangel Michael Serbian Orthodox Church at 98th St. and Commercial Ave., 1966"
+}

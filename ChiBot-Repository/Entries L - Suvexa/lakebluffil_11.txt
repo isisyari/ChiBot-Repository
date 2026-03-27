@@ -1,0 +1,29 @@
+{
+    "Title": "Lake Bluff, IL",
+    "Descriptive Text": "Lake County, 30 miles N of the Loop. Lake Bluff is the most distant suburb on the North Shore. It was settled in 1836 by Catherine and John Cloes. First known as Dwyer Settlement, it was subsequently renamed Oak Hill (1848), Rockland (1859), and then Lake Bluff (1882).Location on the transportation corridor connecting Chicago to Waukegan and Milwaukee, first by stagecoach (1836) and then by rail (1855), proved paramount to development. Walter S. Gurnee, mayor of Chicago (1851–52) and speculator, foresaw this place as another railway suburb. His early vision went unfulfilled for another 40 years.The Lake Bluff Camp Meeting Association (1874) took form instead, at a summer gathering place established by Methodists. The association's founders appreciated its assets: lovely beaches, a railroad, and the cachet of North Shore. Guests summered in tents through 1882. The five-story Hotel Irving (1883) advanced its attractions, embracing worldly activities including art, bathing, boating, dancing, and other recreational pursuits.Lake Bluff was becoming a residential suburb, with the construction of modest cottages, by the late 1880s. In 1895 the village incorporated and erected a two-story public school. Hastening its transformation, a fire in 1897 destroyed the hotel, and the camp meeting association dissolved two years later. Soon after followed the building of a commuter station (1904) and a graceful village hall (1905). When the nearby Great Lakes Naval Training Station, completed in 1911, sought to designate Lake Bluff as its postal address, civic leaders lobbied in opposition. The North Chicago post office was chosen instead.Citizens contemplated consolidation into Lake Forest in 1895, 1908, 1912, and 1930, although never proceeding to referendum. After 1900, Lake Bluff became the site for country-style estates constructed by prominent Chicago families (Armour, Clow, Durand, and Field) as well as the exclusive Shore Acres Country Club (1916).Lake Bluff reflected the nationwide suburban trend after 1945. Population increased: 2,000 in 1950, 5,008 in 1970, and 6,056 in 2000. A large subdivision —comparable to developments elsewhere—known as the Terrace, to the east and west of Green Bay Road, started in 1961, contributing to Lake Bluff's largest population advance in any decade, 1,514 new residents from 1960 to 1970. Other subdivisions, on the former estate of Phillip D. Armour III along Green Bay Road, yielded the more distinctive Armour Woods and Tangley Oaks, designed to conserve woodlands and ponds.At the end of the twentieth century, Lake Bluff encountered challenges as well as opportunities. Its traditional housing stock east of Sheridan Road was its cherished coin, heightening interest in historic preservation. Median home value for Lake Bluff in 1990 was $285,200—above comparable countywide statistics but lower than in nearby suburbs Bannockburn, Lake Forest, and Mettawa. Knollwood, an unincorporated residential neighborhood west of Lake Bluff but within Lake Bluff's park and school districts, made unsuccessful petitions for annexation in 1978, 1982, and 1996. Lake Bluff did expand to the southwest, developing a commercial and light manufacturing district plus a retail complex featuring a modern supermarket. Knauz Motors, conducting business in Lake Forest since 1934, relocated all its new-car dealerships to western Lake Bluff by 2001. Correspondingly, the economic vitality in the original retail center diminished, stirring the village board to contemplate ambitious plans designed to foster downtown rejuvenation.",
+    "Bibliography": "Mellinger, Barbara A. “History of Lake Bluff.” Unpublished senior thesis, Cornell College, Mt. Vernon, Ia. 1978.Nelson, Janet, Kathleen O'Hara, and Ann Walters. Lake Bluff, Illinois: A Pictorial History. 1995.Vliet, Elmer B. Lake Bluff: The First 100 Years. Ed. Virginia Mullery. 1985.",
+    "Author of Text": "Michael H. Ebner",
+    "Hyperlinked Terms Associated": [
+        "transportation",
+        "Waukegan",
+        "mayor",
+        "Gurnee",
+        "railroad",
+        "Great Lakes Naval Training Station",
+        "North Chicago",
+        "Lake Forest",
+        "subdivision",
+        "historic preservation",
+        "Bannockburn",
+        "Mettawa"
+    ],
+    "Street addresses associated": [
+        "Lake Bluff",
+        "Waukegan",
+        "Milwaukee",
+        "Lake Forest",
+        "North Chicago",
+        "Bannockburn",
+        "Mettawa"
+    ]
+}

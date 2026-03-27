@@ -1,0 +1,13 @@
+{
+    "Title": "Hebron, IN",
+    "Descriptive Text": "Porter County, 45 miles SE of the Loop. An 1832 treaty with the Potawatomi opened what is now Hebron to U.S. settlement, but only the 1863 arrival of the Pittsburgh, Chicago & St. Louis Railroad motivated significant growth. Incorporated in 1890, Hebron has become a bedroom community, a fact confirmed by the proliferation of subdivisions and shopping centers there.",
+    "Bibliography": "Charter Centennial (1890–1990), Hebron, Indiana: One Hundred Years. 1990.",
+    "Author of Text": "Brandon Johnson",
+    "Hyperlinked Terms Associated": [
+        "treaty",
+        "Potawatomi",
+        "Railroad",
+        "subdivisions",
+        "shopping centers"
+    ]
+}

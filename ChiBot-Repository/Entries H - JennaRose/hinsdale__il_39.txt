@@ -1,0 +1,24 @@
+{
+    "Title": "Hinsdale, IL",
+    "Descriptive Text": "DuPage and Cook Counties, 16 miles W of the Loop. Hinsdale, a commutervillage along the Chicago, Burlington & Quincy Railroad, roughly encompasses the area between Kingery Highway, 59th Street, Interstate 294, and Ogden Avenue. The village sits on elevated prairie land. A valley runs east to west, splitting Hinsdale's morainic hills, some of which rise to over 70 feet above Lake Michigan.Shortly after the Black Hawk War ended in 1833, a settlement developed north of present-day Hinsdale in an area along the Old Plank Road (Ogden Avenue) near the banks of Salt Creek. This area, known as Brush Hill for its abundance of hazelnut bushes, grew into a thriving community of taverns, mills, and feed stores. By 1851 Ben Fuller had acquired most of Brush Hill, which he platted and renamed Fullersburg.In 1858 Fuller petitioned the Chicago, Burlington, & Quincy Railroad to build a line through Fullersburg. Because of topographical problems, however, the line was built one mile south through Hinsdale's valley instead. In 1862 William Robbins bought 640 acres of what is now south Hinsdale. The tracks through Hinsdale were completed on May 20, 1864, and Robbins hired landscaper H. W. S. Cleveland to plat the village south of the tracks. Robbins planted elm and maple trees along proposed streets and built a school.Hinsdale was incorporated in 1873, with Judge Joel Tiffany as its first president. The Hinsdale Library Association was incorporated in 1887. During the 1890s Hinsdale installed a water pumping station, wood and brick-paved roads (1892), electric streetlights (1896), and a telephone exchange (1896). The Hinsdale Golf Club set up links on Anson Ayres's property in the 1890s.The Hinsdale Sanitarium was started in 1903. Improvements in the 1920s included Ruth Lake Country Club (1922), Madison school (1924), and the Hinsdale Theater (1925). The Woodlands, an area east of County Line Road, was annexed in 1917, and Fullersburg was annexed in 1923. In 1924, the Hinsdale Plan Commission was formed to consider zoning ordinances. The colonial-style Memorial Building, which today houses village offices, was built in 1928, funded entirely by private donations.From 1960 to 1975 Hinsdale arrived at its present borders by means of eight different annexations. In 1975 Hinsdale annexed Katherine Legge Memorial Park, which had been donated to the village by International Harvester. Since the 1980s, Hinsdale has restored many of its historic structures and builders have been encouraged to use the Georgian style of colonial architecture in keeping with the Hinsdale Plan of early civic leaders.In 1870, 43 percent of Hinsdaleans were originally from the northeastern United States. The remaining 50 percent consisted of German, English, and other northwestern European immigrants. In 2000 Hinsdale's population was 17,349, twice what it had been in 1950.",
+    "Bibliography": "Sterling, Tom, and Mary Sterling. Hinsdale and the World: One Hundred Years. 1996.Thompson, Richard A., ed. DuPage Roots. 1985.",
+    "Author of Text": "Tom Sterling",
+    "Hyperlinked Terms Associated": [
+        "Railroad",
+        "Black Hawk War",
+        "Salt Creek",
+        "trees",
+        "Library",
+        "water",
+        "telephone",
+        "Golf",
+        "zoning",
+        "annexations",
+        "German",
+        "English"
+    ],
+    "Street addresses associated": [
+        "Fullersburg",
+        "Woodlands"
+    ]
+}

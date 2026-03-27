@@ -1,0 +1,9 @@
+{
+    "Title": "Moving Days",
+    "Descriptive Text": "The Chicago tradition of moving on the first of May or October can be traced to English and Dutch rural festivals. In parts of England, May 1 was known as “Pack Rag Day,” the day on which servants would gather their belongings in a bundle and change their employers at hiring fairs. Michaelmas Day (September 29) or Old Michaelmas Day (October 10) was also a time when farmhands would change employment.The tradition was also practiced in the Netherlands, where servants would change their employers at the fair at the beginning of May or November. Dutch immigrants brought this tradition to New York as May 1 became a traditional moving day in that city.Mentions of May 1 as moving day in Chicago can be found as early as the 1840s. In the late nineteenth century as many as one-third of all Chicago households moved annually. It was a very unpopular event, with families facing greedy landlords, exorbitant rates charged by movers (known as expressmen), and the risk of breakage and loss of furniture and belongings.In 1865 moving day was postponed until May 3, as President Lincoln's funeral cortege was passing through the city on the first day of that month.In 1911, owing to the widespread unpopularity of a fixed moving day, the Chicago and Cook County real-estate boards allowed leases to be made at any time of the year. Despite these efforts, the first of May and October remain popular moving days in Chicago.",
+    "Bibliography": "Duis, Perry. Challenging Chicago: Coping with Everyday Life, 1837–1920. 1998.Wright, A. R. British Calendar Customs, England. 1940.",
+    "Author of Text": "Emily Clark",
+    "Hyperlinked Terms Associated": [
+        "real-estate"
+    ]
+}

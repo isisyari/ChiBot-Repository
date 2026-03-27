@@ -1,0 +1,10 @@
+{
+    "Title": "Ringwood, IL",
+    "Descriptive Text": "McHenry County, 55 miles NW of the Loop. After the C&NW railroad built through a large treeringed meadow, area residents platted a village there in 1854. Although little growth occurred for over a century, in 1994, fearing that they would lose their historic identity to an expanding Johnsburg, residents voted to incorporate. The population in 2000 was 471.",
+    "Bibliography": "McHenry County in the Twentieth Century, 1968–1994. McHenry County Historical Society. 1994.Nye, Lowell A., ed. McHenry County, Illinois, 1832–1968. 1968.",
+    "Author of Text": "Craig L. Pfannkuche",
+    "Hyperlinked Terms Associated": [
+        "railroad",
+        "Johnsburg"
+    ]
+}

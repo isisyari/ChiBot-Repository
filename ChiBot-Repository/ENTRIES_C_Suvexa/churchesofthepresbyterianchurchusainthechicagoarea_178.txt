@@ -1,0 +1,4 @@
+{
+    "Title": "Churches of the Presbyterian Church (USA) in the Chicago Area",
+    "Descriptive Text": "The changing distribution of Presbyterian churches at the metropolitan scale traces the suburbanization of a mainline Protestant denomination during the twentieth century. In 1920, the bulk of the group's churches in the region were located in the city of Chicago or in outlying satellite cities and the larger rural service centers. By 2000 the number of urban churches had significantly declined but was counterbalanced by new congregations established in the suburbs. This kept the metropolitan total almost constant over the period as a whole, even as overall membership steadily ebbed."
+}

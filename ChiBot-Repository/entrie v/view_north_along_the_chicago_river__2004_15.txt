@@ -1,0 +1,4 @@
+{
+    "Title": "View North along the Chicago River, 2004",
+    "Descriptive Text": "This photograph was taken from the bridge at Roosevelt Road. The view is north along river toward the Sears Tower and the western edge of downtown."
+}

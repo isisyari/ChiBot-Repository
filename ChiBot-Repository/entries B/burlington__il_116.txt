@@ -1,0 +1,5 @@
+{
+    "Title": "Burlington, IL",
+    "Descriptive Text": "Kane County, 48 miles W of the Loop. In 1851, Andrew Pingree platted Burlington, which had three cheese factories by 1878 and incorporated as a village in 1906. The last dairy plant closed in the 1970s. Burlington has been home to small plastics companies in recent decades and had a population of 452 in 2000.",
+    "Author of Text": "Erik Gellman"
+}

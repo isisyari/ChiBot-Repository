@@ -1,0 +1,19 @@
+{
+    "Title": "New Lenox, IL",
+    "Descriptive Text": "Will County, 31 miles SW of the Loop. The village of New Lenox, like many of its neighboring communities, originated as a small agricultural settlement along the shores of Hickory Creek, a winding tributary of the Des Plaines River southwest of Chicago. For more than a century, Potawatomi and European traders and settlers had taken advantage of the waterway, and its surrounding groves and fertile lands, for food, transportation, and shelter. Farmers arrived in the 1830s after the federal government's forced expulsion of Potawatomi from the area.In the 1850s, the Chicago & Rock Island Railroad (later the Chicago, Rock Island & Pacific) began offering service from Chicago through New Lenox to La Salle. George Gaylord, a merchant and grain dealer from Lockport, laid out plans for a village at the site of the existing settlement along the rail line. Recognizing the importance of the railroad to the future of the community, residents named the village after the current superintendent of the Rock Island Railroad. Soon thereafter, however, the village adopted the name of the township —New Lenox—which in turn had been named after Lenox, New York, the native home of the first township supervisor, J. Van Dusen. With the railroad as a commercial conduit, residents of New Lenox developed a strong economy based upon agricultural production, a grain elevator owned by the railroad, wagon shops, mills, blacksmiths, a hotel, and a butter factory.As late as the 1930s, New Lenox retained its identity as an agricultural settlement. Authors of the Federal Writers' Project Guide to 1930's Illinois (1939) described New Lenox as a “community of small farms, poultry yards, and kitchen gardens.” The guide also noted, however, the existence of small lots, owned by former urbanites who had moved out of the city and “back to the land.”Despite this suburban development and the official incorporation of the village in 1946, New Lenox remained a small community, with a population in 1950 of 1,235 people, 17 of whom were classified by the census as “rural/farm” residents. Twenty years later, Interstate 80 had been completed with an interchange near New Lenox, easing transport between the village and the surrounding metropolitan area; the population had increased to nearly 3,000, with 16 residents classified as farmers or farm laborers.During the last decades of the twentieth century, the village's population boomed, doubling during the 1980s to 9,627, and reaching 17,771 in 2000. Although unincorporated acres of farmland surrounded New Lenox, the community thrived not as an isolated village, but as a suburb within the Chicago metropolitan region that incorporated much of Will County.",
+    "Bibliography": "Conzen, Michael P., Glenn M. Richard, and Carl A. Zimring, eds. The Industrial Revolution in the Upper Illinois Valley. 1993.History of Will County, Illinois. 1878.Sterling, Robert E. Pictorial History of Will County. 2 vols. 1975.",
+    "Author of Text": "Sarah S. Marcus",
+    "Hyperlinked Terms Associated": [
+        "agricultural",
+        "Des Plaines River",
+        "Potawatomi",
+        "transportation",
+        "Railroad",
+        "Lockport",
+        "township",
+        "Will County"
+    ],
+    "Street addresses associated": [
+        "Lenox"
+    ]
+}

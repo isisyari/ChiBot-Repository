@@ -1,0 +1,4 @@
+{
+    "Title": "Redlining: Discrimination in Residential Mortgage Loans (cover), 1975",
+    "Descriptive Text": "The Illinois Legislative Investigating Commission published its report in May 1975 after hearing allegations from individuals and civic groups, unsatisfied with current federal laws against redlining and frustrated by Illinois banks and savings and loans that continued to discriminate against mortgage-seekers in racially integrated areas of Chicago. The cover of their report replicated the color-coded maps that had been used by government agencies and financial institutions to denote neighborhoods that were supposedly high risk for lending and insurance."
+}

@@ -1,0 +1,4 @@
+{
+    "Title": "View of Chicago before Fire of 1871",
+    "Descriptive Text": "The City of Chicago as It Was before the Great Conflagration of October 8th, 9th, & 10th, 1871, by William Flint. Chicago's population at the time of this bird's-eye view looking southwest from Lake Michigan was approximately 334,000."
+}

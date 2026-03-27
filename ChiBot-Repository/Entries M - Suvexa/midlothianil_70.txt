@@ -1,0 +1,24 @@
+{
+    "Title": "Midlothian, IL",
+    "Descriptive Text": "Cook County, 18 miles S of the Loop. Midlothian is bordered by Crestwood and Robbins to the north, Posen to the east, Markham to the south, and Oak Forest to the west, and shares a history with all of these communities.Most of the surface of Midlothian is on the lake plain formed by glacial Lake Chicago as a result of the Wisconsin glacier (12,000 BP). In the southwestern corner, the Tinley Moraine passes through from northwest to southeast.Evidence of Native American occupation in the area of Midlothian abounds, especially just south of town at the Oak Forest site. The site, on the Tinley Moraine overlooking a marshy area of glacial lake plain, dates to the 1600s. The Potawatomi were the last Native American occupants of the area. The Old Indian Boundary Line crosses to the southeast of the village. The Midlothian area and additional land to the northwest of this line were ceded in 1816 in the Treaty of St. Louis.The early record of European occupation of the Midlothian area is the history of Bremen Township, which was first settled by Yankee farmers in the early 1830s, followed by German and Irish immigrants in the 1840s and 1850s. Midlothian was first called Rexford Crossing and was a milk stop where the Rock Island line crossed Crawford Avenue.The Midlothian Country Club was founded in 1898 on the rolling landscape of the Tinley Moraine. (The name Midlothian is a reflection of the Scottish origins of the game of golf, in that it came from Sir Walter Scott's novel The Heart of Midlothian.) The country club, founded by George R. Thorne, president of Montgomery Ward and Company, attracted the elites of Chicago society and was the first golf club south of the city. The country club built the Midlothian & Blue Island Railway to connect its clubhouse to the Rock Island Railroad at 147th street, and was unique in having the only railroad owned by a country club.A small community developed around the station, with residential development beginning in 1915, an elementary school in 1919, and incorporation in 1927.With the growth of population came the founding of the community's major religious congregations: St. Christopher Roman Catholic in 1922, Midlothian United Methodist in 1925, Hope Lutheran and Concordia Lutheran in 1925. The Lutherans merged in 1973 as St. Stephen Lutheran Church. St. Christopher was the patron saint of travelers, and a tradition of blessing motorcycles developed at the Catholic church.The Great Depression hurt many families in Midlothian, but attracted those who were employed and wanted better housing, such as Harry Raday, who served as mayor from 1961 to 1985. Midlothian has developed as a residential community, noted for its low taxes.Midlothian was the home of the Highland Games from 1973 to 1981, a reminder of its Scottish name. Although the games became a major regional attraction, financial and legal problems caused their demise.",
+    "Bibliography": "“Featuring Bremen Township.” Where the Trails Cross 7.1 (Fall 1976): 1–3.“Midlothian Golden Anniversary.” Midlothian Messenger. 1977.Markman, Charles W. Chicago before History: The Prehistoric Archaeology of a Modern Metropolitan Area. Studies in Illinois Archaeology 7, ed. Thomas E. Emerson. 1991.",
+    "Author of Text": "Dave Bartlett",
+    "Hyperlinked Terms Associated": [
+        "Crestwood",
+        "Robbins",
+        "Posen",
+        "Markham",
+        "Oak Forest",
+        "Native American",
+        "Potawatomi",
+        "Treaty",
+        "Yankee",
+        "German",
+        "Irish",
+        "Scottish",
+        "golf",
+        "Railway",
+        "Roman Catholic",
+        "Great Depression"
+    ]
+}

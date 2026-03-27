@@ -1,0 +1,10 @@
+{
+    "Title": "Port Barrington, IL",
+    "Descriptive Text": "McHenry County, 38 miles NW of the Loop. A vacation spot developed along the Fox River south of Island Lake in 1925, where residents enjoyed fishing and water sports almost from the backdoors of their cottages. Voting to incorporate as the vil- lage of Fox River Valley Gardens in 1969 to more easily provide municipal services, the community slowly grew to 788 by 2000. In 2002 the village adopted the name Port Barrington.",
+    "Bibliography": "McHenry County in the Twentieth Century, 1968–1994. McHenry County Historical Society. 1994.",
+    "Author of Text": "Craig L. Pfannkuche",
+    "Hyperlinked Terms Associated": [
+        "vacation spot",
+        "Fox River"
+    ]
+}

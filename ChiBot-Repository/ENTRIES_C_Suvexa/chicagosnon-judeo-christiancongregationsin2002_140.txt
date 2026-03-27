@@ -1,0 +1,4 @@
+{
+    "Title": "Chicago's Non-Judeo-Christian Congregations in 2002",
+    "Descriptive Text": "The most significant development in metropolitan Chicago's religious landscape has been the appearance and steady growth of non-Judeo-Christian congregations in the last decades of the twentieth century. Their geographical pattern indicates two dimensions: strong concentrations on Chicago's North Side, which represents the latest \"port of entry\" for recent immigrant groups establishing themselves in the region, and a widely dispersed metropolitan pattern in which many churches locate with easy access to the freeway network to draw adherents from a wide area."
+}

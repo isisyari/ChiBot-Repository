@@ -1,0 +1,8 @@
+{
+    "Title": "Governors State University",
+    "Descriptive Text": "Founded in 1969, Governors State University defines its mission as providing an academic home to those “traditionally underserved by higher education.” The state institution has offered upper-level undergraduate courses and accredited master's programs to an older population of mostly working students: the average age of the 9,000 students in 2000 was 35, more than 70 percent of them women. The school has thus developed an extensive system of on-campus childcare while providing financial assistance to even its part-time students, who made up 80 percent of the student body in 2000.Located 30 miles south of Chicago in University Park, the school's 750-acre campus is home to the Nathan Manilow Sculpture Park (named for an area developer), which began with one piece in 1969 and has since become one of the nation's most significant outdoor collections. The university assumed responsibility for the park after sponsoring a major exhibition in 1976. When the Illinois Board of Governors of Colleges and Universities disbanded in 1996 the university became subject to the oversight of its own newly constituted board of trustees.",
+    "Author of Text": "Sarah Fenton",
+    "Hyperlinked Terms Associated": [
+        "University Park"
+    ]
+}

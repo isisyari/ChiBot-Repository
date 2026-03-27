@@ -1,0 +1,16 @@
+{
+    "Title": "Lincolnshire, IL",
+    "Descriptive Text": "Lake County, 26 miles NW of the Loop. Lincolnshire is among the wealthiest communities in the Chicago metropolitan area. It is near the site of one of the earliest non-Indian settlements in Lake County, Half Day, now part of Vernon Hills.Lincolnshire began as a subdivision of 280 acres into half-acre lots in 1955, promoted by developer Roger Ladd. The village incorporated in 1957. From the beginning it was marketed to relatively wealthy homeowners, many of whom were attracted by the rolling, wooded landscape along the Des Plaines River.Lincolnshire remained a quiet residential community into the 1980s. Issues relating to the management of growth dominated village politics in the late 1980s and early 1990s, with a cautious approach predominating. Lincolnshire refused to annex two corporate office park developments in the mid-1980s.Critics of the slow-growth policy noted that the village had to contend with increased traffic resulting from developments in neighboring communities, while the new tax revenues went to other villages. Lincolnshire later sought to annex the unincorporated community of Half Day, but in 1996 lost a court battle over annexation to rival Vernon Hills.Lincolnshire did acquire its own commercial developments, including a Marriott Lincolnshire Resort near the 300-acre Lincolnshire Corporate Center, begun in 1983. The village built an imposing new village hall in 1993.While the village had grown up without a center, trustees began working in the mid-1990s to develop a downtown anchored by a movie theater and retail and office space.In 2000, almost all Lincolnshire residents were white and lived in single-family, owner-occupied homes with a median value of $425,200. Most households (83 percent) had two or more cars. Only 1 percent of residents reported incomes below poverty level.",
+    "Bibliography": "“A Lovely Town for Trees, Friends, and Fights.” Chicago Tribune, May 21, 1994.",
+    "Author of Text": "Douglas Knox",
+    "Hyperlinked Terms Associated": [
+        "Vernon Hills",
+        "subdivision",
+        "Des Plaines River"
+    ],
+    "Street addresses associated": [
+        "Lincolnshire",
+        "Vernon Hills",
+        "Half Day"
+    ]
+}

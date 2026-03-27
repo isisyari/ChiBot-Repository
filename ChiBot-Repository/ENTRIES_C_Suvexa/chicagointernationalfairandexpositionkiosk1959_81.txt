@@ -1,0 +1,5 @@
+{
+    "Title": "Chicago International Fair and Exposition Kiosk, 1959",
+    "Descriptive Text": "In July 1959 the Chicago Association of Commerce, with the support of city government, hosted the Chicago International Fair and Exposition at Navy Pier. Business and civic leaders hoped to promote Chicago as a center for international trade and a marketplace for the world's goods. The Fair was held in conjunction with the opening of the St. Lawrence Seaway, which provided access for transoceanic ships from the Atlantic via the Great Lakes to Chicago. This information kiosk promoting the fair stood near the corner of State and Madison in the Loop.",
+    "Bibliography": "Chicago Historical Society (ICHi-59449)"
+}

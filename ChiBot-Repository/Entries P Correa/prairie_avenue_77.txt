@@ -1,0 +1,16 @@
+{
+    "Title": "Prairie Avenue",
+    "Descriptive Text": "Prairie Avenue was an exclusive address for Chicago's elite in the late nineteenth century. This north-south boulevard, close to the lakefront, begins at 16th Street and continues to the city's southern limits. The sections between 16th and 22nd Streets and between 26th and 30th Streets were well known for grand homes.The wealthy settled on Prairie Avenue after the Civil War because it was close to the Loop, and it did not require its residents to cross the Chicago River. The first large home on the upper portion of Prairie Avenue was built by Daniel Thompson in 1870. Marshall Field soon followed in 1871 with a grand home by Richard Morris Hunt. George Pullman's palace was constructed on upper Prairie Avenue in 1873. Mansions for other magnates were not far behind. This section of the avenue was dominated by Second Empire homes. The lower section of Prairie Avenue between 26th and 30th Streets began to attract wealthy residents in the mid-1880s, and this segment was made up of many Queen Anne and Richardson Romanesque houses.Perhaps the best-known building on Prairie Avenue is H. H. Richardson's Glessner House on 18th Street. This imposing house, done in the architect's signature Richardson Romanesque style, was completed in 1887 for John Glessner, a farm equipment manufacturing executive, and his wife Frances. The structure is not set back from the lot line like most homes, and it appears fortress-like in its use of rugged granite for the exterior. Richardson's aim was to provide the family with a truly urban home that embraced a center courtyard and its interior spaces while shielding the inhabitants from the city street. As such, it caused a major stir among the Glessners' neighbors. But the design was prescient—Prairie Avenue was becoming a less desirable neighborhood in the late 1880s. Soot from the nearby railroad was a major nuisance, and an infamous vice district was encroaching on the neighborhood.Prairie Avenue became home to light industry and vacant lots in the mid to late twentieth century. Many mansions were torn down, others became dilapidated. In 1966, the Glessner House was purchased by a group of architects called the Chicago School of Architecture Foundation. The home is now a museum, and Prairie Avenue, although devoid of most of its mansions, was declared a historic district in 1978.",
+    "Bibliography": "Harrington, Elaine, and Kevin Harrington. “H. H. Richardson and the Glessners.” Perspectives on the Professions 3.4 (December 1983).Hubka, Thomas C. “H. H. Richardson's Glessner House.” Winterthur Portfolio 24.4 (Winter 1989): 209–229.Molloy, Mary Alice. “Prairie Avenue.” In The Grand American Avenue, 1850–1920, ed. Jan Cigliano and Sarah Bradford Landau, 1994.",
+    "Author of Text": "Heidi Pawlowski Carey",
+    "Hyperlinked Terms Associated": [
+        "vice district",
+        "railroad",
+        "Chicago River",
+        "Loop",
+        "Civil War"
+    ],
+    "Street addresses associated": [
+        "Prairie Avenue"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "Title": "Park City, IL",
+    "Descriptive Text": "Lake County, 35 miles N of the Loop. Owners of four mobile home parks banded together to incorporate Park City in 1958 to block annexation from nearby Waukegan. In the late 1970s, a federal housing lawsuit claimed that residents excluded non- whites. Since that time, the minority population has increased, and single-family homes have emerged alongside trailer homes. In the late 1990s Columbia College of Missouri opened a small branch campus in Park City.",
+    "Author of Text": "Erik Gellman",
+    "Hyperlinked Terms Associated": [
+        "mobile home",
+        "annexation",
+        "Waukegan",
+        "College"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Title": "Bronzeville",
+    "Descriptive Text": "In 1920 the African American population in Chicago was 109,894. Republican -oriented Negro leaders like Alderman Oscar DePriest and Bishop Archibald Carey were referred to as “Race Men” because they were blasting the downtown establishment on behalf of African Americans seeking a piece of the sunshine pie.The dominions that DePriest and Carey presided over were the Second and Third Wards on the South Side, which were alternately referred to as the “Black Belt” or “Black Ghetto” and occasionally “Darkie Town.” Geographically, the Second and Third Wards were bounded by 22nd Street on the north and 51st Street on the south and Cottage Grove on the east and the Rock Island Railroad on the west. Many citizens of color resented having their neighborhoods referred to as the “Black Belt” or “Black Ghetto” by the major media.James J. Gentry, a theater editor for Anthony Overton, the cosmetic king and publisher of the Chicago Bee, suggested that they use his coined word Bronzeville to identify the community, since it more accurately described the skin tone of most of its inhabitants. Overton supported the idea and in 1930 his newspaper sponsored an unsuccessful Mayor of Bronzeville contest.In 1932 Gentry left the Chicago Bee and carried his Mayor of Bronzeville idea to Chicago Defender publisher Robert S. Abbott. Abbott jumped at Gentry's idea. Charles Browning, the Chicago Defender's promotional genius, developed the Mayor of Bronzeville contest into the newspaper's second most profitable promotion. The Bud Billiken Club and Parade were and still are the Chicago Defender's most successful promotions.The mayoral contest attracted many of the high-profile business and professional leaders in Bronzeville. Thomas A. Dorsey, a mentor of Mahalia Jackson, was a candidate for the Mayor of Bronzeville, and Cora Carroll, a businesswoman, was the Mayor of Bronzeville in the 1960s.",
+    "Author of Text": "Dempsey J. Travis",
+    "Hyperlinked Terms Associated": [
+        "Republican",
+        "South Side",
+        "\"Black Belt\"",
+        "cosmetic",
+        "Chicago Defender",
+        "Bud Billiken"
+    ],
+    "Street addresses associated": [
+        "Bronzeville"
+    ]
+}

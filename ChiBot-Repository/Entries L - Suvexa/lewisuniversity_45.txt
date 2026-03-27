@@ -1,0 +1,13 @@
+{
+    "Title": "Lewis University",
+    "Descriptive Text": "Lewis University originated as a Roman Catholic high school for boys (Holy Name Technical School) in Romeoville, Illinois, in 1932. It soon attracted the interest and financial support of entrepreneur Frank J. Lewis and began adding college-level courses in 1934. Many of those courses involved aviation technology, and the school completed construction of its own airport in 1939. The U.S. Navy took over the campus from 1942 to 1944 and trained nearly 1,200 pilots there. After the war, the school reopened as a junior college, and in 1946 it became the Lewis College of Science and Technology. The high school was dropped altogether in 1949, and one year later women became a part of the student body. The educational order of the Christian Brothers assumed leadership of the college in 1960; it received accreditation two years later and, after adding several graduate programs, became Lewis University in 1973. Though it sold its airport to the Joliet Regional Port District in 1989, aviation remains a cornerstone of the Lewis University program.",
+    "Author of Text": "Sarah Fenton",
+    "Hyperlinked Terms Associated": [
+        "Roman Catholic",
+        "Romeoville",
+        "airport"
+    ],
+    "Street addresses associated": [
+        "Romeoville"
+    ]
+}

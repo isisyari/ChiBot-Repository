@@ -1,0 +1,9 @@
+{
+    "Title": "Lake View Township",
+    "Descriptive Text": "Between 1857 and 1889, the area north of North Avenue, east of Western Avenue and south of Devon Avenue was an independent political unit separate from Chicago. The area population grew from 2,000 in 1870 to 45,000 in 1887, and under the weight of public service demands the township annexed to Chicago in 1889.",
+    "Bibliography": "Keating, Ann Durkin. Building Chicago: Suburban Developers and the Creation of a Divided Metropolis. 1988.",
+    "Author of Text": "Ann Durkin Keating",
+    "Hyperlinked Terms Associated": [
+        "township"
+    ]
+}

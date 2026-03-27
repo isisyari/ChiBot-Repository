@@ -1,0 +1,25 @@
+{
+    "Title": "Highland, IN",
+    "Descriptive Text": "Lake County, 25 miles S of the Loop. Ohioans Michael and Judith Johnson settled in what came to be called Highland in 1847. According to legend, the Johnsons' son, Rod, found a flock of ducks frozen in the ice of the Little Calumet River one winter. Harvesting them with a stick, he earned enough money to buy 20 acres of land. Under Congress's Swamp Land Act of 1850, settlers could buy large tracts at $1.25 per acre if they agreed to drain the land.A Philadelphia book publisher named Aaron Hart also bought up land in what became Highland, hence the name Hart Ditch, which channeled Plum Creek from Dyer to the Little Calumet.In 1883, the Chicago & Atlantic Railroad tracked through the area. The railroad surveyors, after surveying miles of swamp, called the sand ridge “Highlands.” That year, a substantial landowner, John Clough, platted the town. The area for a short time bore the name Clough Postal Station for the purpose of mail delivery, but the railroads surveyors' choice of Highlands won out.Soon Dutch settlers, who worked as tenant farmers, began moving to Highlands from nearby Munster. They supplied much of the cabbage for the town's first industry, a kraut factory. A second kraut factory was also established, as well as a cement block company and a brick factory.In the early 1900s several other railroads passed through, encouraging agriculture and other business. Highlands was incorporated in 1910, with a population of 304 people. In 1914 the first bank, the Farmers and Merchants Bank, was established, as well as a volunteer fire brigade. In 1927 Wicker Park was converted from pasture to a park commemorating the soldiers of World War I. President Calvin Coolidge led the dedication.Highland was dealt a serious blow by the Great Depression. Its lumberyard and bank failed, along with several other businesses. After World War II the town's financial base began to change from agricultural to commercial. A modern dairy plant was built as well as a theater.In the forties, Highland's population nearly doubled, and it exploded in the fifties, growing from 5,878 to 16,284 by 1960. Many of its new residents came from nearby industrial cities such as Gary, Hammond, and East Chicago. Highland benefited from the nation's attraction to the suburbs in the 1950s; Hammond considered annexing the town in the mid-1950s.The central fire station was completed in 1972, and a more spacious post office opened in 1975. A new park, Main Square Park, was dedicated in 1981.By 1980, the population reached a high of 25,935, and then dropped to 23,696 in 1990, remaining little charged. About 93 percent of Highland's residents in 2000 were white. The downtown area boasts a small business district, but most businesses are located along Indianapolis Boulevard and Ridge Road.",
+    "Bibliography": "Griffith Diamond Jubilee Corporation. Seventy-five Years of Growing Together: Griffith Jubilee, 1904–1979. 1979.Highland, Indiana, Diamond Jubilee Committee. Highland, Indiana, Diamond Jubilee, 1910–1985. 1985.Moore, Powell A. The Calumet Region. 1959.",
+    "Author of Text": "Jennifer Mrozowski",
+    "Hyperlinked Terms Associated": [
+        "Calumet River",
+        "Railroad",
+        "mail delivery",
+        "Dutch",
+        "Munster",
+        "agriculture",
+        "fire",
+        "World War I",
+        "Great Depression",
+        "World War II",
+        "Gary",
+        "Hammond",
+        "East Chicago"
+    ],
+    "Street addresses associated": [
+        "Highland",
+        "Wicker Park"
+    ]
+}

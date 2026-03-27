@@ -1,0 +1,12 @@
+{
+    "Title": "Mothers' Pensions",
+    "Descriptive Text": "Proponents of the original plan for mothers' pensions (also referred to as mothers' aid) intended to provide a universal subsidy to families with dependent children but without an adult male income. Using the model of military pensions, they argued that a mother deserved a government pension in exchange for her service to the state through child rearing. Child welfare reformers, women's clubs, and juvenile court judges supported pensions as a vast improvement over existing options that sent families to the poorhouse, forced mothers to give up their children, or turned children into wage earners.The Illinois state legislature passed the first statewide mothers' pension law in the United States in 1911. Only Kansas City and a few private charities scattered across the country had previously tried similar plans. The law did not mandate counties to implement mothers' pensions, but it legitimated the use of public funds for this purpose. Cook County's program became the largest and best-developed program in the state, as well as an important test case for other states to study.The Cook County Juvenile Court administered the mothers' pension program and established its guidelines for operation. Early in its history, the administrators insisted that able-bodied mothers had to work for wages to qualify for a pension. Over half of all mothers who received a pension also worked for wages, thus defeating the program's original goal.Limited local revenues in the early years of the Great Depression led to the decline of mothers' pensions, but they reappeared as the prototype for the Social Security Act's Aid to Dependent Children program.",
+    "Bibliography": "Bullock, Edna D. Selected Articles on Mothers' Pensions. 1915.Goodwin, Joanne L. Gender and the Politics of Welfare Reform: Mothers' Pensions in Chicago, 1911–1929. 1997.Leff, Mark. “Consensus for Reform: The Mothers' Pension Movement in the Progressive Era.” Social Service Review 47 (1973): 397–417.",
+    "Author of Text": "Joanne L. Goodwin",
+    "Hyperlinked Terms Associated": [
+        "children",
+        "clubs",
+        "juvenile court",
+        "Great Depression"
+    ]
+}

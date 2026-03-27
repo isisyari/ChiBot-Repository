@@ -1,0 +1,19 @@
+{
+    "Title": "Warrenville, IL",
+    "Descriptive Text": "DuPage County, 29 miles W of the Loop. Warrenville began as a mill center, developed as a vacation spot along an interurban line, and has become a center of research and suburban development. Its development has long been tied to Naperville to the south, and to the natural springs in the area.The Warren family traveled two miles north from Naperville along the DuPage River in 1833 to claim land near a spring at McDowell Woods. The family established a lumber business, a house (one of the oldest still in the county), and a boardinghouse for sawmill workers. A gristmill, built in 1847, attracted farmers from as far as Galena. A nearby dam provided a recreational spot, as well as a baptismal font for churches.The Second Baptist Church, Warrenville's first congregation, was founded as a branch of Naperville's First Baptist Church in 1836. During the 1850s Warrenville Academy served the Baptist congregations in Warrenville, Naperville, and surrounding communities. Its students included Bertha Honoré, later known as Mrs. Potter Palmer.Warrenville's connection to Naperville strengthened in 1849, when the Chicago-Southwest Plank Road linked both communities. Bypassed by earlier railroads, Warrenville finally became a stop along the Chicago, Aurora & Elgin Railway between 1902 and 1959. Its station provided a second town center, and was remodeled as the city hall and police station in 1970.The interurban link helped to make Warrenville an attractive, but convenient retreat from city life. Except for bootlegging activity during Prohibition, Warrenville was considered a quiet vacation spot. Illinois Bell opened a rest home for telephone operators in 1916, familiar today as the Warrenville Cenacle retreat facility. Similarly, Montgomery Ward established a vacation home for employees in 1918.Warrenville continued to be a center for recreational activities into the late twentieth century. In the 1970s Mount Hoy, nicknamed Mount Trashmore, was created by combining refuse and soil into a hill that became popular for tubing. Blackwell Forest Preserve, a popular recreational area, excavated land to create Silver Lake in 1977. The remains of the Warrenville Mammoth were discovered in the site of the lake.Only since the 1960s has Warrenville grown as a suburban community, reaching a population of 13,363 in 2000. With the opening of the toll road I-88 to the south of the community, businesses such as Northern Illinois Gas and Amoco Research Center located in Warrenville. Residential subdivisions began to appear, and Warrenville was finally incorporated as a village in 1967. In the 1980s the city established a tax-increment financing district to help pay for the development of the 650-acre Elmhurst-Chicago Stone Company quarry. It was one of the last large, undeveloped properties under a single ownership in the county.",
+    "Author of Text": "Jane S. Teague",
+    "Hyperlinked Terms Associated": [
+        "vacation spot",
+        "interurban",
+        "Naperville",
+        "DuPage River",
+        "lumber",
+        "boardinghouse",
+        "railroads",
+        "bootlegging",
+        "Prohibition",
+        "telephone",
+        "Forest preserve",
+        "quarry"
+    ]
+}

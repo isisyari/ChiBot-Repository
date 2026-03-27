@@ -1,0 +1,15 @@
+{
+    "Title": "Cardinals",
+    "Descriptive Text": "One of the least successful franchises in professional football history, the Chicago Cardinals originated on the city's South Side in the late nineteenth century as the Morgan Athletic Club. In 1920 the team was a founding member of the league that became known as the National Football League two years later, and it won the NFL championship in 1925. Lean years followed; the Cardinals played consistently losing football over the next two decades at Comiskey Park in the shadow of the more popular and successful Bears.The team enjoyed short-lived success in the early postwar years, winning a second NFL championship in 1947 under coach James Conzelman, with the “Dream Backfield” of Paul Christman, Pat Harder, Elmer Angsman, and Charley Trippi exploding for long touchdowns in a 28–21 win over the Philadelphia Eagles. The Eagles reciprocated in 1948, defeating the Cardinals 7–0 during a blinding snowstorm. In 1959, the Bidwell family, owners of the team, briefly grabbed national attention by trading star running back Ollie Matson to the Los Angeles Rams for eight players and a draft pick. In 1960 the franchise deserted Chicago for St. Louis.",
+    "Bibliography": "Baxter, Russell, and John Hassan, eds. The Ultimate Pro Football Guide. 1998.Treat, Roger. The Official National Football League Football Encyclopedia. 1959.",
+    "Author of Text": "David M. Oshinsky",
+    "Hyperlinked Terms Associated": [
+        "football",
+        "South Side",
+        "Comiskey Park",
+        "Bears"
+    ],
+    "Street addresses associated": [
+        "South Side"
+    ]
+}

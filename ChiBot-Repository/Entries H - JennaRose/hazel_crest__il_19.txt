@@ -1,0 +1,25 @@
+{
+    "Title": "Hazel Crest, IL",
+    "Descriptive Text": "Cook County, 22 miles S of the Loop. William and Carrie McClintock arrived in the area in 1890, purchasing 80 acres between Homewood and Harvey. They were impressed by the activity along the Illinois Central Railroad, especially with the upcoming World's Columbian Exposition.McClintock platted and registered the land as South Harvey, anticipating benefits from the interest in and advertising for the planned industrial city of Harvey. However, South Harvey was fairly quickly annexed by the village of Homewood. By late1895, residents organizeda community church andled a successful campaignto deannex from Homewood. Carrie McClintock led a petition driveto change the name from South Harvey to Hazel Crest, after the many thickets of hazelnut bushes there.In 1910 the area had 310 residents, who voted to incorporate as Hazel Crest in 1911. Residents soon began municipal services, a volunteer fire department, a public school, and St. Anne's Roman Catholic Church.Following World War I, the Illinois Central Railroad decided to raise the track level across the south suburbs and electrify its commuter line. In addition, in the 1920s and '30s, the IC built the Markham rail freight yards to the north of Hazel Crest. Polish, Italian, and Serbian yard workers moved to Hazel Crest.With the rail yards, commuter access, and local enterprises, Hazel Crest continued its residential growth with a number of subdivisions, including Pottawatomie Hills. By 1960 there were 6,205 residents, with 14,816 by 2000. African Americans have come to dominate Hazel Crest's population, growing from 52 percent of the population in 1990 to 78 percent in 2000.As with many suburbs, the village overlaps with a variety of other local governments, including four elementary and three high-school districts, three townships, and two community college districts, and it shares a library district with Country Club Hills. The community has a tradition of strong human services and was one of the first to have a Human Relations Commission.",
+    "Bibliography": "Baader, Geraldine M. “The Emergence of Hazel Crest.” M.A. thesis, Governors State University. 1984.Rocke, Verva Coleman, ed.; Lucile Ross and Ileane Breslin, co-eds. Living in Hazel Crest, 1890–1990. 1990.",
+    "Author of Text": "Larry A. McClellan",
+    "Hyperlinked Terms Associated": [
+        "Homewood",
+        "Harvey",
+        "Illinois Central Railroad",
+        "Worlds Columbian Exposition",
+        "Roman Catholic",
+        "Markham",
+        "Polish",
+        "Italian",
+        "Serbian",
+        "subdivisions",
+        "African Americans",
+        "townships",
+        "Country Club Hills"
+    ],
+    "Street addresses associated": [
+        "Homewood",
+        "Hazel Crest"
+    ]
+}

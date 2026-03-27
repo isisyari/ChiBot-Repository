@@ -1,0 +1,11 @@
+{
+    "Title": "Metra",
+    "Descriptive Text": "Metra, the commuter railroad division of Chicago's Regional Transportation Authority, was created in 1983 as part of a general reorganization of the RTA following a succession of financial crises. Metra operates and oversees a 546-mile commuter railroad system in Chicago and the suburbs.Although the commuter railroad system dates from 1855 or 1856, it did not begin hauling commuters on a large scale until the 1870s. Prior to 1970 the commuter railroads as a group were in relatively sound financial shape, having benefited after World War II from the rapid growth of suburbia and the modernization of their fleets. By 1970, however, costs were growing faster than revenues, and the RTA was created in 1974 to funnel tax revenues to the mass transit system, including the railroads. It subsequently bought several commuter lines in bankruptcy, upgraded track and equipment, and subsidized service. But when the RTA proved unable to control escalating costs, the state legislature created Metra to operate the commuter railroad system with RTA subsidies. By 1999, it was one of the largest commuter railroad networks in the world.",
+    "Bibliography": "Douglas, George H. Rail City: Chicago USA. 1981.Grow, Lawrence. On the 8:02: An Informal History of Commuting by Rail in America. 1979.Young, David M. Chicago Transit: An Illustrated History. 1998.",
+    "Author of Text": "David M. Young",
+    "Hyperlinked Terms Associated": [
+        "Regional Transportation Authority",
+        "railroad",
+        "World War II"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "Title": "Disc Jockeys",
+    "Descriptive Text": "The disc jockey became important in Chicago radio during the 1930s, well before the term “disc jockey” was coined in the 1940s. The city's first disc jockey was Halloween Martin, whose show, Musical Clock, was a morning staple on various stations from 1929 to 1946. In black-appeal radio, the disc jockey role was pioneered both locally and nationally by Jack L. Cooper, who began playing records on WSBC in 1931. Former swimming great Norman Ross, Sr., built a tremendous following for his light classics program, 400 Hour, on WMAQ from 1935 until his death in 1953.One of postwar Chicago's most notable disc jockeys was Dave Garroway, whose familiar manner and wry humor drew many fans to his 1160 Club jazz show on WMAQ. Al Benson succeeded the urbane Cooper in popularity after joining WGES in 1945. Calling himself “the Old Swingmaster,” Benson appealed to newly arrived Southern migrants with down-home gutbucket blues and R&B.The preeminent disc jockey of the 1950s, Howard Miller, began broadcasting on WIND in 1948. By 1957 he commanded the country's largest local audience and was described by Time as “the nation's biggest single influence on record sales.” Miller's principal rival was the more rambunctious Art Hellyer, who broadcast his Morning Madcap show on WCFL.During the 1950s, Herb “Kool Gent” Kent used his everyday conversational style to surpass Al Benson in popularity. His success led Chess Records' Leonard Chess to create WVON in 1963 as the first 24-hour station for the city's African American community. Don Cornelius, an up-and-coming star at WVON, later developed the dance show Soul Train.WLS introduced Chicago in 1960 to Dick Biondi, one of America's most famous rock'n' roll disc jockeys, whose frantic screaming style epitomized the era. Another notable WLS deejay was Larry Lujack, whose low-key sarcastic delivery attracted an immense following in the 1970s.Symbolizing the end of the golden age of the disc jockey was the audience battle between Howard Miller at WIND and Wally Phillips at WGN. Phillips would emerge as the city's most popular deejay with his morning show (1965–1986). The two radio hosts gradually stopped playing records, helped move AM radio from a music-based format to a talk-based format, and transformed themselves from disc jockeys to talk show hosts, helping to usher in the era of “talk radio.” While disc jockeys continued to flourish in Chicago radio where recorded music was the format, they no longer were the most popular radio personalities.",
+    "Bibliography": "Ghrist, John Russell. Valley Voices: A History of Radio Broadcasting in Northern Illinois and Northwest Indiana from 1910 to 1992. 1992.Lieberman, Philip A. Radio's Morning Show Personalities: Early Hour Broadcasters and Deejays from the 1920s to the 1990s. 1996.Salowitz, Stew. Chicago's Personality Radio: The WLS Disc Jockeys of the Early 1960s. 1993.",
+    "Author of Text": "Robert Pruter",
+    "Hyperlinked Terms Associated": [
+        "swimming",
+        "WMAQ",
+        "jazz",
+        "blues",
+        "R&B",
+        "broadcasting",
+        "WCFL",
+        "Chess Records",
+        "WLS",
+        "rock",
+        "WGN"
+    ]
+}

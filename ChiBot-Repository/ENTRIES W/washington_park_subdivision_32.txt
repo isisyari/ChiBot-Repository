@@ -1,0 +1,23 @@
+{
+    "Title": "Washington Park Subdivision",
+    "Descriptive Text": "Neighborhood in the Woodlawn Community Area. If the Washington Park neighborhood had rectangular rather than ragged edges, it would include the Washington Park Subdivision. Just south of the eponymous Washington Park, the Washington Park Subdivision is instead a three-by-eight-block portion of northwestern Woodlawn.The prestigious Washington Park racetrack occupied the southern two-thirds of the subdivision from 1884 to 1905, when the city outlawed betting. By 1912, developers had built new housing in the subdivision, but several prominent commercial recreation facilities continued to attract visitors to Woodlawn until the Great Depression. Revelers could visit the White City Amusement Park, watch movies at the Tivoli Theater and the Woodlawn Theater, or dance at the Trianon Ballroom. The Sans Souci Amusement Park, a beer garden with a band shell, was remodeled into the tony Midway Gardens by architect Frank Lloyd Wright in 1914. World War I and Prohibition dampened Midway Gardens' potential, however, and after a stint under the ownership of the Edelweiss Brewing Company, the site became a garage and car wash before being demolished in 1929.Between 1928 and 1940, the newly residential subdivision was the center of a legal battle over the expansion of the Black Belt. Alarmed by the prospect of poor blacks moving into Woodlawn through the corridor between Washington Park and the middle-class black West Woodlawn, the Woodlawn Businessmen's Association and the University of Chicago cajoled landlords in Washington Park Subdivision into signing restrictive covenants under whose terms property owners agreed that if enough other owners complied, none of them would rent or sell homes to nonwhites. With the onset of the Great Depression, however, landlords found fewer whites who would pay the rent they wanted and instead began subdividing their apartments and renting to blacks. The covenant's organizers sued to prevent the Hansberry family from occupying 6140 S. Rhodes. Despite the legal action, African Americans continued to try to occupy the western half of the subdivision. In 1940, the U.S. Supreme Court held, in Lee v. Hansberry, that the areawide covenant was unenforceable. Shortly thereafter, blacks moved into the Washington Park Subdivision and the rest of Woodlawn, while most of the white population moved out. In 1950, over 99 percent of the subdivision's population was black.",
+    "Bibliography": "Holt, Glen E., and Dominic A. Pacyga. Chicago: A Historical Guide to the Neighborhoods: The Loop and South Side. 1979.Plotkin, Wendy. “Deeds of Mistrust: Race, Housing, and Restrictive Covenants in Chicago, 1900–1948.” Ph.D. diss., University of Illinois at Chicago. 1999.",
+    "Author of Text": "Amanda Seligman",
+    "Hyperlinked Terms Associated": [
+        "Woodlawn",
+        "Washington Park",
+        "subdivision",
+        "Great Depression",
+        "Amusement Park",
+        "World War I",
+        "Prohibtion",
+        "Black Belt",
+        "University of Chicago",
+        "restrective covenants",
+        "Great Depression"
+    ],
+    "Historical Sources Associated (Title, Source, and Link)": "woodlawn|Washington Park",
+    "Street addresses associated": [
+        "Woodlawn"
+    ]
+}

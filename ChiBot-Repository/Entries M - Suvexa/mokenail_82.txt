@@ -1,0 +1,16 @@
+{
+    "Title": "Mokena, IL",
+    "Descriptive Text": "Will County, 27 miles SW of the Loop. The early residents of Mokena could hardly have imagined their small market center becoming part of a suburban fabric reaching southwest from Chicago.In the early 1830s the McGovney and Van Horne families and others settled along the banks of Hickory Creek, a tributary of the Des Plaines River. In 1838 the post office of Chelsea was established for the community growing along the creek.As with so many communities, the placing of a rail line reshaped settlement. By late 1852, the Rock Island Railroad had completed its line from Chicago through Will County, passing less than a mile north of Hickory Creek and Chelsea. Growth focused on the area platted in 1852 by Allen Denny around a rail stop on the Rock Island, and the settlement of Chelsea withered away.The growth of Mokena paralleled that of many Chicago suburbs that began as railroad stops. One of the earliest buildings was the public school, built in 1855. A Baptist Society formed in 1851, followed by a German United Evangelical congregation in 1862, St. Mary's German Roman Catholic Church in 1864, and a Methodist church in 1867. This range of congregations, along with a German Lutheran church started in 1850 several miles to the east of town, reflects the presence of many German immigrants along with residents from various parts of the United States.Mokena became the market center for a large farming area and by the late 1870s included five general stores, four blacksmith and wagon shops, three hotels, two butcher shops, seven saloons, and a variety of other businesses. When the village was incorporated in 1880, its population was 522; in 1940, it had increased to only 657.Following World War II, Mokena, as with so many outlying villages, rapidly came within the commuting orbit of the expanding metropolis. It was accessible not only by rail and increasing commuter rail service, but also by good roads and, in 1968, by Interstate 80.Mokena's population grew from 903 in 1950, to 1,643 in 1970, to 6,128 in 1990, to 14,583 in 2000. The small commercial core centered around the train stop became a lengthening commercial strip along Wolf Road.",
+    "Bibliography": "History of Will County, Illinois. 1976 [1878].Pitman, Florence. The Story of Mokena. 1963.Quinn, Richard. “A Brief Illustrated History of Mokena.” In Mokena Centennial, 1880–1980. 1980.",
+    "Author of Text": "Larry A. McClellan",
+    "Hyperlinked Terms Associated": [
+        "Des Plaines River",
+        "Railroad",
+        "school",
+        "German",
+        "Roman Catholic",
+        "saloons",
+        "World War II",
+        "commuting"
+    ]
+}

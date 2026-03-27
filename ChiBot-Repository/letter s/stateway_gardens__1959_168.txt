@@ -1,0 +1,7 @@
+{
+    "Title": "Stateway Gardens, 1959",
+    "Descriptive Text": "Dearborn Street looking north to Stateway Gardens, 1959, showing the kind of buildings razed to make way for high-rise housing.",
+    "Street addresses associated": [
+        "Loop"
+    ]
+}

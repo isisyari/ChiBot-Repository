@@ -1,0 +1,6 @@
+{
+    "Title": "Chicago Youth Symphony Orchestra",
+    "Descriptive Text": "Inspired by their children's summer at Interlochen's National Music Camp, a group of parents formed the Youth Orchestra of Greater Chicago in 1946 with the founding principle of providing a superior music experience to talented high-school musicians. In the decades following the first concert, conducted by Harold Finch on November 14, 1947, the organization grew to consist of a 120-piece symphony orchestra (CYSO) drawn from around 50 area high schools, the Chicago Youth Concert Orchestra, a training ensemble, and the elite Encore Chamber Orchestra. Conductors have included Désiré Defauw (1954–1958), Michael Morgan (1989–1993), and Rossen Milanov (1998–), and many alumni play in professional ensembles nationwide and throughout the world. Tours to Europe and Japan, radio broadcasts, recordings, and awards, including Orchestra of the Year (1993) by the Illinois Council of Orchestras and an ASCAP for adventurous programming (1994 and 1995), have elevated the CYSO's status to among the finest youth training ensembles in the country.",
+    "Bibliography": "Chicago Youth Symphony Orchestra. Golden Anniversary Commemorative Book, 1946–1966. 1996.",
+    "Author of Text": "Richard Schwegel"
+}

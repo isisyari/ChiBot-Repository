@@ -1,0 +1,1730 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChiBot | Chicago Historical Archive</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin="" />
+
+    <style>
+        :root {
+            --bg-dark: #1a1612;
+            --bg-card: #ffffff;
+            --bg-elevated: #f8f5f0;
+            --cream: #faf8f5;
+            --cream-soft: #ffffff;
+            --gold: #b8860b;
+            --gold-dim: #996515;
+            --sepia: #8b7355;
+            --text-primary: #2c2416;
+            --text-secondary: #5c5245;
+            --text-muted: #8a8279;
+            --border: #e8e2d9;
+            --shadow: rgba(0,0,0,0.08);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: 'DM Sans', -apple-system, sans-serif;
+            background: var(--bg-dark);
+            color: var(--text-primary);
+        }
+
+        #map {
+            height: 100vh;
+            width: 100%;
+        }
+
+        /* Custom map tiles styling - natural colors */
+        .leaflet-tile-pane {
+            filter: none;
+        }
+
+        .leaflet-control-attribution {
+            background: rgba(255,255,255,0.9) !important;
+            color: var(--text-muted) !important;
+            font-size: 10px;
+        }
+
+        .leaflet-control-attribution a {
+            color: var(--gold) !important;
+        }
+
+        .leaflet-control-zoom {
+            border: none !important;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.1) !important;
+        }
+
+        .leaflet-control-zoom a {
+            background: white !important;
+            color: var(--text-primary) !important;
+            border: 1px solid var(--border) !important;
+        }
+
+        .leaflet-control-zoom a:hover {
+            background: var(--bg-elevated) !important;
+            color: var(--gold) !important;
+        }
+
+        /* ===== INFO PANEL ===== */
+        .info-panel {
+            position: absolute;
+            top: 24px;
+            right: 24px;
+            z-index: 1000;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            padding: 24px;
+            border-radius: 16px;
+            box-shadow: 0 8px 32px var(--shadow);
+            max-width: 300px;
+            backdrop-filter: blur(20px);
+            animation: slideIn 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .info-panel h3 {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.75rem;
+            font-weight: 600;
+            margin: 0 0 4px 0;
+            color: var(--text-primary);
+            letter-spacing: -0.02em;
+        }
+
+        .info-panel .subtitle {
+            font-size: 0.75rem;
+            color: var(--gold);
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            margin-bottom: 20px;
+        }
+
+        .info-panel p {
+            margin: 0;
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+        }
+
+        .status-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 12px 0;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .status-row:last-of-type {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+
+        .status-indicator {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--gold);
+            box-shadow: 0 0 12px var(--gold);
+            animation: pulse 2s infinite;
+        }
+
+        .status-indicator.loading {
+            background: var(--sepia);
+            box-shadow: 0 0 12px var(--sepia);
+        }
+
+        .status-indicator.error {
+            background: #c94a4a;
+            box-shadow: 0 0 12px #c94a4a;
+            animation: none;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .status-text {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+        }
+
+        .photo-count {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            line-height: 1;
+        }
+
+        .photo-count-label {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+
+        /* ===== LOADING OVERLAY ===== */
+        .loading-overlay {
+            position: fixed;
+            inset: 0;
+            background: linear-gradient(135deg, #1a1612 0%, #2c2416 100%);
+            z-index: 9999;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.5s ease, visibility 0.5s ease;
+        }
+
+        .loading-overlay.hidden {
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+        }
+
+        .loading-logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 3rem;
+            font-weight: 600;
+            color: #faf8f5;
+            margin-bottom: 8px;
+            animation: fadeInUp 0.8s ease;
+        }
+
+        .loading-tagline {
+            font-size: 0.75rem;
+            color: #b8860b;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            margin-bottom: 48px;
+            animation: fadeInUp 0.8s ease 0.1s both;
+        }
+
+        .loading-bar-container {
+            width: 200px;
+            height: 2px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 2px;
+            overflow: hidden;
+            animation: fadeInUp 0.8s ease 0.2s both;
+        }
+
+        .loading-bar {
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(90deg, #b8860b, #d4a84b);
+            border-radius: 2px;
+            transition: width 0.3s ease;
+        }
+
+        .loading-status {
+            margin-top: 16px;
+            font-size: 0.8rem;
+            color: rgba(255,255,255,0.5);
+            animation: fadeInUp 0.8s ease 0.3s both;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* ===== CHATBOT ===== */
+        .chatbot-container {
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            z-index: 2000;
+        }
+
+        .chatbot-button {
+            width: 64px;
+            height: 64px;
+            border-radius: 50%;
+            background: #fff;
+            border: 2px solid var(--gold);
+            cursor: pointer;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .chatbot-button::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, var(--gold) 0%, #d4a84b 100%);
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .chatbot-button:hover {
+            transform: scale(1.08);
+            box-shadow: 0 6px 24px rgba(184,134,11,0.25);
+        }
+
+        .chatbot-button:hover::before {
+            opacity: 0.15;
+        }
+
+        .chatbot-button-icon {
+            font-size: 24px;
+            z-index: 1;
+            transition: transform 0.3s ease;
+            color: var(--gold);
+        }
+
+        .chatbot-button:hover .chatbot-button-icon {
+            transform: scale(1.1);
+        }
+
+        .chatbot-button-ring {
+            position: absolute;
+            inset: -4px;
+            border: 2px solid #b8860b;
+            border-radius: 50%;
+            opacity: 0;
+            animation: ringPulse 2s infinite;
+        }
+
+        @keyframes ringPulse {
+            0% { transform: scale(1); opacity: 0.6; }
+            100% { transform: scale(1.3); opacity: 0; }
+        }
+
+        .chatbot-window {
+            position: fixed;
+            bottom: 100px;
+            right: 24px;
+            width: 420px;
+            height: 620px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            box-shadow: 0 16px 64px var(--shadow);
+            display: none;
+            flex-direction: column;
+            overflow: hidden;
+            animation: chatOpen 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        @keyframes chatOpen {
+            from {
+                opacity: 0;
+                transform: translateY(20px) scale(0.95);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0) scale(1);
+            }
+        }
+
+        .chatbot-window.open {
+            display: flex;
+        }
+
+        .chatbot-header {
+            background: #fff;
+            border-bottom: 1px solid var(--border);
+            padding: 20px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .chatbot-header-title {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        .chatbot-header-name {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .chatbot-header-status {
+            font-size: 0.7rem;
+            color: var(--gold);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .chatbot-header-status::before {
+            content: '';
+            width: 6px;
+            height: 6px;
+            background: var(--gold);
+            border-radius: 50%;
+            box-shadow: 0 0 8px var(--gold);
+        }
+
+        .chatbot-close {
+            background: var(--bg-elevated);
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+            font-size: 18px;
+            cursor: pointer;
+            width: 36px;
+            height: 36px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+        }
+
+        .chatbot-close:hover {
+            background: var(--border);
+            color: var(--text-primary);
+        }
+
+        .chatbot-mode-toggle {
+            display: flex;
+            padding: 12px 16px;
+            gap: 8px;
+            background: var(--bg-elevated);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .mode-btn {
+            flex: 1;
+            padding: 10px 16px;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            background: #fff;
+            color: var(--text-secondary);
+            font-family: 'DM Sans', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .mode-btn:hover {
+            border-color: var(--gold);
+            color: var(--text-primary);
+        }
+
+        .mode-btn.active {
+            background: var(--gold);
+            border-color: var(--gold);
+            color: #fff;
+        }
+
+        .chatbot-messages {
+            flex: 1;
+            overflow-y: auto;
+            padding: 24px;
+            background: var(--bg-elevated);
+            scroll-behavior: smooth;
+        }
+
+        .chatbot-messages::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .chatbot-messages::-webkit-scrollbar-track {
+            background: transparent;
+        }
+
+        .chatbot-messages::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 3px;
+        }
+
+        .message {
+            margin-bottom: 20px;
+            display: flex;
+            gap: 12px;
+            animation: messageIn 0.3s ease;
+        }
+
+        @keyframes messageIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .message.user {
+            flex-direction: row-reverse;
+        }
+
+        .message-bubble {
+            max-width: 80%;
+            padding: 14px 18px;
+            border-radius: 16px;
+            line-height: 1.5;
+            font-size: 0.9rem;
+        }
+
+        .message.assistant .message-bubble {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            color: var(--text-primary);
+            border-bottom-left-radius: 4px;
+        }
+
+        .message.user .message-bubble {
+            background: linear-gradient(135deg, var(--gold) 0%, #c9a227 100%);
+            color: #fff;
+            border-bottom-right-radius: 4px;
+        }
+
+        .message-avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 16px;
+            flex-shrink: 0;
+            border: 1px solid var(--border);
+        }
+
+        .message.assistant .message-avatar {
+            background: var(--bg-elevated);
+        }
+
+        .message.user .message-avatar {
+            background: var(--gold);
+            border-color: var(--gold);
+            color: #fff;
+        }
+
+        .chatbot-input-area {
+            padding: 20px 24px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-card);
+        }
+
+        .chatbot-input {
+            display: flex;
+            gap: 12px;
+        }
+
+        .chatbot-input input {
+            flex: 1;
+            padding: 14px 20px;
+            background: var(--bg-elevated);
+            border: 1px solid var(--border);
+            border-radius: 14px;
+            outline: none;
+            font-size: 0.9rem;
+            font-family: 'DM Sans', sans-serif;
+            color: var(--text-primary);
+            transition: all 0.2s ease;
+        }
+
+        .chatbot-input input::placeholder {
+            color: var(--text-muted);
+        }
+
+        .chatbot-input input:focus {
+            border-color: var(--gold);
+            box-shadow: 0 0 0 3px rgba(201, 162, 39, 0.1);
+        }
+
+        .chatbot-send {
+            width: 48px;
+            height: 48px;
+            border-radius: 14px;
+            background: linear-gradient(135deg, var(--gold) 0%, #c9a227 100%);
+            border: none;
+            color: #fff;
+            cursor: pointer;
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+        }
+
+        .chatbot-send:hover {
+            transform: scale(1.05);
+            box-shadow: 0 4px 16px rgba(184,134,11,0.3);
+        }
+
+        .chatbot-send:disabled {
+            opacity: 0.4;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+
+        .typing-indicator {
+            display: flex;
+            gap: 5px;
+            padding: 14px 18px;
+        }
+
+        .typing-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--sepia);
+            animation: typingBounce 1.4s infinite;
+        }
+
+        .typing-dot:nth-child(2) {
+            animation-delay: 0.15s;
+        }
+
+        .typing-dot:nth-child(3) {
+            animation-delay: 0.3s;
+        }
+
+        @keyframes typingBounce {
+            0%, 60%, 100% {
+                transform: translateY(0);
+                background: var(--sepia);
+            }
+            30% {
+                transform: translateY(-8px);
+                background: var(--gold);
+            }
+        }
+
+        .system-message {
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            margin: 24px 0;
+            padding: 16px;
+            background: var(--bg-card);
+            border-radius: 12px;
+            border: 1px dashed var(--border);
+        }
+
+        /* ===== PHOTO POPUP ===== */
+        .leaflet-popup-content-wrapper {
+            background: var(--bg-card) !important;
+            border: 1px solid var(--border) !important;
+            border-radius: 16px !important;
+            box-shadow: 0 16px 48px var(--shadow) !important;
+            padding: 0 !important;
+        }
+
+        .leaflet-popup-content {
+            margin: 0 !important;
+            color: var(--text-primary) !important;
+        }
+
+        .leaflet-popup-tip {
+            background: var(--bg-card) !important;
+            border: 1px solid var(--border) !important;
+            box-shadow: none !important;
+        }
+
+        .leaflet-popup-close-button {
+            color: var(--text-secondary) !important;
+            font-size: 24px !important;
+            width: 36px !important;
+            height: 36px !important;
+            top: 12px !important;
+            right: 12px !important;
+            background: var(--bg-elevated) !important;
+            border-radius: 8px !important;
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+        }
+
+        .leaflet-popup-close-button:hover {
+            color: var(--text-primary) !important;
+            background: var(--border) !important;
+        }
+
+        .photo-popup {
+            padding: 20px;
+            max-width: 480px;
+            font-family: 'DM Sans', sans-serif;
+        }
+
+        .photo-popup h4 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin: 0 0 16px 0;
+            padding-right: 30px;
+            line-height: 1.3;
+        }
+
+        .carousel-photo-container {
+            position: relative;
+            background: #f0ebe3;
+            border-radius: 12px;
+            overflow: hidden;
+            margin-bottom: 16px;
+            border: 1px solid var(--border);
+        }
+
+        .historical-photo {
+            width: 100%;
+            max-width: 440px;
+            height: 220px;
+            object-fit: contain;
+            display: block;
+        }
+
+        .photo-info {
+            background: var(--bg-elevated);
+            padding: 16px;
+            border-radius: 12px;
+            margin-bottom: 16px;
+            font-size: 0.85rem;
+            line-height: 1.6;
+            color: var(--text-secondary);
+        }
+
+        .photo-info strong {
+            color: var(--gold);
+            font-weight: 500;
+        }
+
+        .photo-description {
+            margin-top: 12px !important;
+            padding-top: 12px;
+            border-top: 1px solid var(--border);
+            font-style: italic;
+            color: var(--text-muted) !important;
+        }
+
+        .streetview-container {
+            border-top: 1px solid var(--border);
+            padding-top: 16px;
+        }
+
+        .streetview-title {
+            font-family: 'Playfair Display', serif;
+            font-weight: 500;
+            margin-bottom: 12px;
+            color: var(--text-primary);
+            font-size: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .streetview-pano {
+            width: 100%;
+            min-height: 300px;
+            border-radius: 12px;
+            border: 1px solid var(--border);
+            background: #f0ebe3;
+        }
+
+        /* Ensure Google Street View controls are visible */
+        .streetview-pano div {
+            border-radius: 0 !important;
+        }
+
+        .streetview-pano .gm-style {
+            border-radius: 12px;
+        }
+
+        .time-notice {
+            background: #f5f0e8;
+            padding: 10px 14px;
+            border-radius: 8px;
+            font-size: 0.75rem;
+            color: #5c5245;
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            border: 1px solid #e8e2d9;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-muted);
+        }
+
+        .loading-spinner {
+            width: 32px;
+            height: 32px;
+            border: 2px solid var(--border);
+            border-top-color: var(--gold);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 12px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        .error {
+            background: rgba(201, 74, 74, 0.1);
+            border: 1px solid rgba(201, 74, 74, 0.3);
+            padding: 16px;
+            border-radius: 12px;
+            color: #e57373;
+            text-align: center;
+        }
+
+        @media (max-width: 600px) {
+            .chatbot-window {
+                width: calc(100vw - 32px);
+                height: calc(100vh - 120px);
+                right: 16px;
+                bottom: 90px;
+            }
+
+            .info-panel {
+                top: 16px;
+                right: 16px;
+                left: 16px;
+                max-width: none;
+            }
+        }
+
+        .slider-container {
+            margin: 16px 0;
+            text-align: center;
+        }
+
+        .photo-slider {
+            width: 100%;
+            height: 4px;
+            border-radius: 2px;
+            background: var(--border);
+            outline: none;
+            -webkit-appearance: none;
+            appearance: none;
+            cursor: pointer;
+        }
+
+        .photo-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            background: var(--gold);
+            cursor: pointer;
+            box-shadow: 0 2px 8px rgba(201, 162, 39, 0.4);
+            transition: transform 0.2s ease;
+        }
+
+        .photo-slider::-webkit-slider-thumb:hover {
+            transform: scale(1.2);
+        }
+
+        .photo-slider::-moz-range-thumb {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            background: var(--gold);
+            cursor: pointer;
+            border: none;
+        }
+
+        .slider-label {
+            margin-top: 10px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .time-slider-container {
+            padding: 14px 16px;
+            background: #2c2416;
+            border-radius: 8px;
+            text-align: center;
+            margin-top: 12px;
+        }
+
+        .time-slider-container label {
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: #faf8f5;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .time-slider {
+            width: 100%;
+            margin-top: 10px;
+            height: 6px;
+            border-radius: 3px;
+            -webkit-appearance: none;
+            appearance: none;
+            background: rgba(255,255,255,0.2);
+            cursor: pointer;
+        }
+
+        .time-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #d4a84b;
+            cursor: pointer;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .time-slider::-moz-range-thumb {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #d4a84b;
+            cursor: pointer;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loading-overlay">
+        <div class="loading-logo">ChiBot</div>
+        <div class="loading-tagline">Chicago Historical Archive</div>
+        <div class="loading-bar-container">
+            <div class="loading-bar" id="loading-bar"></div>
+        </div>
+        <div class="loading-status" id="loading-status">Initializing...</div>
+    </div>
+
+    <div id="map"></div>
+
+    <div class="info-panel">
+        <h3>ChiBot</h3>
+        <div class="subtitle">Chicago Historical Archive</div>
+
+        <div class="status-row">
+            <div class="status-indicator loading" id="status-indicator"></div>
+            <span class="status-text" id="status">Connecting to archive...</span>
+        </div>
+
+        <div class="status-row" style="flex-direction: column; align-items: flex-start; gap: 4px;">
+            <span class="photo-count" id="photoCount">0</span>
+            <span class="photo-count-label">Historical photographs</span>
+        </div>
+
+        <p style="margin-top: 16px; font-size: 0.8rem;">
+            Explore Chicago's past. Click any marker to view historical photos and Street View time travel.
+        </p>
+    </div>
+
+    <!-- Chatbot UI -->
+    <div class="chatbot-container">
+        <button class="chatbot-button" id="chatbot-toggle">
+            <span class="chatbot-button-icon">💬</span>
+            <div class="chatbot-button-ring"></div>
+        </button>
+
+        <div class="chatbot-window" id="chatbot-window">
+            <div class="chatbot-header">
+                <div class="chatbot-header-title">
+                    <span class="chatbot-header-name">ChiBot</span>
+                    <span class="chatbot-header-status">Online</span>
+                </div>
+                <button class="chatbot-close" id="chatbot-close">✕</button>
+            </div>
+
+            <div class="chatbot-mode-toggle">
+                <button class="mode-btn active" id="mode-chat" data-mode="chat">
+                    💬 Chat
+                </button>
+                <button class="mode-btn" id="mode-research" data-mode="research">
+                    🔬 Research
+                </button>
+            </div>
+
+            <div class="chatbot-messages" id="chatbot-messages">
+                <div class="system-message" id="system-message">
+                    Ask me about the photos on the map!
+                </div>
+            </div>
+
+            <div class="chatbot-input-area">
+                <div class="chatbot-input">
+                    <input
+                        type="text"
+                        id="chatbot-input"
+                        placeholder="Ask about Chicago history..."
+                        autocomplete="off"
+                    />
+                    <button class="chatbot-send" id="chatbot-send">→</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Google Maps JavaScript API -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyClwQYjhwTSDcog86-vFlrnNSbTt_Fr9oI&libraries=geometry" defer></script>
+
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" 
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" 
+            crossorigin=""></script>
+
+    <script>
+        // Configuration - API keys are now secured on the server!
+        // The server at localhost:3000 handles all API calls
+        const SERVER_URL = 'http://localhost:3000';
+        
+        // Global variables
+        let currentPanorama = null;
+        let map;
+        let museumData = []; // Store museum data for AI context
+        let conversationHistory = [];
+        let currentMode = 'chat'; // 'chat' or 'research'
+        let currentSelectedPhoto = null; // Track which photo user is viewing
+        
+        // Initialize the map
+        function initMap() {
+            map = L.map('map').setView([41.8781, -87.6298], 12);
+            
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+                maxZoom: 19
+            }).addTo(map);
+            
+            fetchMuseumPhotos();
+        }
+        
+        // Chatbot UI Controls
+        const chatbotToggle = document.getElementById('chatbot-toggle');
+        const chatbotWindow = document.getElementById('chatbot-window');
+        const chatbotClose = document.getElementById('chatbot-close');
+        const chatbotMessages = document.getElementById('chatbot-messages');
+        const chatbotInput = document.getElementById('chatbot-input');
+        const chatbotSend = document.getElementById('chatbot-send');
+        
+        chatbotToggle.addEventListener('click', () => {
+            chatbotWindow.classList.toggle('open');
+            if (chatbotWindow.classList.contains('open')) {
+                chatbotInput.focus();
+            }
+        });
+        
+        chatbotClose.addEventListener('click', () => {
+            chatbotWindow.classList.remove('open');
+        });
+        
+        chatbotSend.addEventListener('click', sendMessage);
+        chatbotInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') sendMessage();
+        });
+        
+        // Status elements
+        const statusElement = document.getElementById('status');
+        const photoCountElement = document.getElementById('photoCount');
+        const statusIndicator = document.getElementById('status-indicator');
+        const loadingOverlay = document.getElementById('loading-overlay');
+        const loadingBar = document.getElementById('loading-bar');
+        const loadingStatus = document.getElementById('loading-status');
+
+        function updateStatus(message, isError = false) {
+            statusElement.textContent = message;
+
+            // Update indicator state
+            statusIndicator.classList.remove('loading', 'error');
+            if (isError) {
+                statusIndicator.classList.add('error');
+            } else if (message.includes('Connected') || message.includes('✅')) {
+                statusIndicator.classList.remove('loading');
+            } else {
+                statusIndicator.classList.add('loading');
+            }
+        }
+
+        function updateLoadingBar(percent, status) {
+            loadingBar.style.width = percent + '%';
+            loadingStatus.textContent = status;
+        }
+
+        function hideLoadingOverlay() {
+            loadingOverlay.classList.add('hidden');
+        }
+        
+        // Create Street View with time controls
+        // Create Street View with TIME SLIDER
+// Create Street View with TIME SLIDER - FIXED
+function createHistoricalStreetView(lat, lng, containerId) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    container.innerHTML = `
+        <div id="${containerId}-pano" style="width: 100%; height: 300px;"></div>
+        <div id="${containerId}-time" class="time-slider-container" style="display: none;">
+            <label>🕰️ Time Travel: <span id="${containerId}-year">--</span></label>
+            <input type="range" id="${containerId}-range" class="time-slider" min="0" max="0" value="0" />
+        </div>
+    `;
+
+    const panoContainer = document.getElementById(`${containerId}-pano`);
+    const timeContainer = document.getElementById(`${containerId}-time`);
+    const timeSlider = document.getElementById(`${containerId}-range`);
+    const yearLabel = document.getElementById(`${containerId}-year`);
+
+    const streetViewService = new google.maps.StreetViewService();
+
+    streetViewService.getPanorama({
+        location: { lat: lat, lng: lng },
+        radius: 100,
+        preference: google.maps.StreetViewPreference.NEAREST,
+        source: google.maps.StreetViewSource.OUTDOOR
+    }, (data, status) => {
+        if (status === 'OK') {
+            console.log('Street View data:', data);
+            
+            const panorama = new google.maps.StreetViewPanorama(panoContainer, {
+                pano: data.location.pano,
+                pov: { heading: 0, pitch: 0 },
+                zoom: 1,
+                addressControl: false,
+                linksControl: true,
+                panControl: true,
+                zoomControl: true,
+                fullscreenControl: true,
+                motionTracking: false,
+                motionTrackingControl: false,
+                showRoadLabels: true,
+                imageDateControl: true  // Shows Google's built-in date
+            });
+
+            currentPanorama = panorama;
+
+            // Check for historical imagery in the response
+            if (data.time && data.time.length > 1) {
+                console.log('Historical times found:', data.time);
+
+                const times = data.time;
+
+                timeContainer.style.display = 'block';
+                timeSlider.max = times.length - 1;
+                timeSlider.value = times.length - 1;
+
+                const latestTime = times[times.length - 1];
+
+                // Format the date properly - handle different Google API structures
+                function getTimeLabel(timeObj) {
+                    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+                    // Try different date property names Google uses
+                    let date = timeObj.dA || timeObj.date || timeObj.Da;
+
+                    if (date && date instanceof Date) {
+                        return `${months[date.getMonth()]} ${date.getFullYear()}`;
+                    }
+
+                    // Try parsing if it's a string
+                    if (typeof date === 'string') {
+                        const parsed = new Date(date);
+                        if (!isNaN(parsed)) {
+                            return `${months[parsed.getMonth()]} ${parsed.getFullYear()}`;
+                        }
+                        return date;
+                    }
+
+                    // Check for Fc property (formatted string)
+                    if (timeObj.Fc) {
+                        return timeObj.Fc;
+                    }
+
+                    // Last resort - try to extract year from pano ID or return generic
+                    return 'Available';
+                }
+
+                yearLabel.textContent = getTimeLabel(latestTime);
+
+                timeSlider.addEventListener('input', function() {
+                    const idx = parseInt(this.value);
+                    const selectedTime = times[idx];
+                    yearLabel.textContent = getTimeLabel(selectedTime);
+
+                    if (selectedTime.pano) {
+                        panorama.setPano(selectedTime.pano);
+                    }
+                });
+            }
+
+            setTimeout(() => {
+                google.maps.event.trigger(panorama, 'resize');
+            }, 200);
+
+        } else {
+            console.log('Street View status:', status);
+            container.innerHTML = `
+                <div class="error" style="height: 250px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;">
+                    <span style="font-size: 24px; opacity: 0.5;">🚫</span>
+                    <span>Street View not available for this location</span>
+                </div>
+            `;
+        }
+    });
+}
+
+// Format date helper
+function formatDate(date) {
+    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    return `${months[date.getMonth()]} ${date.getFullYear()}`;
+}
+        
+        // Fetch data from server (which securely calls Google Sheets)
+async function fetchMuseumPhotos() {
+    try {
+        updateStatus('Connecting to archive...');
+        updateLoadingBar(10, 'Connecting to archive...');
+
+        let allRecords = [];
+        let offset = null;
+
+        // Loop through all pages via our secure server
+        do {
+            const url = `${SERVER_URL}/api/photos${offset ? `?offset=${offset}` : ''}`;
+
+            const response = await fetch(url);
+
+            if (!response.ok) {
+                throw new Error(`API Error: ${response.status} ${response.statusText}`);
+            }
+
+            const data = await response.json();
+            allRecords.push(...data.records);
+            offset = data.offset; // Will be undefined when no more pages
+
+            // Update status as we fetch
+            const progress = Math.min(30 + (allRecords.length * 0.5), 70);
+            updateStatus(`Loading ${allRecords.length} photographs...`);
+            updateLoadingBar(progress, `Loading ${allRecords.length} photographs...`);
+
+        } while (offset);
+
+        if (allRecords.length > 0) {
+            museumData = allRecords;
+
+            updateLoadingBar(80, 'Processing locations...');
+            await new Promise(r => setTimeout(r, 300)); // Brief pause for UX
+
+            displayPhotosOnMap(allRecords);
+
+            updateLoadingBar(100, 'Archive loaded');
+            updateStatus('Archive connected');
+            photoCountElement.textContent = allRecords.length;
+
+            // Hide loading overlay with slight delay for smooth transition
+            setTimeout(hideLoadingOverlay, 500);
+        } else {
+            updateStatus('No photographs found', true);
+            updateLoadingBar(100, 'No data found');
+            setTimeout(hideLoadingOverlay, 1000);
+        }
+
+    } catch (error) {
+        console.error('Error fetching data:', error);
+        updateStatus(`Connection failed`, true);
+        updateLoadingBar(100, 'Failed to connect');
+        setTimeout(hideLoadingOverlay, 1500);
+    }
+}
+        
+        // Display photos as markers on map
+        // Display photos as markers on map - GROUPED BY LOCATION WITH CAROUSEL
+// Display photos as markers on map - GROUPED BY LOCATION WITH SLIDER
+function displayPhotosOnMap(records) {
+    // Group photos by location
+    const locationGroups = {};
+    
+    records.forEach((record, index) => {
+        const fields = record.fields;
+        
+        let lat, lng;
+        if (fields.Latitude && fields.Longitude) {
+            lat = parseFloat(fields.Latitude);
+            lng = parseFloat(fields.Longitude);
+            if (lng > 0) lng = -lng;
+        } else {
+            lat = 41.8781 + (index * 0.001);
+            lng = -87.6298 + (index * 0.001);
+        }
+        
+        const locationKey = `${lat.toFixed(5)},${lng.toFixed(5)}`;
+        
+        if (!locationGroups[locationKey]) {
+            locationGroups[locationKey] = {
+                lat: lat,
+                lng: lng,
+                photos: []
+            };
+        }
+        
+        locationGroups[locationKey].photos.push({
+            title: fields.Title || fields.Name || `Photo ${index + 1}`,
+            year: fields.Year || 'Year unknown',
+            address: fields.Street_Address || 'Address unknown',
+            neighborhood: fields.Neighborhood || '',
+            description: fields.Description || '',
+            photographer: fields.Photographer || '',
+            photoUrl: fields.Photo_File && fields.Photo_File[0] ? fields.Photo_File[0].url : null
+        });
+    });
+    
+    console.log(`Grouped ${records.length} photos into ${Object.keys(locationGroups).length} unique locations`);
+    
+    // Create markers for each location group
+    Object.values(locationGroups).forEach((location, locIndex) => {
+        const photoCount = location.photos.length;
+        
+        // Warm subtle marker design with thin black border
+        const marker = L.marker([location.lat, location.lng], {
+            icon: L.divIcon({
+                className: 'custom-marker',
+                html: `<div style="
+                    background: #fff;
+                    color: #5c5245;
+                    width: 32px;
+                    height: 32px;
+                    border-radius: 50%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-size: 14px;
+                    border: 1px solid #2c2416;
+                    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+                    transition: all 0.2s ease;
+                ">📷</div>`,
+                iconSize: [34, 34],
+                iconAnchor: [17, 17]
+            })
+        }).addTo(map);
+        
+        const streetViewId = `streetview-${locIndex}`;
+        const carouselId = `carousel-${locIndex}`;
+        const sliderId = `slider-${locIndex}`;
+        const photo = location.photos[0];
+        
+        const popupContent = `
+            <div class="photo-popup" id="${carouselId}">
+                <h4 class="photo-title">${photo.title}</h4>
+                
+                <div class="carousel-photo-container">
+                    ${photo.photoUrl
+                        ? `<img src="${photo.photoUrl}" class="historical-photo" alt="${photo.title}">`
+                        : `<div class="loading"><div class="loading-spinner"></div>No photo available</div>`
+                    }
+                </div>
+                
+                ${photoCount > 1 ? `
+                <div class="slider-container">
+                    <input 
+                        type="range" 
+                        id="${sliderId}" 
+                        class="photo-slider" 
+                        min="0" 
+                        max="${photoCount - 1}" 
+                        value="0" 
+                        oninput="slidePhoto('${carouselId}', this.value)"
+                    />
+                    <div class="slider-label"><span class="current-index">1</span> of ${photoCount} photos</div>
+                </div>
+                ` : ''}
+                
+                <div class="photo-info">
+                    <strong>Year:</strong> <span class="photo-year">${photo.year}</span><br>
+                    <strong>Address:</strong> <span class="photo-address">${photo.address}</span><br>
+                    ${photo.neighborhood ? `<strong>Neighborhood:</strong> <span class="photo-neighborhood">${photo.neighborhood}</span><br>` : ''}
+                    ${photo.description ? `<div class="photo-description" style="margin-top: 8px; font-size: 12px; color: #555;">${photo.description}</div>` : ''}
+                </div>
+                
+                <div class="streetview-container">
+                    <div class="streetview-title">
+                        <span>🗺️</span> Current Street View
+                    </div>
+                    <div id="${streetViewId}" class="streetview-pano">
+                        <div class="loading">
+                            <div class="loading-spinner"></div>
+                            Loading Street View...
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+        
+        marker.bindPopup(popupContent, { maxWidth: 520 });
+        
+        marker.on('popupopen', function() {
+            window.carouselData = window.carouselData || {};
+            window.carouselData[carouselId] = {
+                photos: location.photos,
+                currentIndex: 0
+            };
+
+            // Track currently selected photo for chatbot context
+            currentSelectedPhoto = {
+                ...location.photos[0],
+                lat: location.lat,
+                lng: location.lng,
+                totalPhotosAtLocation: location.photos.length
+            };
+
+            setTimeout(() => {
+                createHistoricalStreetView(location.lat, location.lng, streetViewId);
+            }, 100);
+        });
+        
+        marker.on('popupclose', function() {
+            currentPanorama = null;
+            currentSelectedPhoto = null; // Clear selected photo when popup closes
+        });
+    });
+    
+    updateStatus(`${Object.keys(locationGroups).length} locations mapped`);
+}
+
+// Slider navigation function
+function slidePhoto(carouselId, index) {
+    const data = window.carouselData[carouselId];
+    if (!data) return;
+
+    data.currentIndex = parseInt(index);
+    const photo = data.photos[data.currentIndex];
+    const carousel = document.getElementById(carouselId);
+
+    // Update photo
+    const photoContainer = carousel.querySelector('.carousel-photo-container');
+    photoContainer.innerHTML = photo.photoUrl
+        ? `<img src="${photo.photoUrl}" class="historical-photo" alt="${photo.title}">`
+        : `<div class="loading"><div class="loading-spinner"></div>No photo available</div>`;
+
+    // Update info
+    carousel.querySelector('.photo-title').textContent = photo.title;
+    carousel.querySelector('.photo-year').textContent = photo.year;
+    carousel.querySelector('.photo-address').textContent = photo.address;
+    carousel.querySelector('.current-index').textContent = data.currentIndex + 1;
+
+    // Update neighborhood if exists
+    const neighborhoodEl = carousel.querySelector('.photo-neighborhood');
+    if (neighborhoodEl) neighborhoodEl.textContent = photo.neighborhood || '';
+
+    // Update description if exists
+    const descriptionEl = carousel.querySelector('.photo-description');
+    if (descriptionEl) descriptionEl.textContent = photo.description || '';
+
+    // Update the currently selected photo for chatbot context
+    if (currentSelectedPhoto) {
+        currentSelectedPhoto = {
+            ...photo,
+            lat: currentSelectedPhoto.lat,
+            lng: currentSelectedPhoto.lng,
+            totalPhotosAtLocation: data.photos.length
+        };
+    }
+}
+        
+        // Chatbot functions
+        function addMessage(text, isUser = false) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${isUser ? 'user' : 'assistant'}`;
+            
+            messageDiv.innerHTML = `
+                <div class="message-avatar">${isUser ? '✦' : '◈'}</div>
+                <div class="message-bubble">${text}</div>
+            `;
+            
+            chatbotMessages.appendChild(messageDiv);
+            chatbotMessages.scrollTop = chatbotMessages.scrollHeight;
+        }
+        
+        function showTypingIndicator(searching = false) {
+            const typingDiv = document.createElement('div');
+            typingDiv.className = 'message assistant';
+            typingDiv.id = 'typing-indicator';
+
+            const statusText = searching ? 'Searching encyclopedia...' : '';
+
+            typingDiv.innerHTML = `
+                <div class="message-avatar">◈</div>
+                <div class="message-bubble typing-indicator">
+                    ${statusText ? `<span style="font-size: 0.75rem; color: var(--text-muted); display: block; margin-bottom: 6px;">${statusText}</span>` : ''}
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                    <div class="typing-dot"></div>
+                </div>
+            `;
+            chatbotMessages.appendChild(typingDiv);
+            chatbotMessages.scrollTop = chatbotMessages.scrollHeight;
+        }
+
+        function updateTypingIndicator(text) {
+            const indicator = document.getElementById('typing-indicator');
+            if (indicator) {
+                const bubble = indicator.querySelector('.message-bubble');
+                const existingDots = bubble.querySelector('.typing-dot')?.parentElement || bubble;
+                let statusSpan = bubble.querySelector('span');
+                if (!statusSpan) {
+                    statusSpan = document.createElement('span');
+                    statusSpan.style.cssText = 'font-size: 0.75rem; color: var(--text-muted); display: block; margin-bottom: 6px;';
+                    bubble.insertBefore(statusSpan, bubble.firstChild);
+                }
+                statusSpan.textContent = text;
+            }
+        }
+        
+        function removeTypingIndicator() {
+            const typing = document.getElementById('typing-indicator');
+            if (typing) typing.remove();
+        }
+        
+        // Build context based on current mode
+        function buildMuseumContext() {
+            const photoList = museumData.map((record, i) => {
+                const f = record.fields;
+                return `${f.Title || f.Name || 'Photo ' + (i+1)} (${f.Year || '?'}) - ${f.Neighborhood || f.Street_Address || 'Chicago'}`;
+            }).join(', ');
+
+            // Build selected photo context if user has one open
+            let selectedPhotoContext = '';
+            if (currentSelectedPhoto) {
+                selectedPhotoContext = `
+
+=== CURRENTLY VIEWING ===
+The user is currently looking at this photo:
+- Title: ${currentSelectedPhoto.title}
+- Year: ${currentSelectedPhoto.year}
+- Address: ${currentSelectedPhoto.address}
+- Neighborhood: ${currentSelectedPhoto.neighborhood || 'Unknown'}
+- Description: ${currentSelectedPhoto.description || 'No description'}
+${currentSelectedPhoto.totalPhotosAtLocation > 1 ? `- This location has ${currentSelectedPhoto.totalPhotosAtLocation} photos total` : ''}
+
+When the user says "this photo", "this image", "this place", "here", etc., they are referring to the photo above. Prioritize answering about this specific photo unless they clearly ask about something else.
+`;
+            }
+
+            if (currentMode === 'chat') {
+                // CHAT MODE: Concise, friendly, quick responses
+                return `You are ChiBot, a friendly assistant for a Chicago historical photos map. Be concise and conversational.
+
+RULES:
+- Keep responses SHORT (1-3 sentences for simple questions)
+- For greetings like "hello" or "hi", just say hi back briefly
+- Only give detailed answers when asked specific questions
+- You have ${museumData.length} historical photos from Chicago
+${selectedPhotoContext}
+Photos in collection: ${photoList}
+
+Be helpful but brief. No walls of text.`;
+            } else {
+                // RESEARCH MODE: Detailed, analytical, uses encyclopedia
+                return `You are ChiBot Research Assistant, an expert on Chicago history with access to the Chicago History Museum Encyclopedia (2,000+ entries).
+
+YOUR ROLE:
+- Help researchers explore Chicago history topics
+- Synthesize information from encyclopedia entries provided below
+- Suggest specific neighborhoods, locations, time periods to investigate
+- Identify historical patterns and connections
+- Recommend related topics and research directions
+${selectedPhotoContext}
+RESPONSE FORMAT:
+1. Answer the question using the encyclopedia data
+2. List relevant neighborhoods/locations to explore on the map
+3. Suggest related encyclopedia topics to look into
+4. Propose potential research angles
+
+Available photo data (${museumData.length} photos): ${photoList}`;
+            }
+        }
+
+        // Mode toggle handlers
+        document.getElementById('mode-chat').addEventListener('click', function() {
+            setMode('chat');
+        });
+
+        document.getElementById('mode-research').addEventListener('click', function() {
+            setMode('research');
+        });
+
+        function setMode(mode) {
+            currentMode = mode;
+            document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelector(`[data-mode="${mode}"]`).classList.add('active');
+
+            const systemMsg = document.getElementById('system-message');
+            if (mode === 'chat') {
+                systemMsg.textContent = 'Ask me about the photos on the map!';
+            } else {
+                systemMsg.textContent = 'Research mode: Ask complex questions about Chicago history, demographics, urban development, and I\'ll suggest sources and research directions.';
+            }
+
+            // Clear conversation when switching modes
+            conversationHistory = [];
+        }
+        
+        // Search encyclopedia for Research mode
+        async function searchEncyclopedia(query) {
+            try {
+                const response = await fetch(`${SERVER_URL}/api/search`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query, maxResults: 5 })
+                });
+
+                if (!response.ok) return null;
+
+                const data = await response.json();
+                return data;
+            } catch (error) {
+                console.error('Encyclopedia search error:', error);
+                return null;
+            }
+        }
+
+        // Build research context from encyclopedia results
+        function buildResearchContext(searchResults) {
+            if (!searchResults || !searchResults.results.length) {
+                return '';
+            }
+
+            let context = '\n\n=== RELEVANT ENCYCLOPEDIA ENTRIES ===\n';
+            for (const entry of searchResults.results) {
+                context += `\n📖 ${entry.title}\n`;
+                context += `${entry.text}\n`;
+                if (entry.terms.length) {
+                    context += `Related topics: ${entry.terms.join(', ')}\n`;
+                }
+                if (entry.addresses.length) {
+                    context += `Locations: ${entry.addresses.join(', ')}\n`;
+                }
+                context += `---\n`;
+            }
+            return context;
+        }
+
+        // Send message to Claude AI via proxy server
+        async function callClaudeAPI(userMessage) {
+            let systemPrompt = buildMuseumContext();
+
+            // In Research mode, search encyclopedia first
+            if (currentMode === 'research') {
+                const searchResults = await searchEncyclopedia(userMessage);
+                if (searchResults && searchResults.results.length > 0) {
+                    const encyclopediaContext = buildResearchContext(searchResults);
+                    systemPrompt += encyclopediaContext;
+                    systemPrompt += `\n\nFound ${searchResults.count} relevant encyclopedia entries from ${searchResults.totalEntries} total. Use this information to provide detailed research guidance.`;
+                }
+            }
+
+            try {
+                // Call the secure proxy server
+                const response = await fetch(`${SERVER_URL}/api/chat`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        systemPrompt: systemPrompt,
+                        messages: [
+                            ...conversationHistory,
+                            { role: 'user', content: userMessage }
+                        ]
+                    })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`API Error: ${response.status}`);
+                }
+
+                const data = await response.json();
+                return data.content[0].text;
+
+            } catch (error) {
+                console.error('Claude API Error:', error);
+                throw error;
+            }
+        }
+        
+        // Send message handler
+        async function sendMessage() {
+            const message = chatbotInput.value.trim();
+            if (!message) return;
+
+            // Add user message
+            addMessage(message, true);
+            conversationHistory.push({ role: 'user', content: message });
+
+            chatbotInput.value = '';
+            chatbotSend.disabled = true;
+
+            // Show typing indicator (with search status for Research mode)
+            showTypingIndicator(currentMode === 'research');
+
+            try {
+                // In research mode, show progress
+                if (currentMode === 'research') {
+                    setTimeout(() => updateTypingIndicator('Analyzing with AI...'), 1500);
+                }
+
+                const aiResponse = await callClaudeAPI(message);
+
+                removeTypingIndicator();
+                addMessage(aiResponse);
+                conversationHistory.push({ role: 'assistant', content: aiResponse });
+
+            } catch (error) {
+                removeTypingIndicator();
+                addMessage('Sorry, I encountered an error. Please check the console for details.');
+                console.error('AI Error:', error);
+            }
+
+            chatbotSend.disabled = false;
+            chatbotInput.focus();
+        }
+        
+        // Initialize when page loads
+        window.addEventListener('load', initMap);
+    </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+{
+    "Title": "Chicago's Rapid Transit Lines",
+    "Descriptive Text": "Four individual companies built elevated railroads to link outlying city and near-suburban neighborhoods between 1892 and 1930. Similar construction and equipment standards simplified the unified operation of the lines beginning in 1913, as did public ownership after World War II. The new Chicago Transit Authority closed several lightly patronized branches, reducing a 1947 system of 87 miles to 68 miles by 1958. Four significant extensions since 1969 brought the system to approximately 107 miles by 2003, with several placed innovatively along the median strips of expressways. The most recent, the Orange Line, was built in 1993 to link the neglected Southwest Side and a revivified Midway Airport to the Loop.",
+    "Bibliography": "Author: Dennis McClendon (Research assistance: Bruce G. Moffat, Graham Garfield)Source: Newberry Library"
+}

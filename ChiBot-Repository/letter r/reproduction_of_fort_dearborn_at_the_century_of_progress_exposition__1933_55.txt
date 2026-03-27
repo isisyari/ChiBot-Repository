@@ -1,0 +1,4 @@
+{
+    "Title": "Reproduction of Fort Dearborn at the Century of Progress Exposition, 1933",
+    "Descriptive Text": "Visitors to the 1933 Century of Progress Exposition could measure Chicago's progress by walking through a replica of Fort Dearborn. In the midst of displays representing manufacturers, industrial processes, and the cultures and nations of the world, visitors could engage Chicago's history by becoming tourists of a reconstruction of a mythic part of it."
+}

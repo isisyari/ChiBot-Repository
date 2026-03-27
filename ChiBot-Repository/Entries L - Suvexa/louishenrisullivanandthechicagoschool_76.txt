@@ -1,0 +1,9 @@
+{
+    "Title": "Louis Henri Sullivan and the Chicago School",
+    "Descriptive Text": "Louis Henri Sullivan, one of America's greatest architects and a key figure in the Chicago School of Architecture, was born in Boston in 1856. His training included a stint at MIT, the École des Beaux-Arts in Paris, and training with Ph.D. architect Frank Furness.Sullivan worked initially for W. L. B. Jenney soon after he joined his parents in Chicago in 1873. Sullivan's partnership with Dankmar Adler began in 1879, and their first important project was the Central Music Hall in Chicago. The success of the Music Hall and other projects led in 1886 to the commission for the Auditorium Building. While the structure's limestone and granite Romanesque Revival exterior is a stylistic tribute to Sullivan's hero, Henry Hobson Richardson, the flowing foliate decoration of its interior spaces are among the world's earliest examples of art nouveau. At the World's Columbian Exposition held in Chicago in 1893, Sullivan's Transportation Building, with its shimmering gold-leafed entrance, boldly dramatized his rejection of the classically inspired Beaux-Arts architecture of the “White City.”The national depression of the 1890s had a devastating effect upon the Adler & Sullivan office and the partnership ended in 1895. This, together with the dominance of the Beaux-Arts architectural style, led to a spiraling downward of Sullivan's career. He would, though, design a small number of superb buildings, including the Schlesinger & Mayer Store in Chicago—now Carson Pirie Scott & Co. He also wrote The Autobiography of an Idea before his death in 1924.",
+    "Author of Text": "David Garrard Lowe",
+    "Hyperlinked Terms Associated": [
+        "Auditorium Building",
+        "Worlds Columbian Exposition"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Title": "Fuller Park",
+    "Descriptive Text": "Community Area 37, 5 miles S of the Loop. Fuller Park is a neighborhood due south of Comiskey Park, the home of the American League Chicago White Sox baseball team. One of Chicago's smallest community areas, this narrow two-mile strip lies between the Dan Ryan Expressway and the Rock Island Railroad Metra lines to the east and the Chicago & Western Indiana Railroad to the west. The northern and southern borders are Pershing Road and Garfield Boulevard. The community derives its name from the small park named for Melville W. Fuller, Chicago attorney and U.S. chief justice.After the Civil War, people of Irish descent lived here, many of them employed either by the railroads or the stockyards. In 1871, a railroad roundhouse was built in the community by the Lake Shore & Michigan Southern Railroad. Because of the Great Fire in that year, residential growth increased in Fuller Park (then a part of Lake Township ) as developers built beyond the city limits to avoid expensive building codes. Survivors of the 1870s include frame houses at 4463 South Wells and 4233 S. Princeton. In the mid-1880s, Chicago architect Henry Newhouse designed and built a series of modest Queen Anne–style houses at 5029–5045 S. Princeton.In 1889, the Town of Lake was annexed to the city of Chicago. Germans and Austrians joined the Irish as residents in the 1890s, and African Americans began moving into the community after 1900. In the early 1900s, a public health movement among settlement house leaders sought a plan to give residents access to light, air, and exercise. Consequently, Fuller Park opened in 1912, with a fieldhouse designed in classical Greek revival style by Daniel H. Burnham and Company.By 1920, African Americans, Mexicans, and Slavic workers had replaced the Irish and Germans. Fuller Park has always been home to the poor: in 1950, 24 percent of the community lacked indoor toilets. In the 1950s the community was overrun and split by the Dan Ryan Expressway, which displaced one-third of the population. The 1950s also saw the erosion of the local economy as trucking and interstate highways rendered the centralized Union Stock Yard unnecessary.In the 1960s, the Union Stock Yard was in decline, eventually closing in 1971 and eliminating many jobs in the stockyards area. At the same time, thousands of southern African Americans migrated north each year and encountered a segregated housing market that restricted them to areas of the city's South and West Sides. Fuller Park saw its population change from 80 percent white in 1945 to 97 percent black in 1970, declining in total numbers from 17,174 in 1950 to 4,364 by 1990. From 1975 to 1990, there was a net loss of 41.5 percent of jobs in the stockyards area, including nearly 45 percent of all manufacturing jobs. Since 1969, no new housing, public or private, has been built in the community. In the same period, only 12 permits for commercial development were granted by the city. During the 1980s, Fuller Park received fewer bank loans for home improvement purposes than any neighborhood in Chicago.While there are many longtime homeowners who either cannot or do not want to leave, over two-thirds of the community's 2,000-unit housing stock is rental. The poverty rate is over 40 percent and single mothers head a large number of families. Yet renewal efforts persist as the Neighbors of Fuller Park attempt to recover the neighborhood's rich architectural history. These efforts include the rehabilitation of the park, including its central fountain, courtyard, and fieldhouse. In the early 1990s, a shopping center was developed between the Dan Ryan Expressway and the Metra tracks just west of the Robert Taylor Homes and adjacent to Garfield Boulevard.",
+    "Bibliography": "Chicago Historic Resources Survey. An Inventory of Architecturally and Historically Significant Structures. 1996.",
+    "Author of Text": "Clinton E. Stockwell",
+    "Hyperlinked Terms Associated": [
+        "Comiskey Park",
+        "White Sox",
+        "Expressway",
+        "Railroad",
+        "Civil War",
+        "Irish",
+        "Lake Township",
+        "building codes",
+        "annexed",
+        "Germans",
+        "Austrians",
+        "African Americans",
+        "public health",
+        "settlement house",
+        "Mexicans",
+        "Union Stock Yard",
+        "shopping center",
+        "Robert Taylor Homes"
+    ],
+    "Street addresses associated": [
+        "Fuller Park"
+    ]
+}

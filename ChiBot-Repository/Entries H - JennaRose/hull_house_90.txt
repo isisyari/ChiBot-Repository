@@ -1,0 +1,26 @@
+{
+    "Title": "Hull House",
+    "Descriptive Text": "Hull House, Chicago's first and the nation's most influential settlement house, was established by Jane Addams and Ellen Gates Starr on the Near West Side on September 18, 1889. By 1907, the converted 1856 mansion had expanded to a massive 13-building complex covering nearly a city block. The new structures included a gymnasium, theater, art gallery, music school, boys' club, auditorium, cafeteria, cooperative residence for working women, kindergarten, nursery, libraries, post office, meeting and club rooms, art studios, kitchen, and a dining room and apartments for the residential staff. Attracting thousands of people each week from the surrounding neighborhood, the expanded Hull House complex provided space for the settlement's extensive social, educational, and artistic programs. Under Addams's skillful leadership, Hull House achieved recognition as the best-known settlement house in the United States and became the flagship of a movement that included nearly five hundred settlements nationally by 1920.During its first two decades, Hull House attracted a remarkable group of residents, most of them women, who rose to prominence and influence as reformers on the local, state, and national levels. In the neighborhood, these residents established the city's first public playground and bathhouse, campaigned to reform ward politics, investigated housing, working, and sanitation issues, organized to improve garbage removal, and agitated for new public schools. On the municipal level, they helped establish the first juvenile court in the United States, fought for neighborhood parks and playgrounds, agitated for branch libraries, and initiated housing reform. At the state level, Hull-House residents initiated and lobbied for protective legislation for women and children, child labor laws, occupational safety and health provisions, compulsory education, protection of immigrants, and Illinois' pioneer mothers' pension law. On the federal level, Hull House residents joined with settlement house leaders and reformers nationwide to fight for national child labor laws, women's suffrage, the establishment of a Children's Bureau, unemployment compensation, workers' compensation, and the many other reforms that made up the Progressive agenda in the first two decades of the twentieth century.Addams remained head resident of Hull House until her death in 1935. Hull House continued to be active on Halsted Street until the 1960s, when it was displaced by the University of Illinois' new urban campus. Today it continues under the name of Jane Addams Hull House Association, an umbrella organization composed of several social service centers across the city.",
+    "Bibliography": "Addams, Jane. Twenty Years at Hull-House. 1910.Bryan, Mary Lynn McCree, and Allen F. Davis, eds. 100 Years at Hull-House. 1990.Hull-House Residents. Hull-House Maps and Papers: A Presentation of Nationalities and Wages in a Congested District of Chicago. 1895.",
+    "Author of Text": "Mary Ann Johnson",
+    "Hyperlinked Terms Associated": [
+        "settlement house",
+        "Near West Side",
+        "theater",
+        "art gallery",
+        "kindergarten",
+        "playground",
+        "schools",
+        "juvenile court",
+        "safety and health",
+        "occupational",
+        "mothers pension",
+        "unemployment",
+        "suffrage",
+        "University of Illinois",
+        "social service"
+    ],
+    "Street addresses associated": [
+        "Near West Side"
+    ]
+}

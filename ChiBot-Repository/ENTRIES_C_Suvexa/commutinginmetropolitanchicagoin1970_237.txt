@@ -1,0 +1,7 @@
+{
+    "Title": "Commuting in Metropolitan Chicago in 1970",
+    "Descriptive Text": "Automobiles have been used to commute to central Chicago since the early twentieth century, but driving to work did not become a truly mass phenomenon across the metropolitan area until the advent of the superhighway. By 1970, commuting by car had etched a pattern of vast proportions, drawing to Chicago over half of the resident workers of communities that spanned five counties in a daily centripetal vortex. However, as jobs began to decentralize within the metropolitan area following World War II and moved outwards even faster during the 1960s, commuting flows became more complex, and \"reverse\" commuting from the city of Chicago to suburban job sites assumed significance. Nevertheless, the drawing power of Chicago's Loop remained undiminished. More than 1 in 10 workers in large parts of the collar counties in 1970 commuted, by various means of transport, to the city's central business district.",
+    "Street addresses associated": [
+        "Loop"
+    ]
+}

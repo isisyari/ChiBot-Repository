@@ -1,0 +1,32 @@
+{
+    "Title": "Burnside",
+    "Descriptive Text": "Community Area 47, 11 miles S of the Loop. Burnside, the smallest of Chicago's community areas, is bounded entirely by railroads —a distinctive and difficult-to-access triangle marked by the Illinois Central Railroad on the west, the Rock Island on the south, and the New York Central on the east. Interestingly, it occupies a different physical place from what earlier Chicagoans knew as Burnside, an area that lies almost entirely in the community areas of Roseland and Chatham. Only with the mapping of University of Chicago sociologists did the area once known as Stony Island and subsequently the Burnside Triangle become Burnside.Situated on the low, swampy land surrounding Lake Calumet, the Triangle originally seemed more appropriate for industrial rather than residential development. When the Illinois Central established its Burnside station, named after former company official and Civil War general Ambrose Burnside, in 1862, what little development occurred took place west of the tracks. Not until the 1890s, when the Illinois Central Railroad (IC) began building a roundhouse and repair shops south of 95th Street on what is now the site of Chicago State University, did developer W. V. Jacobs purchase and subdivide land in the Triangle. Settlement there proceeded slowly compared to the rest of Burnside. By 1911, when the entire area was embroiled in a strike against the IC, the Triangle had become home to a small population of the newest immigrants— Hungarians, Italians, Ukrainians, and Poles most prominently—who occupied the least skilled jobs in the IC Burnside shops, the New York Central Stony Island shops, the Calumet & South Chicago street railway shops, the Pullman Car Works, Burnside Steel, and other factories nearby.With their 400 homes and boardinghouses spread sparsely over the 30 blocks of Burnside, residents had to build many of their own institutions because city institutions, with the exception of Perry Public School, were located primarily west of the IC tracks. Two churches were among the most important: the Hungarians' Our Lady of Hungary Roman Catholic Church and the Ukrainians' Sts. Peter and Paul Church. These, along with the Burnside Settlement and the school, offered citizenship classes, educational programs, and a variety of other opportunities and services. Saloons, some with meeting halls, provided another venue where residents who lived in adjoining wooden homes and boardinghouses could meet.Its well-defined physical boundaries (enhanced when the railroads were raised in the 1920s), small size, and residents' ethnic ties and common work experiences made Burnside a well-defined community socially in the years between the World Wars. They also meant Burnside attracted little outside attention. Even in the political arena, where it moved between the Ninth and Tenth Wards, it garnered little clout and few rewards.Only after World War II did the vacant residential land in Burnside attract the attention of developers and potential new residents. New single-family homes began to appear, especially in the most northerly, undeveloped areas. Homes for the middle class, they gradually changed the nature of Burnside, first by class and then, beginning in the 1960s, by race, as middle-class African Americans built their own homes or occupied those of European-heritage residents who left the neighborhood. In the mid-1970s, Burnside, like other South Side neighborhoods, suffered from the scandals associated with Federal Housing Authority loans that led to a high number of foreclosures.By the end of the twentieth century, Burnside had again become a comfortable residential community, still well defined by the railroads that created it and still underserved by the city outside its boundaries.",
+    "Bibliography": "City of Chicago, Department of Planning and Development. Demographic and Housing Characteristics of Chicago and Burnside: Community Area #47 Profile. 1994.Davis, Berenice Davida. “Housing Conditions in the District of Burnside.” M.A. thesis, University of Chicago. 1924.",
+    "Author of Text": "Janice L. Reiff",
+    "Hyperlinked Terms Associated": [
+        "railroads",
+        "Illinois Central Railroad",
+        "Roseland",
+        "Chatham",
+        "University of Chicago",
+        "Chicago State University",
+        "strike",
+        "Hungarians",
+        "Italians",
+        "Ukrainians",
+        "Poles",
+        "Pullman",
+        "boardinghouses",
+        "Roman Catholic",
+        "school",
+        "Saloons",
+        "clout",
+        "African Americans",
+        "South Side"
+    ],
+    "Street addresses associated": [
+        "Roseland",
+        "Chatham",
+        "Stony Island"
+    ]
+}

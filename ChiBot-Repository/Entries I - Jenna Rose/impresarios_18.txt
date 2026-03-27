@@ -1,0 +1,21 @@
+{
+    "Title": "Impresarios",
+    "Descriptive Text": "Entrepreneurs have played a vital role in bringing performing arts to Chicago. Beginning with hotel and theater owners and continuing with managers of clubs, bars, stadiums, and concert halls, impresarios have transformed culture into entertainment, profit, and prestige. Chicago's first impresario was probably Harry Isherwood, who purchased a theatrical license in 1837. Florenz Ziegfeld (father of the famous Follies founder) founded Chicago Musical College (1867–) and imported musical talent as faculty and for his performance series. Uranus H. Crosby booked performers for his Crosby Opera House (1866–1871).The majority of early impresarios, however, were visitors from New York, such as Maurice Grau or Colonel James Henry Mapleson, who toured the country representing operatic companies or instrumental virtuosi. Seating over 4,200, Chicago's Auditorium Theater was designed to attract just such traveling performances with promises of large paying audiences. (In the 1970s, the Auditorium's size made it an ideal rock touring venue.)To minimize risk and return control to Chicago, philanthropists pooled their resources, sponsoring institutions with professional management. The Orchestral Association (1890–) manages the Chicago Symphony Orchestra. This practice created the impresario-manager—such as the Auditorium's Milward Adams. Later the city itself became a major presenter of summer music festivals in support of tourism and civic life.Women often have been denied opportunities as impresarios. Exceptions include Ellen Van Volkenburg (theater), Merriel Abbott ( dance ), and Sarah Schectman (music)—who along with husband Harry Zelzer founded Chicago's Allied Arts. Increasingly, women have gained prominent roles in Chicago's cultural institutions. Carol Fox rebuilt the Lyric Opera, while Ardis Krainik made it one of America's most successful.The association of elite society with high culture gave impresarios the opportunity to negotiate social hierarchies. Black entrepreneurs such as Robert T. Motts ran the South Side's Pekin Theater, and William Hackney sponsored All-Colored Composer's Concerts in prestigious Orchestra Hall (beginning 1914). Joe Segal established the Jazz Showcase in 1947, which helped elevate jazz to the realm of “art music” and confirmed Chicago's role in this history.",
+    "Bibliography": "Sherman, Robert L. Chicago Stage: Its Records and Achievements. 1947.Upton, George Putnam. “Some Impresarios.” In Musical Memories, 1908, 159–179.Zelzer, Sarah Schectman, with Phyllis Dreazen. Impresario: The Zelzer Era, 1930 to 1990. 1990.",
+    "Author of Text": "Mark Clague",
+    "Hyperlinked Terms Associated": [
+        "hotel",
+        "theater",
+        "Opera",
+        "Auditorium",
+        "rock",
+        "philanthropists",
+        "Chicago Symphony Orchestra",
+        "dance",
+        "Lyric Opera",
+        "jazz"
+    ],
+    "Street addresses associated": [
+        "South Side"
+    ]
+}

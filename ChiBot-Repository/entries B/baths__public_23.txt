@@ -1,0 +1,20 @@
+{
+    "Title": "Baths, Public",
+    "Descriptive Text": "By the late 1800s personal cleanliness had become a cultural norm for Americans, necessary for social acceptance, symbolic of good character, and essential for the protection of public health from infectious diseases. The urban poor and working class, without bathing facilities in their homes, were not able to conform to this standard of cleanliness. During the Progressive era, reformers urged city governments to build public baths for the poor, and Chicago's government responded by building 21 small and utilitarian public bathhouses in poor and immigrant neighborhoods between 1894 and 1918.A women's reform organization in Chicago, the Municipal Order League (later renamed the Free Bath and Sanitary League), led the campaign for public baths. Three women physicians, Gertrude Gail Wellington, Sarah Hackett Stevenson, and Julia R. Lowe, headed the crusade. Beginning in 1892, Wellington led in the effort, utilizing the network of women reformers in Chicago centering in the settlement houses, especially Jane Addams's Hull House, as well as the Chicago Woman's Club and the Fortnightly Club. These women gained support for the cause of public baths from the press and the city government under Mayor Hempstead Washburne and city council finance committee chairman Martin Madden. Chicago's first public, bath located at 192 Mather Street, near Hull House on the Near West Side, opened in 1894. It was named after assassinated mayor Carter H. Harrison and cost $20,649. Thereafter, Chicago public baths were generally named after prominent local citizens.Although some American cities built elaborate, monumental, and expensive public baths, Chicago conformed to the bath reformers' ideal that public bathhouses should be modest, unpretentious, strictly functional, free, and located in poor and immigrant neighborhoods readily accessible to bathers. Chicago's bathhouses generally contained between 20 and 40 showers, with attached dressing rooms, and a waiting room. There were no separate sections for men and women; two days a week were reserved for women, girls, and small children with their mothers. Bath patrons did not control water or temperature, which were regulated by an attendant who turned on the shower for 7 to 8 of the 20 minutes allowed for a bath.In spite of this functional emphasis, bath patrons utilized the public baths more to cool off in the summer than to bathe in the winter months. Additionally, utilization of the public baths began to decline even as the city opened new baths. Peak attendance was reached in 1910, when a total of 1,070,565 baths were taken in the 15 bathhouses in operation; by 1918, when 21 bathhouses were open, utilization had declined to 709,452 baths. The opening of bathing beaches and swimming pools in the early 1900s, as well as housing reform laws which required private toilets in apartments (many landlords added bathtubs as well), contributed to the decline in public bath usage.After World War II, Chicago began to close down its public bathhouses. By the 1970s only one bathhouse remained open, to serve Skid Row residents, and that too closed in 1979.",
+    "Bibliography": "Glassberg, David. “The Design of Reform: The Public Bath Movement in America.” American Studies 20 (Fall 1979): 5–21.Hanger, G. W. W. “Public Baths in the United States.” In Bulletin of the Bureau of Labor, no. 54 (1904): 1245–1367.Williams, Marilyn Thornton. Washing “The Great Unwashed”: Public Baths in Urban America, 1840–1920. 1991.",
+    "Author of Text": "Marilyn Thornton Williams",
+    "Hyperlinked Terms Associated": [
+        "public health",
+        "government",
+        "settlement houses",
+        "Hull House",
+        "Near West Side",
+        "swimming",
+        "housing reform",
+        "apartments",
+        "World War II"
+    ],
+    "Street addresses associated": [
+        "Near West Side"
+    ]
+}

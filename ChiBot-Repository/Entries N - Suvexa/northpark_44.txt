@@ -1,0 +1,25 @@
+{
+    "Title": "North Park",
+    "Descriptive Text": "Community Area 13, 9 miles NW of the Loop. North Park is a stable, quiet, tree-shaded, middleincome community where most homes are owner-occupied. It is located between Cicero Avenue on the west and the North Shore Channel on the east, the city limits and Devon Avenue on the north, and the North Branch of the Chicago River on the south. The presence of the two streams provides a charming and unusual ambience for the area. Chicago's only waterfall (about four feet high) appears where the North Branch of the Chicago River tumbles into the North Shore Channel.North Park's origins lie in 1855 when a village was platted in the newly organized Jefferson Township. The early residents were German and Swedish farmers who grew vegetables in fields laid out along the south bank of the North Branch of the Chicago River. Czechs moved into the northwestern corner of the area after the Bohemian National Cemetery was opened in 1877. They stayed only a short while, however, and began to move out of the area around 1900.In 1893 the Swedish University Association of the Swedish Evangelical Mission Covenant purchased a large acreage in the area and donated about eight and a half acres along the river in the southeastern corner of North Park for establishment of a college. Construction at North Park College began in 1894 and the surrounding acreage was subdivided for homes. Within the next few years streets were laid out, sewer lines put in place, and board sidewalks installed. Nonetheless, development proceeded slowly; in 1910 the population numbered only 478. From 1910 to 1930, however, the area burgeoned, especially after the first two-flats and small apartments were built in the 1920s. The population tripled from 1920 to 1930 and the community was rapidly transformed from an area of prairie and woods to a mature residential community of bungalows and two-flats. The 1930s also saw development of a small industrial district in the northwest corner of the area along Peterson Avenue which, although declining, remains the only industrial activity in North Park.Population grew rapidly during World War II and in the postwar period and reached its high point in 1960. Like most city neighborhoods, North Park lost population through the next 20 years, but, unlike most others, North Park grew by over 6 percent from 1980 to 1990. Faculty, staff, and students of local colleges and universities often live in the area, as do employees of nearby Swedish Covenant Hospital. This stabilizes the area, greatly reducing the turnover of homes. Others have also responded to the solid housing stock and the thriving family-oriented character of the neighborhood. In recent years Hispanics and a sizable number of Koreans and Filipinos have joined the Swedes and Germans who long dominated the area.The neighborhood is strongly supported by the presence of important educational and civic institutions. North Park College has now become North Park University, serving a wider clientele than formerly. In addition, Northeastern Illinois University provides a wide-ranging curriculum and attracts students from throughout Chicago, as does Von Steuben magnet high school. The Municipal Tuberculosis Sanitarium, built just after 1900 at the intersection of Pulaski and Bryn Mawr, was closed in 1974 and converted into senior citizen housing (North Park Village), a school for the mentally handicapped, and the North Park Village Nature Center, the only such facility in the city. A source of pride for area residents, this 46-acre preserve holds wetlands, woods, and savannas, and features 2.5 miles of hiking trails and a visitor center.",
+    "Bibliography": "The Chicago Fact Book Consortium, ed. Local Community Fact Book: Chicago Metropolitan Area, Based on the 1970 and 1980 Censuses. 1984.Solzman, David M. The Chicago River: An Illustrated History and Guide to the River and Its Waterways. 1998.",
+    "Author of Text": "David M. Solzman",
+    "Hyperlinked Terms Associated": [
+        "Chicago River",
+        "German",
+        "Swedish",
+        "Jefferson Township",
+        "Czechs",
+        "Cemetery",
+        "bungalows",
+        "World War II",
+        "Hospital",
+        "Koreans",
+        "Filipinos",
+        "North Park University",
+        "Northeastern Illinois University",
+        "tuberculosis"
+    ],
+    "Street addresses associated": [
+        "North Park"
+    ]
+}

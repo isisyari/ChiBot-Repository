@@ -1,0 +1,10 @@
+{
+    "Title": "\"L\"",
+    "Descriptive Text": "Chicago's rapid transit system has been known as the “L” since before the first line opened in 1892. The peculiar Chicago spelling was used by all of the city's elevated railroad companies, and by local trade journals and newspapers. Today, only 36 percent of the city's rapid transit system runs above the streets, but Chicagoans nonetheless say they are “taking the ‘L.’ ”",
+    "Bibliography": "Moffat, Bruce G. The “L”: The Development of Chicago's Rapid Transit System, 1888–1932. 1995.",
+    "Author of Text": "Dennis McClendon",
+    "Hyperlinked Terms Associated": [
+        "rapid transit system",
+        "newspapers"
+    ]
+}

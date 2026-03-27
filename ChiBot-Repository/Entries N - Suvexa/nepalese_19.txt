@@ -1,0 +1,16 @@
+{
+    "Title": "Nepalese",
+    "Descriptive Text": "Estimated at approximately only two hundred individuals in the late 1990s, Chicago's Nepalese have been overshadowed by South Asian immigrants from India, Pakistan, Sri Lanka, and Bangladesh. While the community comprises a cross section of different ethnic groups, including Bahuns, Chhetris, and Tharus hailing from diverse areas of Nepal such as the Terai, Mid-Hills and Himalayan regions, most Nepalese in metropolitan Chicago tend to be Newa Bhaay (Newari)–speaking Newars from the Kathmandu valley.Few, if any, Nepalese emigrated to the United States prior to Nepal's 1951 revolution because of the isolationist policies of Nepal's Rana oligarchy (1846–1951). Chicago's Nepalese began to arrive in the mid-1970s. Most immigrants have tended to be highly educated medical professionals, educators, and business executives. The majority of Nepalese found homes in Chicago's northern suburbs, but they have not concentrated in any particular area.In the mid-1980s the Nepalese community began to establish a vibrant network of social, cultural, and charitable organizations. Besides celebrating cultural and religious occasions like Dasain, Tihar, and the Nepalese New Year, they have participated in local cultural events like Pacific Fest and Rogers Park interfaith community festivals. Nepalese Chicagoans have collaborated with the Journal of Newar Studies ( Newaah Vijnaana, based in Portland, Oregon), and participated in the annual South Asian conference in Madison, Wisconsin. The community also has maintained contacts with many non-Nepalese people in Chicago who have been to Nepal as Peace Corps volunteers, nongovernment organization workers, and academics in various fields. More recently the various Nepalese associations have been active in charitable activities geared toward furthering development in Nepal. In June 1999 Chicago's Nepalese community hosted the annual meeting of the America Nepal Medical Foundation, which consists of medical professionals from the United States, Canada, and Nepal who channel volunteer personnel, medical supplies, and education materials to Nepal.",
+    "Author of Text": "Gregory Price Grieve",
+    "Hyperlinked Terms Associated": [
+        "India",
+        "Pakistan",
+        "Sri Lanka",
+        "Bangladesh",
+        "Rogers Park"
+    ],
+    "Street addresses associated": [
+        "Edgewater",
+        "Rogers Park"
+    ]
+}

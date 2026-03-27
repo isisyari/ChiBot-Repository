@@ -1,0 +1,19 @@
+{
+    "Title": "House of the Good Shepherd / Chicago Industrial School for Girls",
+    "Descriptive Text": "Located on the North Side, the House of the Good Shepherd officially opened in 1859, when four Irish Sisters of the Good Shepherd arrived in Chicago from St. Louis to care for “abandoned women.” Over time the sisters extended their care from those accused of prostitution or disorderly conduct to delinquent and dependent girls. After the turn of the century, most residents (over 400 at the end of the century) found their way to this Roman Catholic institution through the Juvenile Court. Today, with public funding and major assistance from Catholic Charities, the House of the Good Shepherd shelters battered women with children.In 1889 the Good Shepherd Sisters established the Chicago Industrial School for Girls to provide vocational training and religious instruction to dependent girls. After much controversy during the 1880s, this school at 49th and Indiana received regular support from the county. In 1911 Bishop James E. Quigley moved the girls to the grounds of St. Mary's Training School (for boys) in Des Plaines so that sisters and brothers would live near one another. Refusing to give up their property, the Sisters of the Good Shepherd opened the Illinois Technical School for Colored Girls (both dependent and delinquent). They became the first nuns to serve African Americans on Chicago's South Side. In 1953, this “school-home” closed and became St. Euphrasia Day Nursery.",
+    "Author of Text": "Suellen Hoy",
+    "Hyperlinked Terms Associated": [
+        "Irish",
+        "prostitution",
+        "Roman Catholic",
+        "Juvenile Court",
+        "Catholic Charities",
+        "Des Plaines",
+        "African Americans",
+        "South Side"
+    ],
+    "Street addresses associated": [
+        "North Side",
+        "South Side"
+    ]
+}

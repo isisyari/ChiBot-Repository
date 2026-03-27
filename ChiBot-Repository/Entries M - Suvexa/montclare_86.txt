@@ -1,0 +1,28 @@
+{
+    "Title": "Montclare",
+    "Descriptive Text": "Community Area 18, 9 miles NW of the Loop. First attracted by a rolling landscape, William Sayre in 1836 laid claim “by right of possession” to 90 acres in what is now the Montclare Community Area. Unable to gain title to the land because of an inaccurate government survey, he bought the acreage at the Jefferson Township land sales in 1838. A year later he married Harriet Lovett, daughter of another area settler, in the first marriage of the township. They set up housekeeping in a newly built frame house in 1840.Sayre and his neighbors cleared fields of hay and tended main crops of oats and corn. Farmers used Grand Avenue as their main thoroughfare to the downtown markets in Chicago, where many hawked their produce from wagons at the Randolph Street Market. The return home was sometimes dangerous: along the dark, lonely road, farmers faced the threat of robbery or by the 1880s risked having their wagons hit by a train.In 1872 Sayre allowed the Chicago & Pacific Railroad Company right-of-way over his property, and Sayre Station was built on the farm. A year later another family farm in the area was platted by developers, who sold lots for $250 to $500. The town and the depot were named Montclare after Montclair, New Jersey.In 1873 the rail line failed and was taken over by the Chicago, Milwaukee & St. Paul Railroad (CM&SP). As a result, the only form of commuter transportation was a single daily train, reducing the desirability of the area. Lots remained vacant. Undaunted by a lack of new settlers, the some 120 residents went about their farming. Two schools were in evidence in 1884. Social activities focused on family, church, and Sunday School. Most residents were native-born, English, or German.Although Montclare was annexed by the city of Chicago in 1889, the first spurt of growth occurred in 1912, when the Grand Avenue streetcar line extended service to the area. The Sayre family contributed acreage for community use in 1916, which, along with another piece of donated property, later formed Rutherford-Sayre Park. The park was divided down the middle by the railroad tracks that marked the town's southern boundary.Settlement concentrated in the southeastern section near the depot, but was hampered until utilities and paved streets were added in the 1920s. Single-family structures, mainly standard bungalows, predominated in the area. Some residents found employment at light industrial plants along the CM&SP railroad lines that bounded Montclare on its eastern and southern edges; most workers crossed into neighboring communities where factories were more plentiful.Housing extended north of Diversey Avenue in the 1930s, a combination of bungalows, ranches, and Tudor houses. Hugging Chicago's western edge, Montclare retained an identity more suburban than urban. Pre– World War II commercial development was minimal; the only shopping was a retail strip at Grand and Harlem. In the 1960s the strip experienced decline and deterioration as stores left and newer shopping centers were built in nearby areas. But residential areas remained intact owing to good construction and property upkeep by conscientious residents.Population figures for 1970 showed 11,675, of which Poles, Italians, and Germans were the majority. These numbers decreased to 10,573 in the 1990 census, with Greeks, Ukrainians, Lithuanians, Lebanese, and a growing number of Hispanics (11 percent) adding to the mix. In the late 1980s a few African Americans moved into the neighborhood, prompting racially motivated incidents that induced groups such as the Galewood-Montclare Community Organization to devote their efforts to reducing tensions. At the close of the twentieth century Montclare still had only 297 African American residents, but the Hispanic proportion stood at 38 percent.",
+    "Bibliography": "Edwards, Brian. “Frontier Bargains: Tiny Montclare Offers Quiet Family Living Way Out West.” Chicago Tribune, August 24, 1990.Karlen, Harvey M. Chicago's Crabgrass Communities: The History of the Independent Suburbs and Their Post Offices That Became Part of Chicago. 1992, 163–166.Melaniphy & Associates, Inc. Chicago Comprehensive Neighborhood Needs Analysis, vol. 2. 1982, 16–23.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "Jefferson Township",
+        "housekeeping",
+        "Railroad",
+        "commuter",
+        "English",
+        "German",
+        "annexed",
+        "bungalows",
+        "World War II",
+        "Poles",
+        "Italians",
+        "Ukrainians",
+        "Lithuanians",
+        "Lebanese",
+        "Greeks",
+        "African Americans"
+    ],
+    "Street addresses associated": [
+        "Galewood",
+        "Montclare"
+    ]
+}

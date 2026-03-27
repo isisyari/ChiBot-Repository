@@ -1,0 +1,21 @@
+{
+    "Title": "Lincoln Park",
+    "Descriptive Text": "When Lincoln Park was named in 1865 to honor the assassinated president, the honor anticipated a more park-like setting than existed at the time. A cemetery at the site, active from the 1840s, did not cease burials until 1866, and graves were removed to more remote cemeteries for years afterward. Though the city had set aside land for a park, few improvements had been made, and the area's landscape appeared to contemporaries as a barren, sandy wasteland of wind-blown dunes and unstable shorelines.The state created the Lincoln Park Commission as a special district, one of three Chicago-area park districts, in 1869, with authority over lakefront land between North and Diversey Avenues. In the following decades workers excavated artificial ponds, mixed tons of clay and manure into the sand, and, after some failed experiments, largely stabilized the shoreline. By the end of the century many enduring features of the park were in place, including abundant greenery, fountains and statuary, winding walkways, bicycle paths, and the beginnings of the Lincoln Park Zoo (1868), Lake Shore Drive (1875), and the Lincoln Park Conservatory (1892).In 1895 the state legislature prepared the way for the park's expansion to the north by granting the commission the right to reclaim submerged lands along the lakeshore as far north as Devon Avenue. Lincoln Park joined in the consolidation of park districts that created the Chicago Park District in 1934.In addition to recreational facilities and programs including beaches, picnic grounds, tennis courts, athletic fields, and summer theater, Lincoln Park has become home to the Chicago Academy of Sciences, which relocated in 1893 and reopened in 1999 as the Peggy Notebaert Nature Museum, and the Chicago Historical Society, which relocated in 1932.",
+    "Bibliography": "Bryan, I. J. Report of the Commissioners and a History of Lincoln Park. 1899.",
+    "Author of Text": "Douglas Knox",
+    "Hyperlinked Terms Associated": [
+        "cemeteries",
+        "special district",
+        "park districts",
+        "Lincoln Park Zoo",
+        "bicycle paths",
+        "Conservatory",
+        "tennis",
+        "theater",
+        "Chicago Academy of Sciences",
+        "Chicago Historical Society"
+    ],
+    "Street addresses associated": [
+        "Lincoln Park"
+    ]
+}

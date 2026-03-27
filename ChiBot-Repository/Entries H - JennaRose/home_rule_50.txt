@@ -1,0 +1,22 @@
+{
+    "Title": "Home Rule",
+    "Descriptive Text": "Throughout much of its history, Chicago has sought home rule, the power to determine its structure of government and municipal policies without interference from Springfield. Illinois' constitution of 1870 prohibited special legislation regarding city government, and two years later the state legislature approved a general law for the government of municipalities. But the state's largest metropolis had special needs, and by the turn of the century Chicago leaders were clamoring for an exception to the prohibition on special laws. In 1904 they secured the necessary constitutional amendment, which provided that special legislation for Chicago would take effect only if approved by the city's voters. Exploiting this opportunity for a degree of home rule, a local convention drafted a new municipal charter, but it was much amended in Springfield and defeated in a 1907 referendum.Illinois' proposed constitution of 1922 included a home rule provision for cities, but the state's electorate overwhelmingly rejected the document. In a 1927 referendum Chicago voters supported home rule by a four-to-one majority, and throughout the late 1920s and early 1930s angry Chicagoans talked of secession from Illinois and separate statehood. A home rule commission in the 1950s produced many recommendations but little action. Finally, in 1970 Illinois adopted a new constitution which designated any municipality with a population greater than 25,000 as a home rule unit, securing for Chicago the power to handle most municipal matters without seeking permission from Springfield. With the assent of the local electorate, less populous municipalities could choose home rule status, and the first to do so were the Cook County communities of McCook, Bedford Park, Rosemont, Countryside, and Stone Park.",
+    "Bibliography": "Chicago Home Rule Commission. Modernizing a City Government. 1954.Flanagan, Maureen A. Charter Reform in Chicago. 1987.Lepawsky, Albert. Home Rule for Metropolitan Chicago. 1935.",
+    "Author of Text": "Jon C. Teaford",
+    "Hyperlinked Terms Associated": [
+        "government",
+        "charter",
+        "McCook",
+        "Bedford Park",
+        "Rosemont",
+        "Countryside",
+        "Stone Park"
+    ],
+    "Street addresses associated": [
+        "McCook",
+        "Bedford Park",
+        "Rosemont",
+        "Countryside",
+        "Stone Park"
+    ]
+}

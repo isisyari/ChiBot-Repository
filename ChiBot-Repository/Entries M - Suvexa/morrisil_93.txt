@@ -1,0 +1,9 @@
+{
+    "Title": "Morris, IL",
+    "Descriptive Text": "Grundy County, 54 miles SW of the Loop. Morris was platted in 1842 and incorporated in 1850. Named for Isaac N. Morris, a commissioner for the Illinois & Michigan Canal, the city became an important regional shipping center with the completion of the canal. A diversified industrial base has fueled the town's twentieth-century economy. Morris's population numbered 11,928 in 2000, up from 8,144 in 1970.",
+    "Bibliography": "Conzen, Michael P., and Valerie M. McKay, eds. Canal Town and County Seat: The Historical Geography of Morris. 1994.",
+    "Author of Text": "Brandon Johnson",
+    "Hyperlinked Terms Associated": [
+        "Illinois & Michigan Canal"
+    ]
+}

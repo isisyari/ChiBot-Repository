@@ -1,0 +1,13 @@
+{
+    "Title": "Orland Hills, IL",
+    "Descriptive Text": "Cook County, 23 miles SW of the Loop. A village of one and a half square miles, Orland Hills borders neighboring Orland Park on the west and north and Tinley Park to the east and south. Driving through fast-growing Orland Township it is difficult to know when one has slipped from one of these villages into the other.For countless centuries, the area of Orland Hills, as with much of the south metropolitan region, was predominantly open prairie. Large wooded areas and marshes existed to the north, but the immediate ground was prairie with small wetlands.Along what would be the village's western edge, an ancient Indian trail led north into the rich hunting areas of the Saganaskie Swamp. The land of Orland Hills was first sold in 1836–37 to six men, most likely land speculators. There is evidence of established farms by the end of the 1850s.With the exception of minor growth in the small village of Orland Park, Orland Township maintained a stable rural population for a hundred years. Throughout the south suburbs, however, growth exploded in the 1950s.Part of this growth in the late 1950s was a small subdivision of a little over 100 homes at the intersection of 167th Street and 94th Avenue. Open farm country separated this subdivision from the villages of Orland Park and Tinley Park, which also were beginning to grow rapidly. To gain municipal services, the residents of this subdivision incorporated as the Village of Westhaven in 1961.As with many small communities, Westhaven experienced a variety of financial and administrative difficulties in its early years. Initial growth was slow. Its first request for new housing permits came in 1970, nine years after incorporation. But that began additional new construction and land annexations. In 1971, the Wittich Memorial Church began work on a subdivision called Christian Hills.In 1986, the name of the village was changed to Orland Hills so that it would be more closely and clearly identified as part of Orland Township and the Orland Park area. Commercial development along 159th Street and parts of 94th Avenue has emerged in the 1990s. During development several areas were preserved as wetlands and recreation, including a small lake.From an isolated subdivision set in the midst of farmland about 40 years ago, Orland Hills grew to a population of 6,779 by 2000.",
+    "Bibliography": "McClellan, Larry. “How, Why Westhaven Became Orland Hills.” Star, September 27, 1998.",
+    "Author of Text": "Larry A. McClellan",
+    "Hyperlinked Terms Associated": [
+        "Orland Park",
+        "Tinley Park",
+        "Indian",
+        "subdivision",
+        "annexations"
+    ]
+}

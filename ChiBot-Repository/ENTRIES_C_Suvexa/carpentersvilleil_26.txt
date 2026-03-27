@@ -1,0 +1,22 @@
+{
+    "Title": "Carpentersville, IL",
+    "Descriptive Text": "Kane County, 37 miles NW of the Loop. Carpentersville had its origins in 1837 when the rising Fox River prevented Charles and Daniel Carpenter from traveling west. They decided to stay and began a settlement that they named Carpenter's Grove. In 1851 Charles's son, Angelo, platted the land and renamed the town Carpentersville, which was incorporated in 1887. He acquired a dam and then a mill, which he converted into a yarn and flannel factory. Progress of the new industry was evident along the riverbank, where fabrics doused in colorful dyes were hung to dry.In 1864 Carpenter established an iron foundry and blacksmith shop called the Illinois Iron & Bolt Company. The company later acquired the Star Manufacturing Company, which produced agricultural machinery. During the 1870s and 1880s German, Swedish, and Polish immigrants came to work in the factories. Carpenter housed the workers, built a church, and held cultural events. Although he moved to Elgin in 1875, Carpenter continued his business interests in Carpentersville. He persuaded the Chicago & North Western Railroad to extend its tracks from East Dundee to the area and built an iron bridge with his own funds to accommodate the rail line. By 1912 Carpenter's two companies employed 2,000 people. Star Manufacturing remained in Carpentersville until 1977.The community remained small until the mid-1950s, when gentleman farmer Leonard W. Besinger began a community named Meadowdale north of Carpentersville. By 1956 Besinger had accumulated more than 2,600 acres. Other area residents thwarted his attempts to incorporate Meadowdale as an independent town. So Besinger had Carpentersville annex the property.In its first two years, more than 700 houses were sold in Meadowdale. The prefabricated homes were economically priced, and had no basements. A carport served as a garage. Lots were small and living space averaged 960 square feet. Prospective buyers toured model homes and sometimes waited three to four hours for a salesperson, but by 1982 the complex consisted of 6,000 houses and approximately 1,000 apartment units.Meadowdale Shopping Center was built in 1957 as an early regional mall, featuring a restaurant overlooking a skating area. When the Northwest Tollway opened in 1958, it offered commuters easier access to the community. That same year, Besinger built Meadowdale Raceway (later Illinois International Speedway), which attracted as many as 200,000 spectators at a time. The track was plagued with problems, however and closed in 1970.In 1992 the village annexed 1,100 acres of farmland to the west. In an attempt to bring a new image to the area, housing developments advertised their location as “West Carpentersville.” The village's population remained around 23,000 from 1970 to 1990 but grew to 30,586 in 2000.",
+    "Bibliography": "“Provisional League of Women Voters.” Fox Valley Four 1971.Bullinger, Carolyn J., ed. Dundee Township, 1835–1985. 1985.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "Fox River",
+        "iron",
+        "agricultural machinery",
+        "German",
+        "Swedish",
+        "Polish",
+        "Elgin",
+        "Railroad",
+        "East Dundee",
+        "annex",
+        "apartment",
+        "skating",
+        "Tollway",
+        "commuters"
+    ]
+}

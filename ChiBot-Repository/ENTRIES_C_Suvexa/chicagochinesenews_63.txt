@@ -1,0 +1,15 @@
+{
+    "Title": "Chicago Chinese News",
+    "Descriptive Text": "Chicago Chinese News began publishing in 1991 under the name Chicago Chinese Times. In 1998, the daily newspaper was renamed and changed to a weekly publication. A subsidiary of Houston-based Southern Chinese Newspaper Group (SCNG), CCN at the turn of the century maintained the highest circulation of the area's Chinese -language newspapers at 10,000. SCNG also was publishing newspapers in eight other U.S. cities, and its Taipei office was covering news from Taiwan, Hong Kong, and the People's Republic of China. The Chicago Chinatown office had four reporters covering local news.With its international organization, CCN stands in sharp contrast to Chicago's earlier Chinese newspapers, the first of which, the semimonthly Chinese American, began publication in 1893. Since then, several political and community organizations have published their own newspapers, though they were often poorly funded and appeared infrequently and briefly. With the growth of Chinese communities after the passage of the 1965 Immigration Act, however, Chicago Chinese News serves as an excellent example of Chinese newspapers in metropolitan America.",
+    "Bibliography": "Lai, Him Mark, and Karl Lo. Chinese Newspapers Published in North America, 1854–1975. 1977, 5; 24–32.Moy, Susan Lee. “The Chinese in Chicago: The First One Hundred Years, 1870–1970.” M.A. thesis, University of Wisconsin–Madison. 1978, 106–107.Moy, Susan Lee. “The Chinese in Chicago: The First One Hundred Years.” In Ethnic Chicago: A Multicultural Portrait, ed. Melvin G. Holli and Peter d'A. Jones, 1995, 378–408.",
+    "Author of Text": "Mary Ting Yi Lui",
+    "Hyperlinked Terms Associated": [
+        "newspaper",
+        "Chinese",
+        "Chinese",
+        "Chinatown"
+    ],
+    "Street addresses associated": [
+        "Chinatown"
+    ]
+}

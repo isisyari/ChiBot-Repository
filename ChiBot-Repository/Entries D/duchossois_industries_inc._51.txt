@@ -1,0 +1,9 @@
+{
+    "Title": "Duchossois Industries Inc.",
+    "Descriptive Text": "The Thrall Car Manufacturing Co. was founded in Chicago Heights in 1917. In 1946, Thrall was a small railroad equipment maker, with about 35 employees and $200,000 in annual sales. Richard L. Duchossois, a native of Chicago's South Side, joined the company after serving in World War II and marrying Beverly Thrall, daughter of the head of the firm. By the 1970s, the company was making as many as 90,000 railcars a year; but annual production dropped to about 10,000 cars during the 1980s, when annual sales were around $750 million. Meanwhile, Duchossois, who created a parent company named after himself that expanded into electronic consumer products, national defense supplies, and various capital goods, moved into the horse racing business by purchasing facilities in suburban Arlington Heights. By the mid-1990s, when railcar production reached 50,000 per year, annual revenues from horse racing approached $600 million. In 2001, Thrall was purchased by Trinity Industries of Dallas, Texas, a leading railcar manufacturer. At the beginning of the twenty-first century, the privately held company led by Craig Duchossois (Richard's son), still employed about 1,500 people in the Chicago area and grossed about $1 billion in annual sales.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff.",
+    "Street addresses associated": [
+        "Arlington Heights",
+        "South Side"
+    ]
+}

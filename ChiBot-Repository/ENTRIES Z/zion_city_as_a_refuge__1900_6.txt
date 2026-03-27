@@ -1,0 +1,6 @@
+{
+    "Title": "Zion City as a Refuge, 1900",
+    "Descriptive Text": "John Alexander Dowie and his followers sought to escape what they saw as the lawlessness and sin of American society by establishing a carefully planned utopia, Zion, in northern Lake County, with Dowie as \"general overseer.\" In the first issue of the paper he edited, The Coming City (June 27, 1900), he declared: \"Zion City will be built by Theocrats. It will be run by Theocrats. It will aim to overthrow Democracy, and establish Theocracy over all the earth, and sea, and in deepest hell, even as God rules in highest heaven.\"",
+    "Creator (Photographer)": "The Coming City",
+    "Source": "Newberry Library (Case +D 624.187)"
+}

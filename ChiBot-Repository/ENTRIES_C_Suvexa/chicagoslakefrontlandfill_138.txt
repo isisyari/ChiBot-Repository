@@ -1,0 +1,4 @@
+{
+    "Title": "Chicago's Lakefront Landfill",
+    "Descriptive Text": "In some places, Chicago's downtown shoreline lies a half-mile east of where early European settlers found it, the result of landfills created for private profit and public improvements. The Chicago River was given a direct entrance to the lake, and in 1852 the Illinois Central Railroad was allowed to enter the city on an offshore trestle, entrapping a basin that soon became a polluted backwater and which was filled in with debris from the Fire of 1871. Groins built to protect the river mouth caught sand currents from the north in the Streeterville area, where landowners also undertook landfill operations. Lincoln Park was expanded into the lake beginning in the 1880s, while Grant and Burnham Parks were greatly enlarged by landfill, as suggested in the 1909 Plan of Chicago. The Plan also recommended a chain of offshore islands, of which only Northerly Island was actually built."
+}

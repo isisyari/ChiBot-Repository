@@ -1,0 +1,4 @@
+{
+    "Title": "West toward Dearborn Street Bridge, 1918",
+    "Descriptive Text": "This 1918 photograph shows the approach to the Dearborn Street Bridge looking north across the Chicago River. Note both the horse drawn wagons and the electric streetcars in use."
+}

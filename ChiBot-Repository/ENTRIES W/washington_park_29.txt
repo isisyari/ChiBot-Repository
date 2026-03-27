@@ -1,0 +1,36 @@
+{
+    "Title": "Washington Park",
+    "Descriptive Text": "Community Area 40, 7 miles S of the Loop. Washington Park takes its name from the recreational area situated along the eastern border of the community, stretching from 51st to 60th streets along Cottage Grove Avenue. The western edge of Washington Park is the Chicago, Rock Island & Pacific Railroad. Low-lying and swampy prior to being dredged in 1884, the western portion of Washington Park was settled by Irish and German railroad and meatpacking workers in the 1860s and 1870s. By the 1890s German Jews had begun to settle in east Washington Park, a small number of African Americans had moved into the working-class district south of Garfield and west of State Street, and affluent American-born whites settled on the wide avenues that ran northward from the area into Chicago. This amalgam of ethnicities and classes made Washington Park an early example of neighborhood diversity and suburban development.Transportation routes stimulated rapid growth in Washington Park during the latter part of the nineteenth century. By 1887 cable cars reached 63rd on State Street, and 67th on Cottage Grove. The “ L ” train reached beyond 55th Street by 1892, and in 1907 extended the length of Washington Park into the Woodlawn area. The wide boulevards in the Washington Park area also contributed to the growth of the community. These avenues attracted wealthy Chicagoans, who built mansions and elegant apartments on Grand Boulevard (now Dr. Martin Luther King Jr. Drive), and Calumet, Indiana, and Michigan Avenues. The boulevards, along with the cable cars and the elevated trains, provided easy access to Chicago's central business district, making Washington Park an attractive location for the working class of the western section, as well as for the wealthy and middle-class residents of the eastern portion of the area.A boom in the construction of apartments around the turn of the century played a role in the racial transition of Washington Park. As Chicago's African American ghetto expanded southward during the Great Migration, blacks gained entrance into the large number of apartments in Washington Park, many of which had been converted into kitchenettes. Native whites, German Jews, and other ethnic groups moved to points south and north in Chicago, and Washington Park was transformed into a largely black neighborhood (92 percent) as early as 1930. The area's racial transition was rapid and punctuated with violence. A stark example of conflicts to follow, Washington Park, along with the Grand Boulevard community, became a hotbed of racial tension during the Race Riot of 1919.The cultural and religious institutions of Washington Park have reflected the area's racial transition and its predominately black population. St. Anselm Church, built in 1909 by Irish Catholics and celebrated in the James T. Farrell trilogy, Studs Lonigan, became a black parish in the early 1930s. Greek Orthodox residents built SS. Constantine and Helen also in 1909 at 61st and Michigan. In 1948, the building was taken over by the Church of St. Edmund, an Episcopal congregation that had been formed in Washington Park in 1905 and was entirely African American by 1928. B'nai Sholom Temple Israel at 5301 S. Michigan was sold to black Baptists and became Bethesda Baptist Church in 1925. St. Mary's African Methodist Episcopal Church at 52nd and Dearborn was established in 1897 and is the oldest black congregation in the area. The DuSable Museum of African American History (1961) is a Washington Park landmark, having moved to the area in 1973. This nonprofit institution devoted to the collection and preservation of African American history and culture is one of the largest African American museums in the country.In more recent years Washington Park has been associated with poverty, urban blight, and public housing. The area has contained one of the highest concentrations of public housing in the United States, and along with the Washington Park Homes (1962), contains roughly a third of the largest housing complex in the world, the Robert Taylor Homes (1962). The presence of industry in Washington Park has been negligible; nor is there any significant commercial center. Since 1950, and due in part to the initiatives of the Chicago Land Clearance Commission, the population of the community has declined, down from nearly 57,000 in 1950 to 14,146 in 2000. As the twentieth century drew to a close, nearly half of Washington Park residents lived below the poverty level.",
+    "Bibliography": "Chicago Fact Book Consortium, ed. Local Community Fact Book: Chicago Metropolitan Area, 1990. 1995.Cutler, Irving. Chicago: Metropolis of the Mid-Continent. 3rd ed. 1982.Pacyga, Dominic A., and Ellen Skerrett. Chicago, City of Neighborhoods: Histories and Tours. 1986.",
+    "Author of Text": "Wallace Best",
+    "Hyperlinked Terms Associated": [
+        "Washington Park",
+        "Railroad",
+        "Irish",
+        "German",
+        "meatpacking",
+        "Jews",
+        "Americans",
+        "African",
+        "Transportation",
+        "L",
+        "Woodlawn",
+        "apartments",
+        "Great Migration",
+        "kitchenettes",
+        "Grand Boulevard",
+        "Race Riot",
+        "religious institutions",
+        "Greek",
+        "DuSable Museum",
+        "Public housing",
+        "Robert Taylor Homes"
+    ],
+    "Historical Sources Associated (Title, Source, and Link)": "Washington Park",
+    "Street addresses associated": [
+        "Washington Heights",
+        "Beverly",
+        "Englewood",
+        "Greater Grand Crossing"
+    ]
+}

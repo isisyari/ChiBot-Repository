@@ -1,0 +1,6 @@
+{
+    "Title": "La Leche League",
+    "Descriptive Text": "The La Leche League is a voluntary association of women established in 1956 in a Near West Chicago suburb, to promote “good mothering through breastfeeding.” During a time of rapidly changing parenting practices and gender roles, the league spread its message around the world through the organization of small discussion groups and the sale of millions of books and pamphlets, especially the best-seller, The Womanly Art of Breastfeeding. By offering a strong defense of traditional motherhood, combined with an assertion of female expertise in child rearing, the league contributed to the increased popularity of breastfeeding during the postwar era.",
+    "Bibliography": "Weiner, Lynn. “Reconstructing Motherhood: The La Leche League in Postwar America.” Journal of American History (March 1994): 1357–1381.",
+    "Author of Text": "Lynn Y. Weiner"
+}

@@ -1,0 +1,16 @@
+{
+    "Title": "Hawthorn Woods, IL",
+    "Descriptive Text": "Lake County, 32 miles NW of the Loop. The Potawatomi left the area of what is now Hawthorn Woods following a treaty with the United States in 1829, and Yankee farmers moved in. German im- migrants followed in the 1850s, and later Dutch farmers arrived. After the turn of the century, Chicagoans took weekend excursions to the area to walk on hiking paths through heavily wooded terrain.In 1945 Matt and Germaine Larson purchased a forest farm located on Old McHenry Road. Oak, hickory, hawthorn, and elm trees surrounded the farmhouse. In 1953 Matt Larson began development of the wooded area with sprawling ranch-style houses on large lots. Wanting to retain the rural atmosphere and to avoid the overcutting of trees, he stipulated that no trees could be removed without his permission. The houses were mainly cedar and redwood and all building materials had to meet Larson's approval. In 1967 a barn from the original farm became the village hall.The town of Hawthorn Woods consisted of only 141 residents on 976 acres at incorporation in 1958. Incorporation came as a result of citizens wishing to protect their environment from the dense development proposed by Chicago builder Joseph Brickman. A limit on lot size for new development was set at a minimum of one acre.The village grew to 6,002 by 2000; the majority of homeowners are white-collar professionals. Development has remained limited; only custom houses may be built in Hawthorn Woods. House styles range from historic farmhouses to mansions.",
+    "Bibliography": "“Hawthorne Woods.” Ela Township Centennial Guidebook. 1965.Loomis, Spencer. A Pictorial History of Ela Township. 1994.",
+    "Author of Text": "Marilyn Elizabeth Perry",
+    "Hyperlinked Terms Associated": [
+        "Potawatomi",
+        "Yankee",
+        "German",
+        "Dutch",
+        "trees"
+    ],
+    "Street addresses associated": [
+        "Hawthorn Woods"
+    ]
+}

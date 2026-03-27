@@ -1,0 +1,21 @@
+{
+    "Title": "North Barrington, IL",
+    "Descriptive Text": "Lake County, 34 miles NW of the Loop. At the end of the 1800s, the village of Barrington served as a trading center for dairy farmers, whose herds roamed the oak-covered hills and marshlands north of the village. The marshlands prevented the spread of development that was occurring west of Barrington until the advent of hard-surfaced roads following World War I.As estate development moved north of Barrington in the 1920s, dairy farming faded. In 1926 a subdivision including a private country club, the Biltmore, was developed. Believing that the subdivision was too densely populated, estate residents formed the North Bar- rington Association in 1934 to preserve the area's rural country atmosphere.The Great Depression and World War II halted development to the north of Barrington until the early 1950s. By then, the governments of Cuba Township (in which most of the North Barrington Association resided) and Lake County began thinking of allowing home construction on half-acre lots. Residents heard that developments of such density were planned for nearby Indian Lake, renamed Lake Barrington by a developer. To the east, Lake Zurich, supporting high-density zoning, was expanding west of Rand Road (U.S. Route 12) toward the Biltmore Country Club. To gain local control of zoning in order to stave off such development, which they believed would destroy the area's rural charm and decrease property values, North Barrington Association residents voted to incorporate. Incorporation was accomplished on October 31, 1959, the same day that Lake Barrington incorporated with a denser zoning plan. Richard Anderson became the first president of North Barrington.For a time the Biltmore development was not a part of North Barrington, but after a struggle the club, with its somewhat higher population density, was annexed. Even then, in 1970 only 1,411 people were living in the village. By 1980, while other area communities experienced massive growth, North Barrington grew to just 1,475 residents.As Lake Zurich expanded, North Barrington, to protect its low-density properties, annexed lands to the east called Wynstone. In 1985, W. Clement Stone presented a plan to turn 370 acres of that annexation into an exclusive golf course and residential area designed by the Jack Nicklaus Development Corporation. The plan was accepted as a buttress against expansion by Lake Zurich, and the residential portion quickly filled with expensive homes.By the end of the century North Barrington contained about 2,500 residents on 2,950 acres. Because such low density provided a tax base for only minimal municipal services, North Barrington contracted out for police, fire, and road services. An attempt was made to expand the completely residential tax base by approving an upscale shopping mall within the village east of Rand Road north of Lake Zurich, but opposition from long-term residents quickly developed and the plan was put on hold. Residents also struggled with the issue of the placement of cellular telephone towers in and around the community. The leadership of North Barrington continues to search for a balance between low-density rural charm and the need for revenue to provide basic municipal services.",
+    "Bibliography": "The Founding of North Barrington. Videocassette. North Barrington Village Hall. May 4, 1996.Handley, John. “A Tale of Two Country Clubs.” Chicago Tribune, April 30, 1994.The Village of North Barrington. Pamphlet. N.d.",
+    "Author of Text": "Craig L. Pfannkuche",
+    "Hyperlinked Terms Associated": [
+        "Barrington",
+        "subdivision",
+        "Great Depression",
+        "World War II",
+        "Lake County",
+        "Lake Barrington",
+        "Lake Zurich",
+        "zoning",
+        "annexation",
+        "golf",
+        "police",
+        "fire",
+        "telephone"
+    ]
+}

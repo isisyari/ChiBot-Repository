@@ -1,0 +1,5 @@
+{
+    "Title": "Horner (Henry) & Co.",
+    "Descriptive Text": "Henry Horner founded a grocery store in Chicago in 1842, two years after he emigrated from Bohemia. Horner's first store, at Randolph and Canal Streets, was one of Chicago's earliest retail groceries; Horner started a wholesaling operation in 1856. After Horner died in 1878, his wife Hannah and his four sons took charge of the business, which became one of the leading grocery wholesalers in the Midwest. In 1921, Horner & Co. merged with other companies to become Durand, McNeil, Horner Co.; it was no longer among the region's leading food distributors.",
+    "Bibliography": "This entry is part of the Encyclopedia's Dictionary of Leading Chicago Businesses (1820-2000) that was prepared by Mark R. Wilson, with additional contributions from Stephen R. Porter and Janice L. Reiff."
+}
