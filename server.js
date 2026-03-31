@@ -315,8 +315,8 @@ const server = http.createServer((req, res) => {
                 const { systemPrompt, messages } = JSON.parse(body);
 
                 const requestData = JSON.stringify({
-                    model: 'claude-sonnet-4-20250514',
-                    max_tokens: 1024,
+                    model: 'claude-3-haiku-20240307',
+                    max_tokens: 512,  // Reduced for faster responses
                     system: systemPrompt,
                     messages: messages
                 });
