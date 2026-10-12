@@ -138,7 +138,7 @@ function parseCSV(csvText) {
                 Latitude: fields.Latitude ? parseFloat(fields.Latitude) : null,
                 Longitude: fields.Longitude ? parseFloat(fields.Longitude) : null,
                 Neighborhood: fields.Neighborhood || '',
-                Photo_File: fields.Photo_File ? [{ url: fields.Photo_File }] : [],
+                Photo_File: fields.Photo_File ? [{ url: fixPhotoUrl(fields.Photo_File) }] : [],
                 Photographer: fields.Photographer || '',
                 Photo_Date: fields['Photo Date'] || '',
                 Source_URL: fields['Source URL'] || ''
@@ -147,6 +147,19 @@ function parseCSV(csvText) {
     }
 
     return { records };
+}
+
+// The Chicago History Museum moved its image CDN. Links in the spreadsheet use the old path:
+//   https://images.chicagohistory.org/cdn/chicagohistorymuseum/previews/{N}/{hash1}/{K}/{hash2}/{assetId}.jpg
+// The current path inserts the asset ID after {N} and uses the fe-cdn/chm prefix:
+//   https://images.chicagohistory.org/fe-cdn/chm/previews/{N}/{assetId}/{hash1}/{K}/{hash2}/{assetId}.jpg
+// Rewrite on the fly so the sheet keeps working without editing every row.
+const OLD_CDN_PATTERN = /^https:\/\/images\.chicagohistory\.org\/cdn\/chicagohistorymuseum\/previews\/(\d+)\/([0-9a-f]+)\/(\d+)\/([0-9a-f]+)\/(\d+)\.jpg$/i;
+function fixPhotoUrl(url) {
+    const m = OLD_CDN_PATTERN.exec(url || '');
+    if (!m) return url;
+    const [, n, hash1, k, hash2, assetId] = m;
+    return `https://images.chicagohistory.org/fe-cdn/chm/previews/${n}/${assetId}/${hash1}/${k}/${hash2}/${assetId}.jpg`;
 }
 
 // Parse a single CSV line (handles quoted fields with commas)
