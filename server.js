@@ -101,20 +101,115 @@ loadEncyclopedia();
 // Load API keys from environment variables
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
-// Google Sheets CSV URL (public)
-const GOOGLE_SHEETS_ID = '1qEFwB4SBhQP8StMvA3dqW4law1MCL822lSv_2LBrJIs';
-const GOOGLE_SHEETS_CSV_URL = `https://docs.google.com/spreadsheets/d/${GOOGLE_SHEETS_ID}/gviz/tq?tqx=out:csv`;
-
 // Verify keys are loaded
 if (!ANTHROPIC_API_KEY) {
     console.error('ERROR: Missing ANTHROPIC_API_KEY in .env file!');
     process.exit(1);
 }
 
-// Simple CSV parser
-function parseCSV(csvText) {
+// ============ COLLECTIONS (MAP LAYERS) ============
+// Each collection is one map layer, backed by its own public Google Sheet.
+// Every sheet must use the same column headers (see maxwell_street_template.csv):
+//   Name, Title, Description, Year, Street_Address, Latitude, Longitude, Neighborhood,
+//   Photo_File, Photographer, Photo Date, Source URL, Catalog_Record_ID, Permalink
+// The server tags every record with `Collection` (the id below) so the front end can
+// toggle layers by filtering on that one field.
+//
+// To add a collection: add an entry here (or set its sheet id in .env), nothing else.
+const COLLECTIONS = [
+    {
+        id: 'building-clearance',
+        name: 'Chicago Building Clearance Collection',
+        description: 'Photographs of buildings slated for demolition, 1950s-1960s. Gift of Neil Kane.',
+        sheetId: process.env.BUILDING_CLEARANCE_SHEET_ID || '1qEFwB4SBhQP8StMvA3dqW4law1MCL822lSv_2LBrJIs'
+    },
+    {
+        id: 'maxwell-street',
+        name: 'Maxwell Street Collection',
+        description: 'Photographs and media documenting the Maxwell Street Market and Near West Side.',
+        sheetId: process.env.MAXWELL_STREET_SHEET_ID || ''
+    }
+];
+
+const CACHE_TTL_MS = 5 * 60 * 1000; // re-fetch a sheet at most every 5 minutes
+const sheetCache = {}; // collectionId -> { fetchedAt, records }
+
+function sheetCsvUrl(sheetId) {
+    return `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?tqx=out:csv`;
+}
+
+// GET a URL and resolve with the body text, following one level of redirects
+// (Google Sheets usually redirects the CSV export).
+function fetchText(urlString, redirectsLeft = 3) {
+    return new Promise((resolve, reject) => {
+        const target = new URL(urlString);
+        const options = {
+            hostname: target.hostname,
+            path: target.pathname + target.search,
+            method: 'GET',
+            headers: { 'User-Agent': 'ChiBot/1.0' }
+        };
+        https.request(options, (apiRes) => {
+            if ((apiRes.statusCode === 301 || apiRes.statusCode === 302) && apiRes.headers.location) {
+                apiRes.resume();
+                if (redirectsLeft <= 0) return reject(new Error('Too many redirects'));
+                return fetchText(apiRes.headers.location, redirectsLeft - 1).then(resolve, reject);
+            }
+            if (apiRes.statusCode !== 200) {
+                apiRes.resume();
+                return reject(new Error(`HTTP ${apiRes.statusCode} from ${target.hostname}`));
+            }
+            let data = '';
+            apiRes.on('data', chunk => { data += chunk; });
+            apiRes.on('end', () => resolve(data));
+        }).on('error', reject).end();
+    });
+}
+
+// Fetch and normalize one collection's records, using the cache when fresh.
+async function loadCollection(collection) {
+    if (!collection.sheetId) return []; // registered but no sheet yet
+
+    const cached = sheetCache[collection.id];
+    if (cached && Date.now() - cached.fetchedAt < CACHE_TTL_MS) return cached.records;
+
+    const csv = await fetchText(sheetCsvUrl(collection.sheetId));
+    const records = parseCSV(csv, collection);
+    sheetCache[collection.id] = { fetchedAt: Date.now(), records };
+    console.log(`📷 ${collection.id}: loaded ${records.length} records`);
+    return records;
+}
+
+// Load several collections in parallel. A failing sheet logs an error and
+// contributes zero records instead of failing the whole response.
+async function loadCollections(collections) {
+    const results = await Promise.all(collections.map(async (c) => {
+        try {
+            return await loadCollection(c);
+        } catch (e) {
+            console.error(`Collection "${c.id}" failed to load:`, e.message);
+            return [];
+        }
+    }));
+    return results.flat();
+}
+
+// Case/space-insensitive header lookup so sheets can use "Photo Date" or "Photo_Date".
+function pick(fields, ...names) {
+    for (const name of names) {
+        if (fields[name] !== undefined && fields[name] !== '') return fields[name];
+    }
+    return '';
+}
+
+function normalizeHeader(h) {
+    return h.replace(/^﻿/, '').trim();
+}
+
+// Parse a sheet's CSV into normalized map records tagged with the collection.
+function parseCSV(csvText, collection) {
     const lines = csvText.split('\n');
-    const headers = parseCSVLine(lines[0]);
+    const headers = parseCSVLine(lines[0]).map(normalizeHeader);
     const records = [];
 
     for (let i = 1; i < lines.length; i++) {
@@ -126,27 +221,34 @@ function parseCSV(csvText) {
             fields[header] = values[index] || '';
         });
 
-        // Transform to match expected format (like Airtable)
+        const photoUrl = pick(fields, 'Photo_File', 'Photo File', 'Photo_URL');
+        const lat = pick(fields, 'Latitude', 'Lat');
+        const lng = pick(fields, 'Longitude', 'Lng', 'Long');
+
         records.push({
-            id: `rec${i}`,
+            id: `${collection.id}-${i}`,
             fields: {
-                Name: fields.Name || fields.Title || '',
-                Title: fields.Title || '',
-                Description: fields.Description || '',
-                Year: fields.Year || '',
-                Street_Address: fields.Street_Address || '',
-                Latitude: fields.Latitude ? parseFloat(fields.Latitude) : null,
-                Longitude: fields.Longitude ? parseFloat(fields.Longitude) : null,
-                Neighborhood: fields.Neighborhood || '',
-                Photo_File: fields.Photo_File ? [{ url: fixPhotoUrl(fields.Photo_File) }] : [],
-                Photographer: fields.Photographer || '',
-                Photo_Date: fields['Photo Date'] || '',
-                Source_URL: fields['Source URL'] || ''
+                Collection: collection.id,
+                Collection_Name: collection.name,
+                Name: pick(fields, 'Name', 'Title'),
+                Title: pick(fields, 'Title'),
+                Description: pick(fields, 'Description'),
+                Year: pick(fields, 'Year'),
+                Street_Address: pick(fields, 'Street_Address', 'Street Address', 'Address'),
+                Latitude: lat ? parseFloat(lat) : null,
+                Longitude: lng ? parseFloat(lng) : null,
+                Neighborhood: pick(fields, 'Neighborhood'),
+                Photo_File: photoUrl ? [{ url: fixPhotoUrl(photoUrl) }] : [],
+                Photographer: pick(fields, 'Photographer', 'Creator'),
+                Photo_Date: pick(fields, 'Photo Date', 'Photo_Date', 'Date'),
+                Source_URL: pick(fields, 'Source URL', 'Source_URL'),
+                Catalog_Record_ID: pick(fields, 'Catalog_Record_ID', 'Catalog Record ID'),
+                Permalink: pick(fields, 'Permalink', 'Catalog record')
             }
         });
     }
 
-    return { records };
+    return records;
 }
 
 // The Chicago History Museum moved its image CDN. Links in the spreadsheet use the old path:
@@ -206,75 +308,64 @@ const server = http.createServer((req, res) => {
     // Parse URL
     const url = new URL(req.url, `http://localhost:${PORT}`);
 
-    // ============ GOOGLE SHEETS API ENDPOINT ============
+    // ============ COLLECTIONS (LAYER LIST) ENDPOINT ============
+    // Returns every registered layer with its record count, so the front end can
+    // build layer toggles without hardcoding names.
+    if (req.method === 'GET' && url.pathname === '/api/collections') {
+        Promise.all(COLLECTIONS.map(async (c) => {
+            let count = 0;
+            try { count = (await loadCollection(c)).length; }
+            catch (e) { console.error(`Collection "${c.id}" failed to load:`, e.message); }
+            return {
+                id: c.id,
+                name: c.name,
+                description: c.description,
+                hasSheet: Boolean(c.sheetId),
+                count
+            };
+        })).then((collections) => {
+            res.setHeader('Content-Type', 'application/json');
+            res.writeHead(200);
+            res.end(JSON.stringify({ collections }));
+        });
+        return;
+    }
+
+    // ============ PHOTOS ENDPOINT ============
+    // GET /api/photos                              -> all collections, each record tagged with Collection
+    // GET /api/photos?collection=maxwell-street    -> one layer only (comma-separate for several)
     if (req.method === 'GET' && url.pathname === '/api/photos') {
-        const sheetsUrl = new URL(GOOGLE_SHEETS_CSV_URL);
+        const requested = (url.searchParams.get('collection') || '')
+            .split(',').map(s => s.trim()).filter(Boolean);
 
-        const options = {
-            hostname: sheetsUrl.hostname,
-            path: sheetsUrl.pathname + sheetsUrl.search,
-            method: 'GET',
-            headers: {
-                'User-Agent': 'ChiBot/1.0'
-            }
-        };
-
-        const apiReq = https.request(options, (apiRes) => {
-            // Handle redirects (Google often redirects)
-            if (apiRes.statusCode === 302 || apiRes.statusCode === 301) {
-                const redirectUrl = new URL(apiRes.headers.location);
-                const redirectOptions = {
-                    hostname: redirectUrl.hostname,
-                    path: redirectUrl.pathname + redirectUrl.search,
-                    method: 'GET',
-                    headers: { 'User-Agent': 'ChiBot/1.0' }
-                };
-
-                https.request(redirectOptions, (redirectRes) => {
-                    let data = '';
-                    redirectRes.on('data', chunk => { data += chunk; });
-                    redirectRes.on('end', () => {
-                        try {
-                            const jsonData = parseCSV(data);
-                            res.setHeader('Content-Type', 'application/json');
-                            res.writeHead(200);
-                            res.end(JSON.stringify(jsonData));
-                        } catch (e) {
-                            console.error('CSV parse error:', e);
-                            res.writeHead(500);
-                            res.end(JSON.stringify({ error: 'Failed to parse spreadsheet data' }));
-                        }
-                    });
-                }).on('error', (e) => {
-                    res.writeHead(500);
-                    res.end(JSON.stringify({ error: e.message }));
-                }).end();
+        let selected = COLLECTIONS;
+        if (requested.length > 0) {
+            const unknown = requested.filter(id => !COLLECTIONS.some(c => c.id === id));
+            if (unknown.length > 0) {
+                res.setHeader('Content-Type', 'application/json');
+                res.writeHead(404);
+                res.end(JSON.stringify({
+                    error: `Unknown collection: ${unknown.join(', ')}`,
+                    available: COLLECTIONS.map(c => c.id)
+                }));
                 return;
             }
+            selected = COLLECTIONS.filter(c => requested.includes(c.id));
+        }
 
-            let data = '';
-            apiRes.on('data', chunk => { data += chunk; });
-            apiRes.on('end', () => {
-                try {
-                    const jsonData = parseCSV(data);
-                    res.setHeader('Content-Type', 'application/json');
-                    res.writeHead(200);
-                    res.end(JSON.stringify(jsonData));
-                } catch (e) {
-                    console.error('CSV parse error:', e);
-                    res.writeHead(500);
-                    res.end(JSON.stringify({ error: 'Failed to parse spreadsheet data' }));
-                }
-            });
-        });
-
-        apiReq.on('error', (error) => {
-            console.error('Google Sheets request error:', error);
+        loadCollections(selected).then((records) => {
+            res.setHeader('Content-Type', 'application/json');
+            res.writeHead(200);
+            res.end(JSON.stringify({
+                collections: selected.map(c => c.id),
+                count: records.length,
+                records
+            }));
+        }).catch((error) => {
+            console.error('Photos endpoint error:', error);
             res.writeHead(500);
             res.end(JSON.stringify({ error: error.message }));
         });
-
-        apiReq.end();
         return;
     }
 
@@ -392,10 +483,13 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, () => {
     console.log(`\n🚀 ChiBot Proxy Server running at http://localhost:${PORT}`);
     console.log('📍 Endpoints:');
-    console.log('   GET  /api/photos  - Fetch museum photos from Google Sheets');
-    console.log('   POST /api/chat    - Send messages to Claude AI');
-    console.log('   POST /api/search  - Search encyclopedia entries');
-    console.log('\n✅ Using Google Sheets as database');
-    console.log(`📊 Spreadsheet ID: ${GOOGLE_SHEETS_ID}`);
+    console.log('   GET  /api/collections            - List map layers (collections)');
+    console.log('   GET  /api/photos[?collection=id] - Fetch photos, all layers or one');
+    console.log('   POST /api/chat                   - Send messages to Claude AI');
+    console.log('   POST /api/search                 - Search encyclopedia entries');
+    console.log('\n✅ Using one Google Sheet per collection');
+    for (const c of COLLECTIONS) {
+        console.log(`   🗂  ${c.id}: ${c.sheetId ? 'sheet ' + c.sheetId : 'NO SHEET YET (set ' + c.id.toUpperCase().replace(/-/g, '_') + '_SHEET_ID in .env)'}`);
+    }
     console.log(`📚 Encyclopedia: ${encyclopediaEntries.length} entries loaded\n`);
 });
