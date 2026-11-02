@@ -188,6 +188,84 @@
             letter-spacing: 0.1em;
         }
 
+        .collection-filter-section {
+            margin-top: 18px;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+        }
+
+        .collection-filter-title {
+            margin-bottom: 10px;
+            color: var(--text-secondary);
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+
+        .collection-filters {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 8px;
+        }
+
+        .collection-filter-button {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 5px;
+            width: 100%;
+            min-width: 0;
+            padding: 8px 10px;
+            border: 1px solid var(--border);
+            border-radius: 999px;
+            background: var(--bg-elevated);
+            color: var(--text-secondary);
+            font-family: 'DM Sans', sans-serif;
+            font-size: 0.72rem;
+            line-height: 1.2;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .collection-filter-button:hover {
+            border-color: var(--gold);
+            color: var(--text-primary);
+        }
+
+        .collection-filter-button.active {
+            border-color: var(--collection-color, var(--gold));
+            background: var(--collection-color, var(--gold));
+            color: #fff;
+        }
+
+        .collection-filter-name {
+            min-width: 0;
+            overflow-wrap: anywhere;
+        }
+
+        .collection-filter-count {
+            font-size: 0.65rem;
+            opacity: 0.8;
+            flex-shrink: 0;
+        }
+
+        .collection-filter-swatch {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--collection-color, var(--gold));
+            flex-shrink: 0;
+        }
+
+        .collection-filter-status {
+            margin: 10px 0 0;
+            color: var(--text-muted);
+            font-size: 0.7rem;
+            line-height: 1.4;
+        }
+
         /* ===== LOADING OVERLAY ===== */
         .loading-overlay {
             position: fixed;
@@ -825,6 +903,8 @@
                 right: 16px;
                 left: 16px;
                 max-width: none;
+                max-height: calc(100vh - 32px);
+                overflow-y: auto;
             }
         }
 
@@ -952,6 +1032,12 @@
             <span class="photo-count-label">Historical photographs</span>
         </div>
 
+        <section class="collection-filter-section" aria-label="Map layer filters">
+            <div class="collection-filter-title">Map layers</div>
+            <div class="collection-filters" id="collectionFilters" role="group" aria-label="Filter photos by collection"></div>
+            <p class="collection-filter-status" id="collectionFilterStatus">Loading collections...</p>
+        </section>
+
         <p style="margin-top: 16px; font-size: 0.8rem;">
             Explore Chicago's past. Click any marker to view historical photos and Street View time travel.
         </p>
@@ -1019,6 +1105,11 @@
         let currentPanorama = null;
         let map;
         let museumData = []; // Store museum data for AI context
+        let allMuseumRecords = [];
+        let collections = [];
+        let selectedCollectionIds = new Set();
+        let markerLayerGroup;
+        const collectionColors = ['#60a5fa', '#f87171', '#047857', '#6d28d9', '#be185d', '#475569'];
         let conversationHistory = [];
         let currentMode = 'chat'; // 'chat' or 'research'
         let currentSelectedPhoto = null; // Track which photo user is viewing
@@ -1031,6 +1122,7 @@
                 attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
                 maxZoom: 19
             }).addTo(map);
+            markerLayerGroup = L.layerGroup().addTo(map);
             
             fetchMuseumPhotos();
         }
@@ -1062,6 +1154,8 @@
         // Status elements
         const statusElement = document.getElementById('status');
         const photoCountElement = document.getElementById('photoCount');
+        const collectionFiltersElement = document.getElementById('collectionFilters');
+        const collectionFilterStatusElement = document.getElementById('collectionFilterStatus');
         const statusIndicator = document.getElementById('status-indicator');
         const loadingOverlay = document.getElementById('loading-overlay');
         const loadingBar = document.getElementById('loading-bar');
@@ -1220,6 +1314,17 @@ async function fetchMuseumPhotos() {
         updateStatus('Connecting to archive...');
         updateLoadingBar(10, 'Connecting to archive...');
 
+        const collectionsResponse = await fetch(`${SERVER_URL}/api/collections`);
+        if (!collectionsResponse.ok) {
+            throw new Error(`Collections API Error: ${collectionsResponse.status} ${collectionsResponse.statusText}`);
+        }
+        const collectionsData = await collectionsResponse.json();
+        if (!Array.isArray(collectionsData.collections)) {
+            throw new Error('Collections API returned an invalid response');
+        }
+        collections = collectionsData.collections;
+        selectedCollectionIds = new Set(collections.map(collection => collection.id));
+
         let allRecords = [];
         let offset = null;
 
@@ -1234,6 +1339,9 @@ async function fetchMuseumPhotos() {
             }
 
             const data = await response.json();
+            if (!Array.isArray(data.records)) {
+                throw new Error('Photos API returned an invalid response');
+            }
             allRecords.push(...data.records);
             offset = data.offset; // Will be undefined when no more pages
 
@@ -1244,25 +1352,18 @@ async function fetchMuseumPhotos() {
 
         } while (offset);
 
-        if (allRecords.length > 0) {
-            museumData = allRecords;
+        allMuseumRecords = allRecords;
+        renderCollectionFilters();
 
-            updateLoadingBar(80, 'Processing locations...');
-            await new Promise(r => setTimeout(r, 300)); // Brief pause for UX
+        updateLoadingBar(80, 'Processing locations...');
+        await new Promise(r => setTimeout(r, 300)); // Brief pause for UX
 
-            displayPhotosOnMap(allRecords);
+        applyCollectionFilter();
+        updateLoadingBar(100, allRecords.length ? 'Archive loaded' : 'No data found');
+        updateStatus(allRecords.length ? 'Archive connected' : 'No photographs found', allRecords.length === 0);
 
-            updateLoadingBar(100, 'Archive loaded');
-            updateStatus('Archive connected');
-            photoCountElement.textContent = allRecords.length;
-
-            // Hide loading overlay with slight delay for smooth transition
-            setTimeout(hideLoadingOverlay, 500);
-        } else {
-            updateStatus('No photographs found', true);
-            updateLoadingBar(100, 'No data found');
-            setTimeout(hideLoadingOverlay, 1000);
-        }
+        // Hide loading overlay with slight delay for smooth transition
+        setTimeout(hideLoadingOverlay, 500);
 
     } catch (error) {
         console.error('Error fetching data:', error);
@@ -1271,11 +1372,91 @@ async function fetchMuseumPhotos() {
         setTimeout(hideLoadingOverlay, 1500);
     }
 }
+
+function getCollectionColor(collectionId) {
+    const index = collections.findIndex(collection => collection.id === collectionId);
+    return index < 0 ? '#475569' : collectionColors[index % collectionColors.length];
+}
+
+function renderCollectionFilters() {
+    collectionFiltersElement.replaceChildren();
+
+    const addFilterButton = (label, count, collectionId, isAll = false) => {
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.className = 'collection-filter-button';
+        button.dataset.collectionId = collectionId || '';
+        button.setAttribute('aria-pressed', 'false');
+        button.style.setProperty('--collection-color', isAll ? 'var(--gold)' : getCollectionColor(collectionId));
+
+        const swatch = document.createElement('span');
+        swatch.className = 'collection-filter-swatch';
+        swatch.setAttribute('aria-hidden', 'true');
+        button.append(swatch);
+
+        const name = document.createElement('span');
+        name.className = 'collection-filter-name';
+        name.textContent = label;
+        button.append(name);
+
+        const countLabel = document.createElement('span');
+        countLabel.className = 'collection-filter-count';
+        countLabel.textContent = count;
+        button.append(countLabel);
+
+        button.addEventListener('click', () => {
+            if (isAll) {
+                selectedCollectionIds = new Set(collections.map(collection => collection.id));
+            } else if (selectedCollectionIds.has(collectionId)) {
+                selectedCollectionIds.delete(collectionId);
+            } else {
+                selectedCollectionIds.add(collectionId);
+            }
+            applyCollectionFilter();
+        });
+
+        collectionFiltersElement.append(button);
+    };
+
+    addFilterButton('All', allMuseumRecords.length, null, true);
+    collections.forEach(collection => {
+        addFilterButton(collection.name, collection.count, collection.id);
+    });
+    updateCollectionFilterButtons();
+}
+
+function updateCollectionFilterButtons() {
+    const allSelected = selectedCollectionIds.size === collections.length;
+    collectionFiltersElement.querySelectorAll('.collection-filter-button').forEach(button => {
+        const isAll = !button.dataset.collectionId;
+        const isActive = isAll ? allSelected : selectedCollectionIds.has(button.dataset.collectionId);
+        button.classList.toggle('active', isActive);
+        button.setAttribute('aria-pressed', String(isActive));
+    });
+}
+
+function applyCollectionFilter() {
+    const allSelected = selectedCollectionIds.size === collections.length;
+    const visibleRecords = allSelected
+        ? allMuseumRecords
+        : allMuseumRecords.filter(record => selectedCollectionIds.has(record.fields.Collection));
+
+    museumData = visibleRecords;
+    photoCountElement.textContent = visibleRecords.length;
+    collectionFilterStatusElement.textContent = allSelected
+        ? `Showing all ${collections.length} collections`
+        : `Showing ${selectedCollectionIds.size} of ${collections.length} collections`;
+    updateCollectionFilterButtons();
+    displayPhotosOnMap(visibleRecords);
+}
         
         // Display photos as markers on map
         // Display photos as markers on map - GROUPED BY LOCATION WITH CAROUSEL
 // Display photos as markers on map - GROUPED BY LOCATION WITH SLIDER
 function displayPhotosOnMap(records) {
+    markerLayerGroup.clearLayers();
+    currentSelectedPhoto = null;
+
     // Group photos by location
     const locationGroups = {};
     
@@ -1292,12 +1473,14 @@ function displayPhotosOnMap(records) {
             lng = -87.6298 + (index * 0.001);
         }
         
-        const locationKey = `${lat.toFixed(5)},${lng.toFixed(5)}`;
+        const collectionId = fields.Collection || '';
+        const locationKey = `${lat.toFixed(5)},${lng.toFixed(5)},${collectionId}`;
         
         if (!locationGroups[locationKey]) {
             locationGroups[locationKey] = {
                 lat: lat,
                 lng: lng,
+                collectionId,
                 photos: []
             };
         }
@@ -1318,14 +1501,14 @@ function displayPhotosOnMap(records) {
     // Create markers for each location group
     Object.values(locationGroups).forEach((location, locIndex) => {
         const photoCount = location.photos.length;
+        const markerColor = getCollectionColor(location.collectionId);
         
-        // Warm subtle marker design with thin black border
         const marker = L.marker([location.lat, location.lng], {
             icon: L.divIcon({
                 className: 'custom-marker',
                 html: `<div style="
-                    background: #fff;
-                    color: #5c5245;
+                    background: ${markerColor};
+                    color: #fff;
                     width: 32px;
                     height: 32px;
                     border-radius: 50%;
@@ -1333,14 +1516,14 @@ function displayPhotosOnMap(records) {
                     align-items: center;
                     justify-content: center;
                     font-size: 14px;
-                    border: 1px solid #2c2416;
-                    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+                    border: 2px solid #fff;
+                    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
                     transition: all 0.2s ease;
                 ">📷</div>`,
                 iconSize: [34, 34],
                 iconAnchor: [17, 17]
             })
-        }).addTo(map);
+        }).addTo(markerLayerGroup);
         
         const streetViewId = `streetview-${locIndex}`;
         const carouselId = `carousel-${locIndex}`;
